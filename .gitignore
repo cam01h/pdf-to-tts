@@ -1,0 +1,13 @@
+# venv
+.venv/
+.markdownlint.json
+
+# planning docs
+plan.md
+
+# python
+__pycahe__/
+
+# outputfiles
+output/wav/
+output/*.mp3
