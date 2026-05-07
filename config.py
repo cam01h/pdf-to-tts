@@ -1,8 +1,5 @@
 from pathlib import Path
 
-# Config variables
-EXTRACTION_MARGINS = (0, 50, 0, 50)
-
 # File Paths
 PROJECT_ROOT = Path(__file__).parent
 OUTPUT_DIR = PROJECT_ROOT / "outputs"
