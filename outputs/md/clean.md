@@ -1,31 +1,31 @@
 
-## Isle of Man National Risk Assessment Legal Persons and Arrangements
-## PURPOSE
+Isle of Man National Risk Assessment Legal Persons and Arrangements
+PURPOSE
 This is the Isle of Man’s first standalone Legal Persons and Arrangements National Risk Assessment, forming part of a suite of National Risk Assessments under the Financial Crime Strategy 2024–2026.
 It identifies money laundering and terrorist financing risks linked to legal persons and arrangements, evaluates vulnerabilities, and recommends actions to strengthen controls.
-## KEY CONTEXT
-## WHY IT MATTERS
+KEY CONTEXT
+WHY IT MATTERS
 The Isle of Man as an international finance centre: Ranked 51st on the Global Financial Centres Index (Sept 2025).
 Sectors include Banking, Insurance, Investment, Trust and Corporate Service Providers, and Professional Firms (e.g. lawyers and accountants).
 Customer Base: Predominantly non-resident, money laundering exposure mainly from foreign predicate offences.
 Methodology: World Bank framework; FATF guidance; extensive data from Isle of Man-regulated trust and corporate service providers, regulators, and law enforcement.
-## OVERALL RISK RATINGS
+OVERALL RISK RATINGS
 Legal Persons and Arrangements feature in 14.5% of SARs, but account for 9.4% of the total customer base of the Island (natural and non-natural persons combined). 36.7% of Mutual Legal Assistance requests involve Legal Persons and Arrangements. 45.7% of all Registrable Beneficial Owners have a country of residence outside of the Isle of Man.
 Complex, multi-jurisdictional structures are a notable primary risk driver.
-## LEGAL PERSONS AND ARRANGEMENTS – SCALE
+LEGAL PERSONS AND ARRANGEMENTS – SCALE
 Money Laundering Threat: High - 1931 Act Companies: 37.7% of overall total; 71.8% of Registrable Beneficial Owners resident in IOM.
 Terrorist Financing Threat: Medium Low National Vulnerability: ML – Medium High; TF – Medium 2006 Act Companies: 24.5% of overall total; 76.6% Registrable Beneficial Owners resident overseas.
 Trusts: 26.4% of overall total; 10,596 trusts, all managed/administered by TCSPs.
 Foreign Legal Persons: 9.1% of overall total; significant cross-border exposure.
 Other entities (Foundations, limited liability companies (LLCs), Limited Partnerships): Small in number (2.3% of the overall total of Legal Persons and Arrangements) therefore carry limited risk.
-## KEY THREATS
+KEY THREATS
 Money Laundering: Placement and layering of illicit funds via Legal Persons and Arrangements; possible abuse of complex structures, shell/sham companies, trusts, and nominee arrangements; emerging risks: AI-driven obfuscation, digital currencies.
 International Cooperation: Exchange of Notes with UK; EOIR, FATCA, and CRS frameworks in place.
 Domestic Coordination: Strong interagency collaboration; Public-Private Partnership initiatives.
-## RECOMMENDED ACTIONS
+RECOMMENDED ACTIONS
 - Enhance understanding of complex structures through additional typologies and possible future data collection. - Consider bespoke NRA on complex structures.
 Terrorist Financing: Lower risk but includes shell/ front companies and trade-based methods; IOM as a possible transit jurisdiction for overseas terrorist financing flows.
-## TYPOLOGIES
+TYPOLOGIES
 Multi-jurisdictional splitting of entities/assets and complex structures.
 Foreign ownership/control via shell companies.
 Use of trusts to potentially obscure beneficial ownership.
@@ -33,15 +33,15 @@ Fake identification during entity formation.
 Review scope of BOA for foreign-registered companies.
 Update Registrable Beneficial Ownership definition (≥25%) and guidance on ‘nature of interest’.
 Strengthen penalties for late filings and improve Companies Registry systems.
-## ARTIFICIAL INTELLIGENCE
+ARTIFICIAL INTELLIGENCE
 Artificial intelligence is an emerging risk multiplier for LPAs.
 Criminals are using AI to create synthetic identities and complex structures, while regulators and industry must leverage AI-driven analytics to strengthen beneficial ownership transparency and resilience.
-## MITIGATING MEASURES
-## SUMMARY
+MITIGATING MEASURES
+SUMMARY
 Beneficial Ownership Act 2017: Central database live since July 2017; Nominated Officer required for all entities subject to the Act; TCSPs act as Nominated Officer for 54.8% of companies; verification checks: 100% of non-TCSP submissions and 25% of TCSP submissions sampled.
 Regulation & Supervision: TCSPs subject to comprehensive AML/CFT regulation and proactive FSA oversight; civil penalties introduced for BOA breaches (2022); £65,000 issued in 2024.
 The Isle of Man remains a well-regulated international finance centre, but its exposure to foreign predicate offences and seemingly complex structures requires ongoing vigilance, robust beneficial ownership transparency, and continued proactive collaboration between government, regulators, and industry.
-## Ministerial Introduction
+Ministerial Introduction
 Within our Island Plan, we lay the foundations to make the Isle of Man a more attractive and prosperous place to live and work, which in turn will sustain and grow productive businesses, services, and society.
 Minister for Justice and Home Affairs **Hon Jane Poole-Wilson MHK** In support of our strategy, we prioritise a strong and diverse economy, of which a key pillar is our Isle of Man Financial Crime Strategy.
 We are committed to combatting all financial crime and upholding international standards.
@@ -56,14 +56,14 @@ There will be outreach to industry in support of the publication of this documen
 As a responsible jurisdiction, our message is clear: we will not tolerate those who seek to commit crime either on or through our Island.
 As we take an all-Island approach to tackling all types of financial crime, I wish to express my gratitude to everyone who has supported the development of our first standalone Legal Persons and Arrangements NRA, in particular the Trust and Corporate Service Providers sector who have generously supported this work with their time, expertise, and data.
 We are committed to combatting all financial crime and upholding international standards.”
-## Executive summary
+Executive summary
 The Isle of Man (IOM) is an established international financial centre (IFC) with sectors including Banking, Insurance, Investment, Trust and Corporate Service Providers (TCSPs), and professional firms.
 The Island is home to a number of global financial services firms, ranking 51st on the Global Financial Centres Index published in September 2025.
 Like other IFCs, the IOM’s customer base is predominantly nonresident.
 Although there is a risk of money laundering (ML) from the proceeds of domestic predicates, the IOM’s predominantly non-resident customer base means that criminal property at risk of being laundered in the IOM is likely to have originated from foreign predicate offending.
 The Government’s Financial Crime Strategy 2024–2026 and the strategy and policies of law enforcement, the regulators, and relevant bodies are structured and resourced with this in mind.
 Further insight into the IOM is provided in “A Profile of the Isle of Man 2025”.
-## ISLE OF MAN’S RISK UNDERSTANDING
+ISLE OF MAN’S RISK UNDERSTANDING
 The IOM’s understanding of risk has been enhanced over recent years by the Government, agencies, regulators, and industry working closely together.
 This has collectively increased their understanding of the risks from money laundering and terrorist financing (TF).
 This has been supported by the publication of National Risk Assessments (NRAs), which have been used to allocate resources to prevent ML/TF.
@@ -85,10 +85,10 @@ The IOM Financial Services Authority (FSA) holds the underlying data supplied by
 In addition, data from the FSA, Companies Registry, LEAs, and the Income Tax Division (ITD) provides this NRA with a rich source of data to call upon.
 Support was also provided via the Legal, Accountancy/Tax, and Banking sectors.
 In collaboration with industry and based on the extensive data available (see Chapter 1.4), the IOM is able to demonstrate its understanding of the ML and TF risks from legal persons and arrangements.
-## LEGAL PERSONS AND ARRANGEMENT ENTITY TYPES AND THEIR MATERIALITY TO THE IOM
+LEGAL PERSONS AND ARRANGEMENT ENTITY TYPES AND THEIR MATERIALITY TO THE IOM
 The IOM supports a number of legal persons and arrangements, which have a variety of characteristics, as explained in Chapters 4, 5, and 6.
 As summarised in Figure 1-4 in Chapter 1, the most frequently used entities, which together account for 97.7% of all LPAs, are: 1931 Act companies (37.7% of total ), primarily used by local trading companies, with 71.8% of registrable beneficial owners (RBO) with the IOM as their country of residence 2006 Act companies (24.5% of total), which can only be incorporated by licensed IOM Registered Agents (which must be regulated by the FSA for Class 4 activity); 76.6% of RBOs have an overseas (non-IOM) country of residence foreign legal persons (9.1% of total), comprising all foreign companies linked to the IOM; The majority of foreign legal persons will be linked with a TCSP or other party that is subject to the AML/CFT framework. trusts (26.4% of total); those managed and administered by the TCSP sector are a mixture of domestic and foreign trusts
-## NATIONAL THREATS
+NATIONAL THREATS
 The IOM faces a High ML threat and a Medium Low TF threat from LPAs.
 This assessment considers enforcement data, typologies, and expert input.
 ML continues to present the higher risk to the IOM set against an increasing threat landscape since the publication of the last ML/TF NRA in 2020.
@@ -120,12 +120,12 @@ Working with the TCSPs, the structure diagrams were reviewed to reveal two commo
 Potential vulnerabilities include limited-service offerings (e.g., Registered Office, Registered Agent only); multiple directorships without adequate oversight, including those that sit outside of the regulated TCSP sector; and resistance by clients to regularly updating tax advice.
 The increasing use of AI by criminals and the potential misuse of digital currencies further complicate the threat landscape.
 Documented typologies include: multi-jurisdictional splitting of entities and assets foreign ownership/control via shell companies use of trusts or foundations to obscure beneficial ownership fake identification during entity formation
-## SUMMARY OF THREAT LANDSCAPE
+SUMMARY OF THREAT LANDSCAPE
 The IOM’s ML threat is primarily external, driven by the laundering of the proceeds of foreign predicate offences and complex cross-border structures if they are not properly understood.
 While TF risks are significantly lower, potential vulnerabilities do exist.
 The effectiveness of mitigation in many cases depends on robust supervision of TCSPs by the FSA, enhanced data systems for beneficial ownership, and continued collaboration between regulators, law enforcement, and industry.
 Professional firms remain a critical line of defence but also a potential point of failure if controls are inadequate.
-## MITIGATING MEASURES AND NATIONAL VULNERABILITIES
+MITIGATING MEASURES AND NATIONAL VULNERABILITIES
 Overall, the national vulnerability to ML from legal persons and arrangements to the IOM is rated as Medium High.
 The TF vulnerability is rated as Medium.
 The jurisdiction’s attractiveness for non-resident incorporation (ANRI) is high, driven by the large and influential TCSP sector, experienced base of professional advisers, zero corporate tax on many activities, and strong political and economic stability.
@@ -134,7 +134,7 @@ Beneficial ownership information is held in a number of locations and readily av
 Figure A, which is a simplified version of the fuller schematic in Appendix 1, shows where law enforcement can access this information, as well as the materiality for each entity type.
 Where information is not held on the central Beneficial Ownership database owned by Companies Registry, it is held by ITD or the TCSP (or another relevant person that has the entity as its customer, such as a bank).
 The strength of mitigating measures is aimed at determining the strength of existing controls against abuse of legal structures in the IOM; this is rated as Medium for ML and Medium High for TF.
-## MULTI-PRONGED APPROACH TO BENEFICIAL OWNERSHIP
+MULTI-PRONGED APPROACH TO BENEFICIAL OWNERSHIP
 The IOM has a multi-pronged approach to beneficial ownership, with controls undertaken by Companies Registry; FSA customer due diligence (CDD) requirements imposed by law; FSA inspections; law enforcement powers; ITD controls; Obliged Entity access; Nominated Officer duties; and TCSP policies and procedures for onboarding and record keeping, also required by law.
 The Beneficial Ownership Act 2017 (BOA) places IOM corporate and legal entities under the same legislation regarding RBO.
 It created a central database for the recording of RBO of legal persons.
@@ -166,7 +166,7 @@ In addition, for approximately 15.5% of companies, no RBO is held with Companies
 The relatively large percentage of TCSP-administered companies listed without any RBO(s) (21.6%) may be indicative of the presence of a discretionary trust in the structure above an IOM legal entity.
 Figures 4-6a and 4-6b in Chapter 4 show the level of overseas RBO by legal person type and also overall for the IOM to provide context, noting that 1931 Act Companies and 2006 Act Companies account for the overwhelming majority of overseas RBO.
 The FSA has an extensive range of outreach activities regarding beneficial ownership over the last 2 years (see Chapter 3.2.7).
-## OTHER MITIGATING MEASURES
+OTHER MITIGATING MEASURES
 The concept of a Nominee Director does not appear in IOM law.
 Where a TCSP provides a director(s) for a client company as part of its service offering to the customer, such directors are subject to the same common law duties as any other director; they must not restrict their powers to exercise their judgement independently.
 While bearer shares are prohibited and all directors have a clear fiduciary duty, nominee shareholder arrangements outside regulated business remain a residual risk.
@@ -180,8 +180,8 @@ Ongoing global trends, such as the growth in cross-border business, development 
 Domestic interagency cooperation is highly effective, aided by the jurisdiction’s small size and formalised forums such as the AML Group and public–private partnership initiatives.
 International information exchange mechanisms, including the exchange of notes with the UK and participation in Foreign Account Tax Compliance Act (FATCA)/Common Reporting Standard (CRS) frameworks, function well and support transparency.
 A summary of the AML/CFT framework is summarised in Figure 1-5 in Chapter 1.
-## DOMESTIC LEGAL PERSONS
-## 1931 Act companies
+DOMESTIC LEGAL PERSONS
+1931 Act companies
 There are two separate but co-existing companies law regimes that are in place which account for the overwhelming majority (98.4%) of domestic legal persons: Companies Acts 1931–2004 (collectively referred to as the “1931 Act”) and the Companies Act 2006.
 Both allow companies limited by shares, guarantees, or unlimited liability. 1931 Act companies require at least two individual directors, a company secretary, and a resident Nominated Officer under the BOA.
 Corporate directors are prohibited.
@@ -203,7 +203,7 @@ Cross-border risk is limited as most activities occur in the IOM or the UK.
 However, 22.1% of foreign Politically Exposed Persons (PEPs) identified by TCSPs are linked to these companies, mainly from the UK, Saudi Arabia, and the United Arab Emirates (UAE).
 TCSP oversight (and FSA supervision of TCSP sector) and verification checks by Companies Registry act as key mitigants.
 The overall ML risk rating is Medium, and the TF risk rating is Medium Low.
-## 2006 Act companies
+2006 Act companies
 The 2006 Companies Act introduced more simplified corporate vehicles requiring incorporation through regulated TCSPs holding a Class 4 licence with the FSA.
 These companies must appoint a resident Nominated Officer and a Registered Agent, ensuring compliance with the BOA and AML/CFT obligations.
 As of December 2024, there were 9,831 registered companies, making them the second-most common legal person in the jurisdiction.
@@ -213,7 +213,7 @@ Law enforcement data indicates low SAR incidence (3% specifically referencing a 
 Foreign PEP (FPEP) exposure is comparatively significant, with 50.8% of foreign PEPs recorded by TCSPs in the 2025 LPA Return linked to 2006 Act companies.
 Overall, reliance on TCSP oversight mitigates many risks but concentrates systemic risk if TCSP compliance weakens.
 The overall ML risk rating is Medium, and the TF risk rating is Medium Low.
-## Foundations
+Foundations
 Foundations registered under the Foundations Act 2011 are distinct legal entities with separate personality, introduced in 2012.
 They lack shareholders and operate through a Council to pursue specific objects: charitable, private, or commercial.
 Establishment requires a Registered Agent (a TCSP), who ensures AML/CFT compliance and beneficial ownership reporting.
@@ -222,26 +222,26 @@ Foundations are often used for wealth preservation, philanthropy, or as Special 
 Risk factors include overseas beneficial ownership (47.1%, mainly in Ireland and the UK) and structural complexity, but these are mitigated by TCSP oversight and regulatory obligations.
 Law enforcement data shows minimal ML/TF typologies (1% SARs specifically reference a Foundation, no prosecutions), and cross-border exposure is low.
 Overall, Foundations present a Medium Low risk for both money laundering and terrorist financing.
-## Limited liability companies
+Limited liability companies
 Limited liability companies under the Limited Liability Companies Act 1996 are separate legal entities offering limited liability and tax transparency, making them attractive for holding companies, joint ventures, asset protection, estate planning, and SPVs.
 As of December 2024, only 91 LLCs were registered (0.23% of all legal persons), but nearly 45% of their RBOs are overseas, with 6.1% in higher-risk jurisdictions.
 While law enforcement data shows low direct involvement in ML/TF cases, LLCs are specifically referenced in 4% of SARs – disproportionate given their small number, indicating potential occasional misuse in cross-border structures and high-value asset holdings.
 Reliance on TCSPs for compliance is significant, as over half of LLCs have TCSP involvement.
 Overall, LLCs present a Medium Low risk for both money laundering and terrorist financing.
-## Limited partnerships with legal personality
+Limited partnerships with legal personality
 Limited Partnerships with Legal Personality under the Partnership Act 1909 numbered 107 as of December 2024 (constituting 0.27% of all legal persons); they offer operational autonomy, such as owning assets and contracting, while maintaining tax transparency.
 They are primarily used for investment structures, asset holding, and joint ventures.
 Although they have a small domestic footprint, they exhibit international exposure, with 92.3% of RBOs based overseas, mainly in the UK and Ireland.
 Risk factors include cross-border ownership and concentration in high-value assets, but law enforcement data shows minimal involvement in ML/TF cases, and SARs specifically referencing partnerships average only 1%.
 Formation is straightforward, costs are comparable to other entities, and beneficial ownership information is regulated under the BOA.
 Overall, the ML and TF risk ratings are assessed as Medium Low, reflecting low materiality but moderate cross-border risk.
-## Industrial and building societies
+Industrial and building societies
 Governed primarily by the Industrial and Building Societies Acts of 1892, these societies are permitted to engage in specified industries and trades but cannot operate as banks.
 They are not subject to the BOA, meaning beneficial ownership details and Nominated Officers are not required.
 The structure is rarely used, with the last incorporation in 2016 (Manx Credit Union, later re-registered under the Credit Union Act).
 As of December 2024, only six societies exist, representing 0.01% of legal persons and arrangements, and are publicly listed.
 Due to their limited number and local profile, they pose a low risk for both ML and TF.
-## FOREIGN LEGAL PERSONS
+FOREIGN LEGAL PERSONS
 The IOM as an IFC commonly deals with foreign legal persons which are linked to TCSPs.
 Three main categories are: 1. foreign-registered companies – Incorporated abroad but registered under the Foreign Companies Act 2014 when they establish a place of business, or own land, in the IOM 2. foreign companies – IOM Tax Resident, incorporated abroad but centrally managed and controlled from the IOM 3. foreign companies – neither registered nor tax resident, but administered by IOM TCSPs The scale of foreign legal persons are: foreign-registered companies: 484 (numbers have been declining since 2020) foreign companies – IOM Tax Resident: 847 foreign companies: 2,332 (63.7% of foreign legal persons) A number of the key vulnerabilities in this area are: potentially opaque ownership as they sit outside the BOA, although TCSPs must hold the beneficial ownership data; and cross-border exposure (by jurisdiction of principal activity) concentrated in the UK (22.6%), USA (14%), and BVI (7.5%).
 Mitigants to the risks include: TCSP oversight, Economic Substance rules for taxresident entities, and international cooperation.
@@ -249,7 +249,7 @@ Inherently, foreign legal persons carry an additional cross-border threat to the
 Across the three foreign legal person types, there is exposure to 22 List B jurisdictions (see Appendix 7) but no List A exposure.
 Potential imported risks from top 5 jurisdictions (the UK, the US, Spain, the BVI, and the Cayman Islands) include: misuse of legal entities and complex structures professional enablers facilitating laundering real estate and luxury assets as laundering channels TCSPs are critical for risk mitigation.
 All three types are rated Medium High for their ML risk and Medium Low for TF risk.
-## DOMESTIC AND FOREIGN LEGAL ARRANGEMENTS
+DOMESTIC AND FOREIGN LEGAL ARRANGEMENTS
 Trusts separate the legal ownership of a variety of assets from the right to use and benefit from those assets.
 As stated by the FATF, they are widely used for asset protection, succession planning, tax optimisation, and privacy.
 IOM trust law is based on common law principles, supplemented by local statutes such as the Trustee Act 1961 and Trusts Act 1995.
@@ -265,7 +265,7 @@ Most assets (73%) and governing jurisdictions (58%) are IOM-based, followed by t
 Discretionary trusts dominate (41% of trusts, holding 78.5% of assets).
 Private trust companies (PTCs) are more niche (3.2% of trusts); they may be used by high-net-worth families for control and governance.
 The risks and threats are: Overall, trusts are rated Medium High for ML and Medium Low for TF.
-## Limited partnerships without legal personality and general partnerships
+Limited partnerships without legal personality and general partnerships
 Both limited partnership without legal personality and general partnerships are governed by the Partnership Act 1909 and are not separate legal entities.
 Assets and liabilities are held by partners directly.
 Limited partnerships require registration and must have at least one general partner with unlimited liability and one or more limited partners.
@@ -279,12 +279,12 @@ The number of each entity type is represented by the size of the circle in Figur
 Complex multi-layered structures and lack of central registration increase transparency challenges.
 IOM trust law is based on common law principles, supplemented by local statutes such as the Trustee Act 1961 and Trusts Act 1995.” Both this LPA NRA and the recently published TF NRA used World Bank methodology and tools for the analysis.
 Figure F shows the comparison of scores for threat and vulnerability in both risk assessments.
-## ARTIFICIAL INTELLIGENCE AND LPAS
+ARTIFICIAL INTELLIGENCE AND LPAS
 AI is emerging as both an enabler of financial crime and a tool for stronger compliance.
 Criminals are increasingly using AI to create synthetic identities, manipulate documents, and design complex, multi-jurisdictional structures that obscure beneficial ownership.
 These techniques amplify existing ML risks linked to foreign predicate offences and cross-border arrangements.
 At the same time, AI offers opportunities for regulators and industry to enhance detection through advanced analytics, deepfake screening, and structure risk scoring.
-## CONCLUSION
+CONCLUSION
 The global financial crime threat landscape continues to evolve and intensify, driven by increasing cross-border activity, technological advancements, and the growing sophistication of organised and transnational criminal networks.
 This trend is not unique to the IOM; rather, it reflects a broader international challenge faced by all IFCs.
 While the Island benefits from strong political and economic stability and a well-developed regulatory framework, its position as a global financial hub means it remains exposed to external risks, particularly those linked to foreign predicate offences and complex, multi-jurisdictional structures if they are not properly understood.
@@ -301,79 +301,79 @@ Looking ahead, maintaining a robust and adaptive risk management framework will 
 Continued investment in systems, data analytics, and interagency cooperation will be vital to address emerging typologies and technological developments, such as AI-driven obfuscation and digital assets.
 The IOM’s strategy must remain dynamic, informed by international standards and best practices, and supported by strong governance within the TCSP sector in particular.
 By reinforcing these measures, the Island can preserve its reputation as a well-regulated IFC while effectively managing the increasing complexity of global financial crime risks.
-## RECOMMENDED ACTIONS
+RECOMMENDED ACTIONS
 This LPA NRA identifies a number of areas where work could enhance the controls and help further mitigate the threats identified.
 Figure 1-7 in Chapter 1 shows the relationship between key national documents and how they link to the overall Our Island Plan, with the substantive actions from the NRAs being added to the National Action Plan, which will then be published.
 The areas for potential improvement have been aligned with the four strategic aims from the National Financial Crime Strategy, summarised below, which support the overall mission of ‘an all-Island approach to tackling financial crime’.
-## **Public sector and industry work together to achieve a common goal of meeting international standards.**
-## Complex Structures: Typologies (Chapter 2.3.2.1)
+**Public sector and industry work together to achieve a common goal of meeting international standards.**
+Complex Structures: Typologies (Chapter 2.3.2.1)
 For both authorities and industry, the understanding of complex structures is good but still developing.
 To further enhance the understanding, there should be the publication by the FIU of additional typologies. (Examples have been published in the FIU’s “Online Gambling: Red Flags for ML, TF and PF” document. )
-## Complex Structures: NRA (Chapter 2.3.2.1)
+Complex Structures: NRA (Chapter 2.3.2.1)
 Consideration to be given to the writing of a bespoke National Risk Assessment with analysis of complex structures with an IOM connection.
-## Complex Structures: Enhanced Data (Chapter 2.3.2.1)
+Complex Structures: Enhanced Data (Chapter 2.3.2.1)
 Any future data outreach requests to the TCSP sector should look at seeking further detail on complex structures (where available) so that a deeper understanding of all jurisdictions and asset types and locations is captured in the national data.
 The TCSP 2025 LPA Return did not seek details of every entity within all structures, which would have provided greater granularity on the ultimate asset, activity, and jurisdiction.
-## Affiliates: Typology (Chapter 2.4)
+Affiliates: Typology (Chapter 2.4)
 It is recommended that the FIU add a typology (or several) relating to affiliates in a future typology publication.
 Limited Services Offered by TCSPs: Registered Office, Registered Agent Service (Chapter 2.3.2.6) Limited services provision is widely regarded as posing a potentially higher inherent risk of ML/TF.
 The Financial Crime Partnership TCSP group have listed each limited service, the risk, and possible mitigation which may decrease the risk.
 It is recommended that the group publish a “hints and tips” paper including case studies, which will be shared from the FCP group with the ACSP.
-## Unlicensed Individuals Offering Multiple Directorships (Chapter 2.3.2.5)
+Unlicensed Individuals Offering Multiple Directorships (Chapter 2.3.2.5)
 There is a risk of unlicensed individuals offering multiple directorship services (beyond any applicable exemption or exclusion).
 The FSA continually monitors the perimeter for unlicensed TCSP activity.
 Companies Registry have recently started to monitor the perimeter and will raise a SAR with the FIU if required or advise the FSA if they suspect unlicensed TCSP activity is taking place.
 Figure 2-17 shows the number of companies registered per unique address.
 It is recommended that further work is undertaken by the FSA and Companies Registry to review this data for any possible outliers where non-TCSP addresses have multiple registered companies.
-## 1931 Act Companies Not Administered by a TCSP (Chapter 4.1.4)
+1931 Act Companies Not Administered by a TCSP (Chapter 4.1.4)
 Recognising that most (73%) 1931 Act companies are not administered by a TCSP, it is recommended that the authorities may wish to explore whether additional information could be obtained for these entities to support future risk analysis.
 This would enable further analysis on potential threats related to: common directors; multiple companies using the same Registered Office address; any form of administration by another professional under an applicable exemption/exclusion to licensing.
-## Non-TCSP Trustees (Chapter 6.4)
+Non-TCSP Trustees (Chapter 6.4)
 In addition to those involved in TCSPs, certain other parties may be permitted to act as trustee by way of business, utilising applicable exemption(s) from licensing provided in the Financial Services (Exemptions) Regulations 2011 – for example, ‘de-minimis activities’.
 These parties are still obliged to comply with the Code, and if they are registered as a Designated Non-Financial Business or Profession (DNFBP), they would be routinely supervised by the FSA in respect of AML/CFT.
 However, an action is recommended to continue to monitor those specified persons utilising such exemptions not subject to routine supervision by the FSA.
-## High-Risk Entities Not Managed by a TCSP (Chapter 3.3.3)
+High-Risk Entities Not Managed by a TCSP (Chapter 3.3.3)
 The FSA has undertaken a risk rating process on all legal entities on the Companies Registry, based on the beneficial ownership information that has been declared, and identified a very small number (c. 0.3%) of all legal persons that potentially pose a high risk but which are not managed by a TCSP.
 The FSA should continue developing a strategy for how it might review/inspect a proportion of these cases in respect of compliance with the requirements of the BOA.
-## **Actions are informed and driven by best practice and standards, both domestically and internationally.**
-## Methodical Tagging of Entity Types by Agencies (Chapter 1.4)
+**Actions are informed and driven by best practice and standards, both domestically and internationally.**
+Methodical Tagging of Entity Types by Agencies (Chapter 1.4)
 Across a number of the agencies, the methodical tagging of entity-types is incomplete in historical datasets; therefore, it is recommended that agencies look at how they can enhance the data going forward.
 This will allow LPA-specific key performance indicators (KPIs) to be enhanced and reported through governance.
 The FIU will also look at how their database(s) might be enhanced (Chapter 2.2.1) to provide more granular detail on SARs.
-## Foreign Legal Persons Administered by TCSPs (Chapter 5.1)
+Foreign Legal Persons Administered by TCSPs (Chapter 5.1)
 It is recommended that further analysis and possible consultation is undertaken on foreign legal persons which are administered by TCSPs in the IOM.
 Where central management and control is exercised in the IOM, such companies are considered to be tax resident and may also qualify as having “sufficient links” for the purposes of FATF Recommendation 24.
 In the case of the latter, ITD will already hold similar information to that required under the BOA.
 This analysis could consider whether there is a “sufficient link” and, if so, how tax and Recommendation 24 requirements might be aligned/streamlined to avoid double reporting.
 If further sufficient links elsewhere are identified from this analysis, then these categories will also be analysed further.
 For foreign-registered companies, Companies Registry are considering further analysis and a possible consultation to see if some categories or all of the companies should be added to the BOA, noting that ITD will already hold similar information to that required under the BOA.
-## Proposed Updating of the RBO Definition and Natures of Interest (Chapter 3.2.7)
+Proposed Updating of the RBO Definition and Natures of Interest (Chapter 3.2.7)
 It is recommended that the definition of RBO under Section 3 of the BOA be amended by secondary legislation to ensure greater alignment with the FATF requirements.
 This, including further consultation, will take place in 2026: The amendment will restrict the percentage threshold relevant to the direct or indirect ownership of a legal entity through shares to a maximum of 25%.
 The guidance will be revised to provide more clarity regarding the application of the percentage threshold and more generally how beneficial ownership must be determined.
-## **The Island is an active participant in the global fight against financial crime.**
-## Annual Returns Late Filing Penalties (Chapter 3.3.1)
+**The Island is an active participant in the global fight against financial crime.**
+Annual Returns Late Filing Penalties (Chapter 3.3.1)
 Companies Registry have the power to apply penalties if annual returns are filed late.
 Currently, the fines are £100 if late by 1–3 months and £250 if more than 3 months.
 It is recommended that these fines are reviewed to ensure they are sufficiently dissuasive.
 Consideration should also be given to late filing fees in respect of submissions required under the BOA.
-## Nominee Shareholders (Chapter 3.3.9.3)
+Nominee Shareholders (Chapter 3.3.9.3)
 The recommendation is to consider an update to the Companies Act 1931 and the Companies Act 2006 to require a person acting as a nominee shareholder, doing so other than by way of business, to give notice to the company and to the Companies Registry of the nominee status and the identity of the nominator.
 Companies Registry will hold that information as a matter of public record. **All stakeholders have the resources they need to effectively identify and respond to ML/TF/ PF threats.**
-## System Enhancements at Companies Registry (Chapter 3.3.1)
+System Enhancements at Companies Registry (Chapter 3.3.1)
 Companies Registry have invested over recent years in enhancing their people and systems; however, it is recommended that analysis is undertaken on the existing systems and if enhancements could be made which would further improve the controls applied by Companies Registry.
-## Review of Multiple Directorships in the TCSP sector (Chapter 2.3.2.5)
+Review of Multiple Directorships in the TCSP sector (Chapter 2.3.2.5)
 The number of controlled function role holders with client appointments in the TCSP sector was reviewed.
 For company directorships, 13.4% have 101 to 200 and 7.8% have more than 200.
 For trusteeships, 24.8% have 101 to 200 and 3.9% have more than 200.
 Further analysis should be considered in conjunction with the TCSP sector to better understand how firms monitor the number of roles an individual holds, in what capacity, and their ability to perform the roles when multiple positions are held in a professional capacity.
-## HOW INDUSTRY SHOULD USE THIS LPA NRA
+HOW INDUSTRY SHOULD USE THIS LPA NRA
 Businesses in the regulated sector are obliged to undertake and maintain a Business Risk Assessment (BRA) which must have regard to any relevant findings of the most recent NRA relating to the Island.
 Therefore, industry must be able to show how they have considered and mitigated the relevant risks identified in this NRA.
 Given a number of NRAs are being published over the course of a few months, it is acceptable to consider each NRA as it is published but update the overall BRA at its next formal review date.
 Consideration should also be given to the Customer Risk Assessment (CRA) and Technology Risk Assessment and if these require updating.
 Introduction
-## 1.1 Overview
+1.1 Overview
 The IOM is an established IFC with sectors including Banking, Insurance, Investment, TCSPs, and professional firms (e.g. lawyers and accountants).
 The Island is home to a number of global financial services firms, ranking 51st on the Global Financial Centres Index published in September 2025.
 Like other IFCs, the IOM’s customer base is predominantly nonresident.
@@ -416,7 +416,7 @@ Ultra-high-net-worth customers can have connections across jurisdictions to spre
 The IOM can be one of these jurisdictions in the customer’s portfolio.
 Government policy has played a role over many years in shaping a business-oriented environment, with streamlined company registration processes and a stable legal framework.
 The Island’s tax regime, featuring a 0% corporate tax rate for most sectors and a 10% rate for Banking and Retail, remains a factor for cross-border investors.”
-## 1.2 Legal persons and arrangement entity types and their materiality to the IOM
+1.2 Legal persons and arrangement entity types and their materiality to the IOM
 The IOM infrastructure supports a number of LPAs, which have a variety of characteristics, as explained in Chapters 4, 5, and 6.
 As displayed in Figure 1-4, the most frequently used entities are: companies linked to the IOM.
 The majority of foreign legal persons will be linked with a TCSP or other party that is subject to the AML/CFT framework. 1931 Act Companies (37.7% of total) – primarily used by local trading companies with 71.8% of RBO with the IOM as their country of residence - Trusts (26.4% of total) – the trusts managed and administered by the TCSP sector are a mixture of domestic and foreign trusts. 2006 Act companies (24.5% of total) – only licensed IOM Registered Agents can incorporate a 2006 Act Company. 76.6% of RBOs have an overseas (non-IOM) country of residence. foreign legal persons (9.1% of total) – comprising all foreign IOM trust law is based on common law principles, supplemented and enhanced by legislation which, for the most part, mirrors its English equivalents.
@@ -426,21 +426,21 @@ It created a central database for the recording of RBO of legal persons.
 The central database went live in July 2017.
 RBOs are located across 148 jurisdictions, which supports the position of the IOM as an IFC with substantial cross-border business.
 The most common reported jurisdictions for RBO are: the IOM (54.3%); UK (15.0%); and UAE (1.9%).
-## SCOPE
+SCOPE
 The following legal persons and arrangements are within scope of this NRA:
-## Domestic Legal Persons
+Domestic Legal Persons
 1931 Act companies The following are out of scope: - Sole Proprietorships, which is simply a legal term for an individual who is conducting business; - Business Name, where the Registration of Business Names Act 1918 applies to individuals/partnerships/companies operating under a name other than their own legal name; - Political Parties, under the Representation of the People Act 1995; - Those Incorporated by Statute, wherein a company is created and governed by specific legislation passed by the Isle of Man’s parliament, Tynwald, with the IOM Law Society being an example 2006 Act companies LLC Act companies Limited partnerships with legal personality Foundations Act foundations Other legal entity types referenced in FATF documents, such as Anstalt or Waqf, are not relevant as they do not exist in the IOM.
 Industrial and Building Societies
-## Foreign Legal Persons
+Foreign Legal Persons
 Foreign-registered companies Foreign companies (IOM tax resident) Foreign companies
-## Domestic and Foreign Legal Arrangements
+Domestic and Foreign Legal Arrangements
 IOM and non-IOM trusts The following are discussed but not analysed using World Bank methodology: Credit Unions: there is only one Limited Partnerships without legal personality are governed by the Partnership Act 1909.
 The partnership cannot own assets or incur liabilities in its own name, and assets/liabilities are held directly by the partners.
 The partnership is not a separate legal entity.
 General Partnerships are also governed by the Partnership Act 1909 and involve two or more individuals conducting business together with a view to profit.
 They are not separate legal entities and partners share liability and management responsibilities.
 From data provided by the TCSP sector on the legal persons and arrangements that they administer or manage, the principal activities of these are primarily asset-holding vehicles with assets across multiple jurisdictions, with the most significant being the IOM, UK, Republic of Ireland, and the US.
-## 1.3 Legal, supervisory, and law enforcement framework and risk understanding
+1.3 Legal, supervisory, and law enforcement framework and risk understanding
 Legal structures such as companies, trusts, and partnerships are essential for legitimate commerce but can be exploited for illicit purposes.
 Features such as separate legal personality, access to the financial system, and concealment of beneficial ownership make these entities attractive for laundering the proceeds of crime.
 Shell companies, nominee arrangements, and complex ownership chains are commonly used to obscure the identity of true owners, especially in jurisdictions with weak transparency frameworks.
@@ -456,15 +456,15 @@ As well as legislation relating to the individual entity types (see Chapters 4, 
 The FSA issues licences under the Financial Services Act 2008; Figure 1-6 shows the numbers over the last 5 years (2021–25) by activity class type, noting that some licenceholders have more than one class of licence.
 Figure 1-6 also shows the registrations under the Designated Businesses (Registration and Oversight) Act 2015 for the same period of time.
 Some designated businesses have more than one type of registered activity.
-## TCSP SECTOR
+TCSP SECTOR
 The TCSP sector is particularly important for legal persons and arrangements.
 Corporate Service Providers have been regulated and supervised in the IOM since October 2000 and Trust Service Providers since July 2005.
 Unlike in many other jurisdictions, regulation is not limited to compliance only with AML/CFT legislation, extending to prudential matters and conduct of business.
 The FSA also supervises the sector on a risk-based approach for AML/CFT compliance.
 TCSPs have Class 4 and/or Class 5 licences, as these allow (as detailed by the FSA ):
-## CLASS 4
+CLASS 4
 A licence to carry on the Class 4 regulated activity of Corporate Services permits a business operating in or from exclusions) to: provide services with respect to the formation, sale, transfer, or disposal of companies; provide Registered Offices or accommodation address facilities for a company; act as a “Registered Agent”; act as an officer of a company; act as a nominee shareholder/member of a company; provide administration services to a company; or provide similar services to the above in respect of a partnership.
-## CLASS 5
+CLASS 5
 A licence to carry on the Class 5 regulated activity of Trust Services permits a business operating in or from the Isle of Man (within certain criteria and with specified exclusions) to: act as trustee in relation to an express trust; provide trust administration services in relation to an express trust; act as a trust corporation; act as a protector in relation to an express trust; or act as an enforcer in relation to a purpose trust.
 The IOM TCSP sector is mature.
 There has been consolidation over time, with larger TCSPs buying up smaller firms to grow business.
@@ -488,7 +488,7 @@ The recently published TCSP Risk Assessment provides further insight into the se
 This risk assessment states: _“The TCSP sector continues to present one of the highest levels of ML risks owing to its international customer base, complex (or seemingly complex) multi-jurisdictional structures, exposure to high-risk customers (including foreign PEPs), involvement of introducers, and known typologies involving ML, fraud, and tax evasion.
 The risks reflect a persistent and, in some areas, increasing threat landscape.
 The higher risk rating is a reflection of the threats facing the sector and is not due to a reduction in sectoral controls, which are generally good.”_
-## IOM’S RISK UNDERSTANDING
+IOM’S RISK UNDERSTANDING
 The IOM’s understanding of risk has been enhanced over recent years by the Government, agencies, regulators, and industry working closely together.
 This has collectively increased their understanding of the risks from ML and TF.
 This has been supported by the publication of NRAs, which have been used to allocate resources to prevent ML/TF.
@@ -502,22 +502,22 @@ As part of this LPA NRA, consideration was given to the risks in other jurisdict
 Jersey and Guernsey were considered as they are the other two Crown Dependencies and there are a number of shared businesses and customers across the three jurisdictions.
 The UK was considered as the largest trading partner and key for many parts of the LPA NRA.
 Other jurisdictions where there was exposure through the entity/asset/beneficial owner were considered, including several countries and IFCs such as the USA, Spain, the BVI and the Cayman Islands.
-## 1.4 Methodology and data
+1.4 Methodology and data
 Strategic Objective 2 of the IOM Financial Crime Strategy 2024– 2026 is to: “Use a risk-based approach to identify risk, coordinate appropriate actions, and apply resources to ensure identified risk is addressed and mitigated.” The AML/CFT Policy Office within the Government co-ordinates the NRA work.
 World Bank methodology was used for the 2015 and 2020 ML/TF NRAs.
 It has been used to provide consistency with previously published NRAs.
-## METHODOLOGY
+METHODOLOGY
 The World Bank’s methodology for assessing money laundering and terrorist financing risks associated with legal persons and arrangements is structured into a four-step process.
 The first step involves mapping all legal structures that can be formed or registered under national laws, including companies, trusts, partnerships, and foundations.
 This mapping exercise collects data on registration requirements, beneficial ownership disclosure, nominee arrangements, and bearer shares. combines two dimensions: the jurisdiction’s attractiveness for non-resident incorporation (ANRI score) and the strength of its mitigation measures.
 The ANRI score evaluates factors like political stability, tax attractiveness, and secrecy provisions, while mitigation strength is assessed through indicators such as beneficial ownership transparency, regulation of TCSPs, and effectiveness of international cooperation.
 Together, these steps provide a holistic framework for jurisdictions to understand and address ML/TF risks linked to legal persons and arrangements.
 To support the World Bank methodology, a number of FATF publications were used to provide further insight, including: Guidance on Beneficial Ownership of Legal Persons published March 2023; Guidance on Beneficial Ownership and Transparency of Legal Arrangements, published March 2024; and Money Laundering National Risk Assessment Toolkit – Annexes A-C, published August 2025.
-## SCOPE
+SCOPE
 Whilst this LPA NRA primarily focuses on ML risks, it also covers TF which will enable the overlay on the TF NRA to be undertaken, as detailed in the TF NRA recommended actions.
 Proliferation Financing is not covered in this NRA.
 A separate PF NRA will be published as part of the suite of NRAs.
-## DATA
+DATA
 The second step is a comprehensive threat assessment which combines quantitative enforcement data (e.g., SARs, prosecutions, MLA requests) with qualitative analysis of typologies and expert perceptions.
 This includes identifying common abuse patterns such as multi-jurisdictional splitting, use of nominee directors, and shell companies.
 Jurisdictions are encouraged to analyse both domestic and foreign legal structures that pose ML/TF threats.
@@ -531,13 +531,13 @@ Across a number of the agencies, the methodical tagging of entity-types is incom
 This will allow LPA-specific KPIs to be enhanced and reported through governance.
 Financial Crime and Asset Recovery Unit: asset recovery data; TCSP sector: LPA data return received in 2025.
 Where sensitive data has been used, it has been aggregated to allow inclusion in this report, displayed as percentages rather than actuals or removed from the final published version of this report.
-## LIMITATIONS
+LIMITATIONS
 In the FATF Plenary of 22–24 October 2025 , a number of countries, including South Africa and Nigeria, were removed from the list of jurisdictions under increased monitoring.
 As a result, the IOM updated its published country lists and removed both of these countries from List B(i), although Nigeria remains on the B(ii) list for TF.
 Where this change is significant to the data or risk profile, a footnote or comment has been added to provide an update.
 Since 2017, TCSPs have been required to prepare and submit more data to the FSA.
 This data is used by the FSA to help
-## 1.5 Acknowledgements
+1.5 Acknowledgements
 The World Bank methodology relies upon the support and input of subject matter experts.
 Expert discussions validate and help to raise the main threats, vulnerabilities, and risks in the IOM.
 The completion of this NRA involved extensive input from these experts from competent authorities, regulators, the IOM Financial Crime Partnership’s TCSP group, and industry bodies, listed in Appendix 4.
@@ -549,11 +549,11 @@ This represented over 98% of all LPAs within the TCSP sector.
 In addition, they provided considerable time in many workshops and meetings.
 CHAPTER 2 National Threats
 National threats
-## 2.1 Introduction
+2.1 Introduction
 Overall, the ML threat from LPAs to the IOM is rated as high.
 The TF threat is rated as Medium Low.
 See Figure 2-1.
-## WORLD BANK TOOL
+WORLD BANK TOOL
 The World Bank tool seeks to complete a qualitative analysis of the threats faced by the Island by considering the nature of the ML and TF abuse of LPAs as evidenced by the 2020–24 data from the law enforcement agencies.
 Where data was sparse, additional data was sought from the regulators, other similar jurisdictions, and learnings from IOM cases which occurred prior to 2020.
 Data identifying where LPAs were implicated in cases was not always readily available from the databases of the agencies.
@@ -566,7 +566,7 @@ The IOM’s primary ML risk lies in placement and layering of criminal proceeds.
 The emergence of rapid electronic money transfers, digital banking, and increasingly sophisticated techniques for obscuring transactions have significantly evolved traditional ML stages.
 Typologies that have been identified as presenting significant ML risks to the IOM demonstrate a number of these features.
 Figure 2-2 shows the network diagram for the analysis undertaken for the threat assessment; in addition, analysis was undertaken on the nature of abuse, cases, and typologies.
-## ML RISKS
+ML RISKS
 ML continues to present the highest risk to the IOM, set against an increasing threat landscape since the publication of the last The IOM continues to attract a broad spectrum of overseas clients, owing to a combination of strategic location, regulatory robustness, and commercial appeal.
 However, anecdotal feedback indicates that, whilst organic growth from existing clients and referrals is steady, TCSPs are needing to work harder to attract new business from the broader market.
 There is the potential for some TCSPs to increase their risk tolerance in pursuit of revenue or look further afield for business.
@@ -576,7 +576,7 @@ The “National Risk Appetite Statement on eGaming and Financial Crime: Activiti
 The FIU document states: The adoption of AI in financial systems provides enhanced security but also introduces tools that can assist criminals in obscuring the origins of illicit funds.
 It is possible that fast-developing AI-driven tactics could outpace the ability of authorities to detect and prevent financial crime.
 Overall, the domestic threat is less significant than the threat of ML from cross-border and foreign predicate offences.
-## TF RISKS
+TF RISKS
 The FATF report “Comprehensive Update on Terrorist Financing Risks,” published in July 2025, considers the methods of abuse of LPAs.
 The report states: _“Establishing sham business relationships between different criminally controlled corporate entities can legitimise the movement of large sums of money across international borders.”_ _“OCGs can obscure the beneficial ownership of these entities using complex trust and corporate structures, proxies and nominee directors, and layers of ownership which span multiple jurisdictions (particularly jurisdictions which offer greater financial secrecy).
 Wealthy criminals can further disguise their ownership of assets by exploiting citizenship through investment schemes to obtain second (or ‘golden’) passports under different names.”_ _“The layers of complexity and obfuscation that OCGs introduce into these transnational corporate structures can make the task of client due diligence very challenging.
@@ -584,8 +584,8 @@ OCGs will go to extensive lengths to obscure the business structure and ultimate
 As detailed in the TF NRA, overall, the domestic (internal) threat of TF is very low, while the flow-through (transit) threat is greater.
 The layers of complexity and obfuscation that OCGs introduce into these transnational corporate structures can make the task of client due diligence very challenging.
 OCGs will go to extensive lengths to obscure the business structure and ultimate beneficial ownership of these criminal enterprises”
-## 2.2 Law enforcement data
-## _2.2.1 Financial Intelligence Unit_
+2.2 Law enforcement data
+_2.2.1 Financial Intelligence Unit_
 The IOM Financial Intelligence Unit is responsible for receiving, gathering, analysing, and disseminating financial intelligence both locally and internationally.
 A SAR might be submitted on a legal entity or structure, but it might equally be submitted relating to concerns regarding an individual associated with an LPA.
 For the period 2020 to 2024 inclusive, the FIU analysed the SARs relating to LPAs, noting that the SAR database did not allow for easy extraction of this data, resulting in manual reviews being required.
@@ -607,7 +607,7 @@ The FIU assessed the impact of COVID-19 on ML and concluded risks remained Low b
 In response to international sanctions, the FIU led multi-agency reviews of exposure to the Russian Federation, Belarus, and Kazakhstan, with additional actions taken by other agencies to deregister aircraft owned by sanctioned persons and to strengthen the legal framework for sanctions compliance.
 In August 2023, the FIU introduced an additional feature to Themis to allow the provision of standardised feedback to Money Laundering Reporting Officers on submitted disclosures.
 The FIU have issued typology reports which include the use of LPAs, including the recently published “Environmental Crime Typologies and Red Flags”.
-## _2.2.2 International cooperation_
+_2.2.2 International cooperation_
 The Chambers of HM Attorney General (AGC) serves as the central authority for MLAs in the IOM.
 A team within the AGC Crown Office is responsible for managing all incoming and outgoing requests for MLA relating to criminal investigations and prosecutions, as well as providing MLA in international nonconviction-based confiscation investigations and proceedings. have been minimal outgoing requests over this period of time relating to LPAs.
 The largest number of incoming MLAs over this five-year period is for 2006 Act companies.
@@ -625,13 +625,13 @@ The company was an IOM-registered 2006 Act company known to hold bank accounts i
 The suspect had been charged with forgery, fraud, and money laundering.
 Most recorded ML offences (81%) are domestic, commonly 50% of predicated by drug offending, although less than the proceeds are related to drugs.
 Internationally, the most common predicate offence is fraud, with investigations being complex, having much higher values and much greater economic and international impact.”
-## _2.2.3 Criminal investigations_
+_2.2.3 Criminal investigations_
 The IOM Constabulary (IOMC) investigates a wide variety of financial crime.
 There are two teams that specialise in these investigations: The Economic Crime Unit is responsible where the financial crime is domestic or the ML is linked to a domestic predicate offence.
 The Proactive International Money Laundering Investigation Team was created through additional IOMC funding provided in 2022 as a result of the 2020 ML/TF NRA.
 The Team’s remit is to progress international ML/TF investigations and realise intelligence developed from the FIU into evidence and pursue viable cases.
 PIMLIT investigates complex, multi-jurisdictional cases of money laundering in which fraud is frequently the primary motive – though other offences are also involved, including those of a transnational nature, some (but not all) of which are concerned with South East Asian-based transnational crime gangs and which have been highlighted in the media.
-## _2.2.4 Criminal prosecutions and convictions_
+_2.2.4 Criminal prosecutions and convictions_
 Within the Prosecution Division, there is a dedicated Financial Crime and Asset Recovery Unit (FCARU).
 Prosecution are split into a general team and the FCARU, which helps to increase specialism.
 FCARU was established in 2024 and expanded to include domestic civil asset recovery with effect from 1 January 2026, and is a ringfenced resource.
@@ -667,7 +667,7 @@ Sentenced to 4 years 6 months.
 Joon, 2025 : a key figure in an OCG that targeted the IOM immigration system through fraudulent visa schemes.
 Involved a sham company in the IOM used to deceive vulnerable individuals for human trafficking/modern slavery.
 Sentenced to 3 years and 5 months, followed by deportation once released.
-## _2.2.5 FSA enforcement action, civil penalties, and director disqualifications_
+_2.2.5 FSA enforcement action, civil penalties, and director disqualifications_
 The FSA has published a guidance note on Discretionary Civil Penalties under the Financial Services Act 2008 and the Insurance Act 2008, last updated December 2022.
 The Anti-Money Laundering and Countering the Financing of Terrorism (Civil Penalties) Regulations 2019 detail the civil penalties in Section 5, with a guidance note also issued.
 The Financial Services Act 2008 (and related legislation) provides the FSA with a broad spectrum of statutory powers and responsibilities.
@@ -687,21 +687,21 @@ As of November 2025, there have been 14 disqualifications of individuals by the 
 A disqualification might be wider than just directors from the financial services industry. failure to fully understand the use of the complex structures within its business relationships and failure to risk assess these structures accordingly; provision of corporate services pursuant to its Class 4 permissions to Client A without operating an appropriate risk management framework and methodology.
 Published AML/CFT Civil Penalties (of which there are 21 in total), where a legal person and arrangement, a TCSP, or other professional firms are involved, detail a number of shortcomings, which across the cases included the following: failed to adequately identify the beneficial owner; failure to establish if a customer was, or subsequently became, a PEP or foreign PEP; a TCSP having issues of non-compliance with the Rule Book; licenceholders with a historically higher risk appetite, which are naturally required to be able to demonstrate the highest standards of governance, risk, and compliance frameworks, and a culture that pervades high ethical and moral standards to the conduct of business and compliance with the regulatory framework.
 The FSA also issues penalties for contraventions of the BOA.
-## _2.2.6 Income Tax Division_
+_2.2.6 Income Tax Division_
 As shown in Figure 1-5, the Income Tax Division also plays a key part in the overall framework to prevent ML/TF in the IOM.
 As explained in Chapter 3.2.8, the ITD receives information from Companies Registry when a company is formed.
 In addition, the ITD holds (unverified) beneficial ownership information for foreign-registered companies and foreign companies that are IOM tax resident.
 The ITD takes enforcement action against companies for nonfiling.
 In the five-year period, the ITD have taken prosecution action against 106 companies (see Figure 2-6).
 Prior to prosecution action, the ITD will issue a late return penalty (£250) when a return is overdue and a second late return penalty (£500) when the return remains outstanding six months after the initial due date (see Figure 2-7).
-## _2.2.7 Companies Registry_
+_2.2.7 Companies Registry_
 Companies Registry is not a regulatory body, although powers to make enquiries to establish the accuracy of information provided to the Registry exist and are utilised.
 The power to make enquiries was introduced to the corporate acts in 2018 and extended to the BOA in 2021.
 The ultimate sanction available to the Registry is to strike the entity off the register (see Figure 2-8).
 The reasons for which the Registry can commence strike off are set by the respective acts and include: failure to file an annual return within six months after the company’s return date; abandoning the Registered Office address; failure to comply with its obligations under BOA; where notice is received from the Assessor of Income Tax (ITD), failure of substance requirements; and failure to have a Registered Agent (2006 Act).
 Strike-off action by the Registry can be (and often is) halted due to objections from the Collector or Assessor where outstanding VAT or income tax matters, respectively, apply.
-## 2.3 Perceptions and open sources
-## _2.3.1 Credible open sources_
+2.3 Perceptions and open sources
+_2.3.1 Credible open sources_
 Due to the inherently concealed nature of criminal activity, enforcement data seldom provides a complete or representative picture of money laundering involving legal structures within a jurisdiction, even where enforcement frameworks and mitigation measures are robust.
 One of the key methodological challenges in such assessments is the limited reliability of SARs as indicators of actual threat levels.
 A low volume of SARs may suggest minimal criminal activity, but it could equally reflect weak detection mechanisms or underreporting.
@@ -730,7 +730,7 @@ A trust company had been providing services to a client since 2005.
 In 2007, source of wealth and source of funds enquiries were made with the client following a purchase of a multi-million-pound property.
 Following a leak of documents which subsequently appeared on the International Consortium of Investigative Journalists website, the institution initiated a review of the client’s activities and circumstances and became suspicious that the source of funds for the property transaction may have been corruption offences.
 The trust company disclosed this to the FIU in a SAR.
-## 2.3.2 Perceived threat by public and private sector experts
+2.3.2 Perceived threat by public and private sector experts
 A number of the threats from the credible open sources (Chapter 2.3.1) were also raised by the public and private sector experts. _2.3.2.1 Complex structures, particularly when not fully understood by relevant persons, pose a heightened risk_ The IOM ML/TF NRA published in January 2020 noted in the Executive Summary the risk from complex corporate structures: _“The types of services provided in the IOM, although fairly generic in nature, may be used to conceal the proceeds of crime or to conceal or disguise the origins of those proceeds, through international transfers of funds and the use of complex corporate structures.”_ In the FSA-issued TCSP Sector Guidance , published March 2022, complex structures are referenced as risk factors specific to the TCSP sector.
 The guidance states that risk factors may include: _“The use of complex networks of legal arrangements and/or nomineeships and/or legal persons, where there is no apparent rationale for the complexity or it appears that the complexity of the arrangement may be intended to conceal the ownership or control arrangements from the TCSP or other parties._ _The use of complex structures that go across a number of different jurisdictions, with no apparent legitimate commercial rationale as such structures could be used to hide the identity of individuals involved.”_ Complex and multi-layered structures can be entirely legitimate and are used by many sectors and industries for reasons such as: Asset protection and risk management: One reason might be to shield assets from business risks.
 By placing assets in separate legal entities, such as trusts or holding companies, owners can isolate liabilities.
@@ -779,9 +779,9 @@ This provided an insight into a number of complex structures that often hold ass
 Working with the TCSPs, the structure diagrams were reviewed and a number of the common trends were: Trusts were commonly seen within the complex structures, often at the top of the structure.
 The supervised entities knew the customers well and held the required documentation.
 All those analysed were Russian Federation-sanctioned persons/entities (under UK autonomous sanctions) and the intermediary jurisdictions frequently included: the BVI, the Cayman Islands, Cyprus, Guernsey, Luxembourg, Switzerland, and the UAE.
-## _2.3.2.2 Cross-border_
+_2.3.2.2 Cross-border_
 TCSPs could be vulnerable when servicing clients from high-risk jurisdictions.
-## OVERVIEW
+OVERVIEW
 The IOM’s role as an IFC means it is inherently exposed to cross-border money laundering risks, especially through: Banking and Investment services offered to non-residents; TCSPs managing structures for overseas clients; In the IOM Chief Constable’s Annual Report for 2024/25 , he states: _“Investigations over the last year have doubled, increasing to ten active International Money Laundering cases under investigation, where the predicate criminal activity occurs outside the Isle of Man, but with large scale proceeds migrating into the Island’s financial system.”_ Insurance and Fund Management sectors with global reach; and payment service providers, fintech, foreign exchange services, and digital currencies such as stablecoins.
 These services may be exploited by foreign actors to layer and integrate illicit funds.
 As stated in the IOM 2020 ML/TF NRA : _“The IOM is an international finance centre; the main threats to the IOM arise from international ML where the proceeds are derived from foreign predicate offences, using the wide range of financial and nonfinancial services available.
@@ -791,7 +791,7 @@ Companies identified in UK law enforcement cases are frequently incorporated in 
 The use of these complex arrangements is often associated with high value overseas predicate offences, including corruption and fraud, where funds are routed through varying combinations of transit and end points making it difficult to isolate any one single jurisdiction.
 The UK is frequently not the sole ‘end destination’ for these criminal funds.”_ The IOM has recently published documents regarding crossborder threats, which could potentially impact on legal persons and arrangements on the Island: The National Statement on eGaming and Financial Crime , published May 2025, stated: _“Given the information that is publicly available concerning typologies and threats, the Isle of Man currently has limited appetite for business in the iGaming sector where there is ownership and/or control from East or Southeast Asia.”_ Investigations over the last year have doubled, increasing to ten active International Money Laundering cases under investigation.” Immigration fraud risk or exploitation of workers is a relatively recently emerging threat for the IOM, often facilitated through UK micro-companies but also from further afield.
 The Gambling Sectoral Risk Assessment focuses on the threats from eGaming,including cross-border threats; it also considers emerging threats from activities ancillary to online gambling where relevant to the sector’s exposure.
-## Jurisdictional exposure, legal persons
+Jurisdictional exposure, legal persons
 The TCSP sector has provided cross-border exposure data in both the TCSP 2025 LPA Return and the 2024 FSA AML/CFT annual return.
 Figure 2-11 provides an overview of the country risk exposure for the principal activity of each legal person reported by the TCSP sector.
 The number of entities in each jurisdiction is represented by the comparative size of the circle.
@@ -804,17 +804,17 @@ List B countries have a country risk which is lower than List A countries but hi
 The BVI (1.8%) and South Africa (0.7%) were both B(i) countries at the time the data was provided. (South Africa has since been removed.) Further analysis of the UK, US, Spain, BVI, and the Cayman Islands is covered in Chapter 5 (“Foreign Legal Persons”) and Appendix 8.
 Companies Registry holds details of the nationality and country of residence for RBOs. 45.7% of all RBOs have a country of residence outside of the IOM. 5.12% have a List B country of residence, with the highest being: Monaco (1.78%); South Africa (1.15%); and Nigeria (0.56%).
 For all other countries, the top three are: the UK (15.0%); Ireland (6.1%); and the UAE (2.2%).
-## FURTHER UNDERSTANDING WHERE THERE ARE EQUITY HOLDING COMPANIES AND SUBSIDIARIES
+FURTHER UNDERSTANDING WHERE THERE ARE EQUITY HOLDING COMPANIES AND SUBSIDIARIES
 To obtain a deeper understanding of the structures within which the companies sat, the TCSP sector in the 2025 LPA Return also provided further details where the activity was categorised as “Equity Holding Companies”.
 Figure A6-1 in Appendix 6 provides further detail.
 This shows that there is a similar mix and proportion of activities between the principal company and the equity holding company. subsidiaries; these are shown in Figure A6-2 in Appendix 6.
 The jurisdictional exposure is broadly consistent between these three entities.
 Therefore, throughout this document, the analysis has been based on the company, and further analysis of the equity holding company and/or subsidiary has not been included to avoid unnecessarily complicating the analysis with additional data and Figures.
-## Jurisdictional exposure, legal arrangements
+Jurisdictional exposure, legal arrangements
 Using the TCSP-supplied data, an analysis of Assets for all trusts by jurisdiction showed that the IOM was the location with the largest proportion of assets (52.1%), which was expected as a trust often sits at the top of a structure; the US, UK, and Ireland are substantially lower, at 8%, 7.7%, and 7.5% respectively.
 The greatest exposure to List B countries (there was no List A exposure) was to the BVI (1.8%) and South Africa (0.6%) (see Figures 2-13 and 2-14).
 Analysis was also undertaken of the jurisdictional exposure for Equity Holding Companies and also where there were
-## _2.3.2.3 Overseas property_
+_2.3.2.3 Overseas property_
 There have been concerns regarding ML/TF risks through the real estate sector for many years, with an FATF report published in June 2007.
 The UK 2025 ML/TF NRA stated: “In the period 2010 to 2021, overseas ownership of UK property nearly trebled, sitting at 0.7% of all UK properties.” Figure 2-15 shows the total figures, by number of entities, as reported by the TCSP sector.
 In total, for companies and trusts, the percentage of entities with exposure to real estate outside of the IOM was 15.5%.
@@ -822,7 +822,7 @@ By comparison, 0.9% had exposure to IOM property.
 Therefore, analysis was undertaken on the TCSP 2025 LPA Return to better understand the exposure and to which jurisdictions for overseas residential and commercial real estate.
 The largest jurisdictional exposure is to the UK (10.0%), followed by Spain (1.5%) and Ireland (0.6%).
 The risk exposure to higherrisk jurisdictions (List B) is negligible and restricted to the BVI.
-## _2.3.2.4 Tax advice_
+_2.3.2.4 Tax advice_
 If a structure is set up in the IOM, then there is potentially tax advice required in regard to: the beneficial owner and/or shareholder relating to their jurisdiction of residency; the legal person or arrangement for any jurisdiction(s) of residence for that entity or jurisdiction(s) they operate in/ derive income from; and the IOM structure.
 Therefore, the structured advice may originate from outside of the IOM.
 The TCSP sector advise that the advice usually comes from one of a small number of larger, global firms.
@@ -835,7 +835,7 @@ Therefore, it is necessary for a TCSP’s client to pay for regular reviews of t
 Potentially, there is tension between the TCSP who is requesting updated tax advice and the end client who has to pay for the advice but does not want to incur this expense.
 However, reluctance to pay for refreshed tax advice would generally be considered as a red flag and ultimately could result in the relationship being terminated if it were not forthcoming.
 Anecdotally, the sector advised that the number of tax-driven structures required by clients was decreasing.
-## _2.3.2.5 Multiple directorships_
+_2.3.2.5 Multiple directorships_
 The UK 2025 M /TF NRA states : _“Directors associated with an implausibly large number of companies continue to be considered higher risk.”_ In the IOM, there is no statutory cap on the number of directorships that a person can hold.
 The FSA issued guidance on Directorships and Trusteeships which states: _“Having more posts as client vehicle director and trustee means having less time available for each post.
 However skilled an individual may be, at some point they would no longer be able to adequately discharge their responsibilities.
@@ -852,13 +852,13 @@ Companies Registry have recently started to monitor the perimeter and will raise
 Figure 2-17 shows the data for the count of all companies registered per unique address .
 There are 5,329 addresses that only have one company registered at the address, whilst there are a number of TCSPs which have multiple companies registered at their addresses.
 It is recommended that further work is undertaken by the FSA and Companies Registry to review this data for any possible outliers, where non-TCSP addresses have multiple registered companies.
-## _2.3.2.6 Registered Office and Registered Agent service by TCSPs_
+_2.3.2.6 Registered Office and Registered Agent service by TCSPs_
 Registered Office and Registered Agent functions are detailed in Chapter 3.2.7 and regarded as one of a number of offerings of limited services from the TCSP to the end client.
 Limited services provision is widely regarded as posing a potentially higher inherent risk of ML/TF.
 The Financial Crime Partnership TCSP group has listed each limited service, the risk, and possible mitigation which may decrease the risk.
 It is recommended that the group publish a “hints and tips” paper including case studies, which will be shared from the FCP group with the ACSP.
 Whilst limited services provision can be provided to certain companies by TCSPs, the TCSP itself must be regulated for the full range of TCSP services and is prohibited (which is strictly enforced by the FSA) from just offering limited services such as Registered Office. 2006 Act companies are the most common entities to make use of the Registered Agent and/or Registered Office service with a TCSP. 1931 Act companies do not require a Registered Agent and therefore the only service required is the Registered Office service (see Figure 2-18).
-## _2.3.2.7 Professional enablers and gatekeepers_
+_2.3.2.7 Professional enablers and gatekeepers_
 The UK Law Society worked with the UK National Economic Crime Centre (NECC) to agree a definition for professional enablers : The UK 2025 ML/TF NRA highlights the threats from professional enablers .
 It states: _“A professional enabler is an individual or organisation that is providing professional services that enable criminality.
 Their behaviour is deliberate, reckless, improper, dishonest and/or negligent through a failure to meet their professional and regulatory obligations.”_ _“Criminal funds generated in the UK are also moved cross-border via both UK and non-UK corporate structures.
@@ -871,18 +871,18 @@ Some firms have a higher risk appetite than the average for the sector, and they
 Professional gatekeepers/introducers/intermediaries/TCSPs will be vulnerable if: they are not regulated in their jurisdiction or have limited regulation in place; there are weak controls, insufficient resources, or insufficient knowledge and experience; the client is never met face-to-face; insufficient questions are asked to properly understand the client and their activity; or they are wittingly or unwittingly instructed by transnational or UK organised crime gangs.
 A number of criminal prosecutions and convictions include professional firms abusing their position (see Chapter 2.2.4).
 The threat is mitigated as many of these firms are supervised by the FSA.
-## 2.4 Typologies
+2.4 Typologies
 Law enforcement agencies supported the analysis of typologies that had been evidenced or might occur in the IOM.
 Consideration was given to those in the World Bank methodology as well as additional typologies, noting that the activities and products that are commonly used for legitimate business purposes can also be used for illegal activities.
 It should be noted that all the cases relate to money laundering and there were no cases with a terrorist financing element to them.
-## MULTI-JURISDICTIONAL SPLITTING
+MULTI-JURISDICTIONAL SPLITTING
 Multi-jurisdictional splitting is defined in the World Bank typology as: Networks of legal structures that split entity formation, asset ownership/administration, location of professional intermediaries, and location of bank account across different countries in order to prevent detection of illicit activity and to evade regulations.
 As an IFC with a significant professional intermediary sector, this is a relevant typology to the IOM.
 The IOM Chief Constable’s Report 2024/25 states: _“Criminal investigations also have parallel restraint and forfeiture investigations conducted by PIMLIT and the International Cooperation and Asset Recovery Team (ICART) investigating assets for recovery from predicate criminality.
 These cases are complex and include, multi-jurisdictional structuring to layer funds, the use of shell companies and other financial products to hide and obfuscate criminal proceeds from law enforcement.”_ regarding possible cross-border evasion of tax; and criminal property suspected to be derived from a complex multi-jurisdictional fraud.
 Legal entity/arrangement types involved in such cases were 1931 Act companies, 2006 Act companies, and trusts.
 Recent cases of this type have included: an investigation related to a complex network of trusts and companies in various IFCs, including the IOM; an investigation case where the subject is suspected of facilitating money laundering through complex structures and companies in the IOM and other jurisdictions; incoming MLA relating to a 2006 Act company managed by a TCSP, where the company owned an aircraft – concerns
-## FOREIGN OWNERSHIP/CONTROL BY SHELL COMPANIES
+FOREIGN OWNERSHIP/CONTROL BY SHELL COMPANIES
 Foreign ownership/control by shell companies is defined in the World Bank typology as: Cross-border ownership/control structures of domestic legal structures that are owned or controlled by foreign-registered legal structures.
 Ownership is held by legal structures, rather than by foreign natural persons.
 The IOM does have LPAs with foreign ownership and experience of the use of shell companies (see the Chief Constable’s comment above).
@@ -901,7 +901,7 @@ An IOM-based TCSP was approached to set up and administer several trusts for fam
 Open-source research revealed that the president was alleged to be linked to kleptocracy and stated he was engaged in a number of money laundering schemes using offshore companies/ trusts.
 The IOM-based TCSP declined the business, suspecting the assets of the trust would have likely been generated illegally.
 The IOM-based TCSP submitted a SAR to the FIU.
-## ANOMALOUS, COMPLEX OWNERSHIP/ CONTROL STRUCTURES
+ANOMALOUS, COMPLEX OWNERSHIP/ CONTROL STRUCTURES
 Anomalous, complex ownership/control structures are defined in the World Bank typology as: _Anomalous, complex, and opaque chains of ownership/control structures that involve many intermediate layers with shares often registered in the name of other legal structures.
 This can include circular ownership structures and fragmented ownership structures._ incoming MLA prompted by information on the use of an IOM company and IOM trust to potentially evade tax; and a public statement and civil penalty by the FSA relating to a firm holding Class 3, 4, and 5 regulated activities – this included _“had not been fully understanding the use of the complex structures within its business relationships and had not risk assessed these structures accordingly”._ Recent cases of this type have included: suspected facilitation of money laundering through complex structures using trusts and companies; Legal entity/arrangement types involved in cases were 1931 Act companies, 2006 Act companies, and trusts.
 A request for assistance was received from a foreign jurisdiction in relation to an investigation into a complex structure of legal arrangements and entities spanning multiple international financial centres.
@@ -911,7 +911,7 @@ The investigation identified several companies registered in the jurisdiction wh
 One such company was also linked to the leasing of an aircraft.
 All of these entities had been incorporated and most dissolved more than two decades prior to the commencement of the investigation.
 Additionally, a local service provider had acted in the capacity as a nominee shareholder for a foreign company central to the asset tracing efforts.
-## USE OF TRUSTS OR FOUNDATIONS IN OWNERSHIP/CONTROL STRUCTURES
+USE OF TRUSTS OR FOUNDATIONS IN OWNERSHIP/CONTROL STRUCTURES
 This is defined in the World Bank typology as: _Legal structures that are owned by trusts or foundations that provide for the separation of legal ownership from beneficial ownership, and often have low transparency of ownership/control.
 Recent cases of this type have included:_ an investigation related to a complex network of trusts and companies in various IFCs, including the IOM; potential sanctions evasion; an Organised Crime and Corruption Reporting Project case on the family of the President of Azerbaijan and the use of an IOM trust (affiliate) – it is recommended that the FIU add a typology(or several) relating to affiliates in a future typology publication.
 The legal arrangement type involved in these cases was trusts. suspected facilitation of money laundering through complex structures using trusts and companies; A regulated TCSP in the Isle of Man acted as the trustee of a trust formed in the United Kingdom.
@@ -922,22 +922,22 @@ The TCSP as the trustee took tax advice when the 10th anniversary of the trust p
 Inheritance tax is charged on the net value of any relevant trust property every ten years in the United Kingdom.
 Mrs Brown disputed the fact that inheritance tax was payable and took steps to remove the trustee.
 The TCSP submitted a SAR to the FIU suspecting that Mrs Brown was attempting to evade paying inheritance tax and hiding this by removing them as the trustee.
-## USE OF NOMINEE DIRECTORS/NOMINEE SHAREHOLDERS/“FRONTMEN”
+USE OF NOMINEE DIRECTORS/NOMINEE SHAREHOLDERS/“FRONTMEN”
 This is defined in the World Bank typology as: _Nominee directors or nominee shareholders can be used to conceal the identity of the beneficial owner of a company or asset (circumventing due diligence, AML controls, or sanctions), as well as to conceal illicit wealth (by concealing beneficiary of income), overcoming jurisdictional controls on company ownership (e.g., those requiring citizens to be directors), and circumvent directorship or shareholder bans imposed due to misconduct.
 A “front man” or “straw man” will purport to be the beneficial owner of a legal structure to hide the identity of the actual beneficial owner._ Recent cases of this type have included: An IOM resident was presenting a UK national as UBO of his companies and there were suspicions of tax evasion.
 Any legal person could be impacted by these cases.
-## USE OF FAKE IDS FOR FORMATION/REGISTRATION
+USE OF FAKE IDS FOR FORMATION/REGISTRATION
 This is defined in the World Bank typology as: P _roviding fake identification documents during the formation process of a legal structure or at the opening of a corporate bank account to evade due diligence and ML controls._ Recent cases of this type have included: Companies Registry question the presentation of a golden passport , which was subsequently satisfactorily resolved.
 It should be noted that the use of a golden passport will be a red flag and enhanced CDD will be requested, and if sufficient comfort cannot be obtained, then the client will be declined/ off boarded.
 During investigations, law enforcement see examples of fake identification, including the use of IOM driving licences used overseas as due diligence.
 AI and deepfakes are becoming more frequent in investigation cases.
 All legal entity types were involved in these cases.
-## SANCTIONS EVASION
+SANCTIONS EVASION
 Since the last ML/TF NRA was published in 2020, there has been a significant global increase in the use of targeted financial sanctions and restrictions on the supply of goods and technologies against countries, including the Russian Federation and Belarus, in relation to cybercrime and human rights abuses.
 The IOM implements sanctions in line with those imposed in the UK, which has seen a large increase in the number of persons subject to asset freezes, particularly in relation to the Russian Federation regime.
 The use of professional services to construct complex corporate structures to disguise beneficial ownership and hide assets to evade sanctions is a known global threat.
 Techniques used include: the use of complex corporate structures, using shell companies, trusts, nominee directors, and moving assets to jurisdictions that may have weaker AML/CFT controls; registering companies, assets, and trusts in the name of relatives of proxies and/or seemingly reducing the level of ownership in corporate structures by selling shares to family members, trusted proxies, or business associates; using connections with money laundering networks or organised crime groups (OCGs) to obscure beneficial ownership;
-## 2.5 National threats summary
+2.5 National threats summary
 The threat analysis undertaken for this NRA identifies a range of ML and TF threats associated with LPAs.
 While some of these threats and typologies were highlighted in previous assessments, others have become more pronounced due to the evolving global financial crime landscape.
 The analysis confirms that the domestic threat is comparatively low; however, the IOM faces significant exposure to cross-border risks, particularly those linked to foreign predicate offences.
@@ -960,32 +960,32 @@ Those investors, controllers, and assets, and the associated individual, sectora
 As evidenced throughout this NRA, other factors play a more substantial role in shaping the risk landscape.
 These include the nature of the end client (e.g., whether they are a PEP), the jurisdictions involved (multi-jurisdictional splitting), the type and value of assets held, the degree of cross-border complexity within the structure, and all the IOM-based professional firms properly understanding the structure and their end client.
 The threats are invariably mitigated by the fact that the vast proportion of LPAs with a cross-border link are administered by an FSA licenceholder who is supervised by the FSA for its compliance with the AML/CFT framework.
-## Impact for the Isle of Man
+Impact for the Isle of Man
 The findings underpin the need for continued vigilance and proactive measures to safeguard the Island’s reputation as a well-regulated IFC.
 The IOM’s exposure to foreign predicate offences means that its primary ML risk lies in the placement and layering of illicit funds rather than domestic criminality.
 This requires sustained investment in regulatory oversight, potentially enhanced data collection on beneficial ownership, and deeper analysis of complex structures.
 Continued close collaboration between authorities and industry is essential to maintain a strong understanding of emerging typologies and to ensure that risk mitigation strategies keep pace with global developments.
 The Island must also recognise that its attractiveness as a financial centre depends on maintaining high standards of governance and compliance.
 By strengthening its AML/CFT framework and demonstrating robust enforcement, the IOM can continue to position itself as a jurisdiction of choice for legitimate business while effectively managing the risks posed by legal persons and arrangements.
-# Mitigating Measures and National Vulnerability
+Mitigating Measures and National Vulnerability
 Mitigating measures and national vulnerability 3.1 Introduction
 Overall, the national vulnerability to ML from legal persons and arrangements to the IOM is rated as Medium High.
 The TF vulnerability is rated as Medium (see Figure 3-1).
 This step of the assessment, conducted at the national level, aims to evaluate the jurisdiction’s vulnerability to ML/TF through legal structures, review existing safeguards, identify weaknesses in the beneficial ownership framework, and determine where additional protections are most needed, while ensuring legitimate business activities are not unduly burdened.
 It assesses the attractiveness of the IOM to abuse of its legal structures and how effectively the IOM combats ML/TF abuse of legal structures.
-## 3.2 Attractiveness for non-resident incorporation
+3.2 Attractiveness for non-resident incorporation
 The ANRI score is a measure of a jurisdiction’s general attractiveness as a formation or incorporation centre for non-residents, considering different types of legal structures: companies, partnerships, foundations, trusts, and others.
 This score incorporates features related to a jurisdiction’s current scale of activities and advertising of its trust and company formation sector.
 It also includes features related to a jurisdiction’s general legal, institutional, economic, regulatory, and political frameworks that impact its attractiveness for the provision of company formation services (and related professional services) to non-resident individuals and nonresident legal entities.
 The network diagram in the World Bank methodology used for the ANRI analysis and score is in Figure 3-2.
-## _3.2.1 Size and influence of the offshore company formation sector_
+_3.2.1 Size and influence of the offshore company formation sector_
 The size and influence of the business sector for formation of LPAs is considered to be very high.
 The 2024 AML/CFT annual return submitted by the TCSP sector reported the following number of customers: number of companies administered by TCSPs: 17,047; The ACSP is the active industry body.
 The sector is also supported by the Department for Enterprise (DfE).
 In the 2023/24 IOM National Income report, the CSP sector contributed £172 million to the IOM, representing 3.0% of the overall national income.
 As an IFC, the IOM has a large, well-developed network of professional service providers (TCSPs, law firms, accounting firms, banks) with a large foreign client base (see Figure 1-1).
 Companies incorporated in the IOM can take advantage of zero corporate tax on most activities, provided they do not engage in local banking or derive income from land and property in the IOM . number of trusts administered by TCSPs: 10,596.
-## _3.2.2 Advertising to non-residents_
+_3.2.2 Advertising to non-residents_
 IOM businesses advertise to non-IOM residents, offering a range of products, services, and expertise from across the sectors.
 Generally, they do not exclusively promote company formation services.
 DfE and Finance IOM support the sectors by promoting the wider services of the IOM as an IFC.
@@ -994,37 +994,37 @@ It does not offer “golden visas” nor does it offer any programs which offer 
 Globally, countries and jurisdictions are searching for growth to create the economic conditions to allow further funding of their public services; the IOM is no different.
 The Island Plan states: _“To achieve this vision we aim to make the Island a more attractive place to live and work, which in turn will sustain and grow productive businesses and services.
 Combined, this will provide more diverse and sustainable public finances that support the best possible public services and quality of life for all of our Island residents.”_
-## _3.2.3 Political and economic stability_
+_3.2.3 Political and economic stability_
 The IOM is politically and economically stable.
 It is one of the Crown Dependencies (along with Guernsey, and Jersey) (see the “Profile of the Isle of Man” document for further information).
 The IOM is not part of the UK but has its own parliament (Tynwald), government, and judiciary.
 Tynwald is considered the world’s oldest continuously existing parliament, dating back over 1,000 years.
 The IOM has maintained consistent governance, with no history of violent political upheaval.
 The IOM adheres to global standards in areas such as financial regulation, human rights, and international cooperation, reinforcing its commitment to peaceful governance.
-## MOODY’S CREDIT RATING FOR THE IOM (AA3 STABLE), DECEMBER 2025, STATES :
+MOODY’S CREDIT RATING FOR THE IOM (AA3 STABLE), DECEMBER 2025, STATES :
 _“The Isle of Man’s credit profile is supported by its high wealth levels, strong institutions, prudent fiscal policies, very low direct debt and substantial reserves.
 Strong linkages between the IOM and the United Kingdom (Aa3 stable) fortify the IOM’s institutional strength, but also leave its credit profile exposed to changes in the UK’s creditworthiness.
 The contingent liability risks to the government’s balance sheet from the large banking system are mitigated by substantial foreign ownership and the sector’s robust capitalization.”_
-## _3.2.4 Strength of the rule of law_
+_3.2.4 Strength of the rule of law_
 The IOM follows English common law principles.
 The IOM Courts handle complex commercial disputes, including contractual disagreements and ownership claims.
 The IOM has a well-established legal and administrative framework for company formation and administration services catering to non-resident clients.
 The IOM has established a robust legal framework to prevent the misuse of LPAs.
 This framework relies heavily on licensed/ registered professionals and individuals who are required to implement AML/CFT controls, along with registries that hold key ownership and control information.
 These obligations are set out in a range of legislation, including the Financial Services Act 2008 (including other similar supervisory legislation) and its associated regulations and orders, the 2019 AML/CFT Code, the 2018 AML/CFT Code for Unregistered Trustees, various Companies Acts, and the Beneficial Ownership Act 2017, all of which empower regulatory gatekeepers to supervise and enforce compliance.
-## _3.2.5 Legal framework for asset protection_
+_3.2.5 Legal framework for asset protection_
 The Island’s legal system is based on common law principles, providing secure asset ownership rights and legal recourse for disputes.
 The Trusts Act 1995 protects assets from foreign court rulings, ensuring strong legal safeguards.
 The Proceeds of Crime Act 2008 (POCA) is the primary legislation governing confiscation, forfeiture, and civil recovery of assets linked to criminal activity.
 The IOM does not levy capital gains, inheritance/estate or wealth taxes; trusts are subject to IOM income tax rules as applicable.
-## _3.2.7 Beneficial ownership transparency_
+_3.2.7 Beneficial ownership transparency_
 The BOA places IOM corporate and legal entities under the same legislation regarding RBO.
 It created a central database for the recording of RBO of legal persons.
 The central database went live July 2017.
-## APPOINTMENT OF A NOMINATED OFFICER
+APPOINTMENT OF A NOMINATED OFFICER
 The BOA requires each legal entity to which the Act applies to appoint a Nominated Officer.
 The Nominated Officer must be (as per Section 6(2) of the BOA): a) a natural person who is resident in the Island; or
-## _3.2.6 Perceived corruption levels_
+_3.2.6 Perceived corruption levels_
 The main legislation that covers bribery and corruption in the IOM is the Bribery Act 2013.
 The Bribery Act makes it an offence to give or receive a bribe, bribe a foreign public official, or fail to prevent bribery.
 There is also a duty under the Bribery Act for certain individuals to report bribery.
@@ -1038,27 +1038,27 @@ Details of the Nominated Officer must be notified by the company to Companies Re
 The following are not captured by the BOA: legal persons incorporated outside the IOM (Foreign companies – see Chapter 5); legal persons listed on specified stock/investment exchanges; a collective investment scheme (CIS), as defined in Section 1 of the Collective Investment Scheme Act 2008, which is, i) an authorised scheme, ii) an international scheme, or iii) an exempt scheme (see Chapter 8); limited partnerships without legal personality (see Chapter 7); associations.
 For foreign-registered companies (see Chapter 5.2), Companies Registry are considering further analysis and a possible consultation to see if some categories or all of the companies should be added to the BOA, noting that ITD will already hold similar information to that required under the BOA.
 A summary is provided in Appendix 1.
-## DUTIES OF A NOMINATED OFFICER
+DUTIES OF A NOMINATED OFFICER
 The Nominated Officer is responsible for determining whether the legal entity they represent has any RBO.
 In line with Section 20(1) of the Act, this involves taking all reasonable steps, based on information provided by the legal owners of any interest in the legal entity, to identify any individuals who meet the registrable threshold of holding more than 25% ownership or control.
 If such individuals are identified, their details must be submitted to Companies Registry via the Beneficial Ownership Database within the required timeframes, as set out in Sections 20(3) and 20(5) of the Act.
 Where no RBO is evident through shareholding, the Nominated Officer must assess whether control is exercised through other means before submitting a confirmation statement .
 Reasonable steps must include issuing a written notice to a legal owner, as required, if the Nominated Officer believes a legal owner has not met their obligations.
 Failure to take all reasonable steps to determine RBO constitutes an offence under Section 20(8) of the Act.
-## BENEFICIAL OWNER DISCREPANCY
-## REPORTING BY NOMINATED OFFICER
-## At incorporation
+BENEFICIAL OWNER DISCREPANCY
+REPORTING BY NOMINATED OFFICER
+At incorporation
 Under Section 9 of the BOA, the legal owners are required to give the Nominated Officer notice as to whom the beneficial owners are, of the legal owners’ interest, and the nature and extent of their interest in the legal entity.
 This must be accompanied by information from a reliable and independent source which verifies the same (such as share registers, trust deeds, or corporate structures).
 Under Section 9(3)(a), the legal owners must do so as soon as reasonably practicable, but in any event within 21 days of incorporation.
 Under Sections 20(6) and (7), upon receipt by the Nominated Officer, where the beneficial ownership information is registrable, the Nominated Officer must submit that information onto the Beneficial Ownership Database within 21 days (of receipt). the change had occurred).
 The Nominated Officer must then decide whether that change is registrable; if so, they have 21 days to update the central database (which runs from the date they received the information).
-## Annual statement to the Central Registry
+Annual statement to the Central Registry
 The legal entity and the Nominated Officer must submit an annual statement to the Central Registry confirming that they have both complied with their respective obligations under the BOA.
 Each statement is to be submitted under Section 42 of the Act and must be made by the date on which the legal entity is due to submit its annual return.
 Companies Registry also performs a review post-incorporation, particularly for nonTCSP submissions, to verify if the legal ownership matches the beneficial ownership details.
 Non-TCSP-submitted companies are predominantly non-corporate shareholders; therefore, Companies Registry will write to the company to question if the information on the shareholder does not align with the beneficial ownership submission.
-## REGISTERED OFFICE
+REGISTERED OFFICE
 The Registered Office is the official address of a company in the IOM.
 It serves as the legal location where statutory documents are kept (e.g., the register of directors, members, and charges), legal notices and correspondence from regulators or courts are delivered, and the company is considered to be domiciled for legal purposes.
 Every company must have a Registered Office in the IOM.
@@ -1066,11 +1066,11 @@ It must be a physical address.
 The address is publicly available on the Companies Registry.
 It may be an office of a TCSP or law firm (where operating under a relevant exclusion) which must comply with the AML/CFT Code.
 A note issued by the FSA, “Perimeter Guidance – Provision of Registered Office,” published in September 2025 , states: _“The purpose of this guidance is to assist companies and individuals in determining whether their activities may fall within the regulatory perimeter under the Financial Services Act 2008 specifically, under Class 4 of the Regulated Activities Order 2011.”_
-## REGISTERED AGENT
-## Where there is a change
+REGISTERED AGENT
+Where there is a change
 The legal owners have 21 days to give notice of a change in beneficial ownership information to the Nominated Officer (runs from date learnt, or had reasonable cause to believe, that Under the AML/CFT Code, any TCSP licensed to carry on Class 4 regulated activity, including acting as a Registered Agent, must comply with all AML/CFT requirements.
 As part of these obligations, a Registered Agent is required to: (i) identify the beneficial owner(s) and take reasonable measures to verify the identity of any beneficial owner of the customer, using relevant information obtained from a reliable, independent source; and (ii) hold records of the same.
-## BENEFICIAL OWNERSHIP ACT
+BENEFICIAL OWNERSHIP ACT
 The BOA defines a RBO as someone who owns or controls (including via other means) more than 25% of the beneficial ownership of a legal entity to which the Act applies.
 Therefore, there are instances whereby no one owns more than 25%, yet someone/some people are controlling the entity, (e.g., directors).
 Legal owners are required to provide the Nominated Officer with the required details of each beneficial owner (whether they hold above or below 25% of the total interest).
@@ -1080,18 +1080,18 @@ The relatively large percentage of TCSP-administered companies listed without an
 Notably, as per the FSA-issued Beneficial Ownership Act 2017 Guidance (December 2024), where a trust company (as trustee of a discretionary trust) acts as the legal owner of an interest in an entity to which the BOA applies, the shareholders of that trust company should be considered as the beneficial owners of the underlying entity, according to their apportioned interest in the trust company, with the nature of interest “Control as Corporate Trustee”.
 Where the trust company has more than four natural person shareholders, their interest in the underlying legal entity will be below the registrable threshold, resulting in no registrable beneficial owners being declared on the Database.
 A number of IOM TCSPs (including those larger firms which are members of international groups) are ultimately owned by 1) private equity or 2) publicly listed companies, thus 1) causing their own shareholding (and beneficial ownership) to be so dispersed as to have no RBO, or 2) being exempt from the remit of the BOA, if listed on a recognised stock exchange.
-## Definition of beneficial owner
+Definition of beneficial owner
 The definition of “beneficial owner” is set out at Section 4(1) of the Act and provides that “beneficial owner” means: _“a natural person who ultimately owns or controls a legal entity to which the Act applies, in whole or in part, through direct or indirect ownership or control of shares or voting rights or other ownership interest in that entity, or who exercises control via other means, and “beneficial ownership” is to be construed accordingly.”_ The definition is broad and seeks to capture all individuals who hold any definable interest through whatever means in the legal entity concerned or who are able to exercise control over the entity concerned.
 It is essential that all beneficial owners are identified and their beneficial ownership interest and/or right to exercise control of a legal entity is verified at the outset so that those individuals who are RBOs can be determined and their required details submitted to the Companies Registry accurately and within the prescribed timeframes.
-## Definition of legal owner
+Definition of legal owner
 The term “legal owner” is defined in section 3 of the Act as meaning: _“a natural or legal person who directly owns or controls shares or voting rights or other ownership interest in that entity or who exercises direct control via other means whether or not that person is also the beneficial owner of that interest”_ This includes corporate shareholders and nominee shareholders holding shares on behalf of others.
 There are instances whereby a person may be the legal owner of an entity but not the beneficial owner.
 Legal ownership must also be considered in terms of the control that a legal owner may be able to exercise.
-## Control via other means
+Control via other means
 “Control via other means” refers to any individual who does not hold more than 25% of the shares, an ownership interest, or voting rights, but still exercises significant control or influence over the legal entity.
 Situations may occur whereby control may not be easily identified or demonstrated through established methods, such as voting via shares.
 Legal owners, therefore, must consider circumstances where control may be exercised via other means, as they are still required to ascertain the beneficial owner of the legal owner’s interest, which includes control, and to provide to the Nominated Officer information from a reliable and independent source which verifies the required details.
-## Duties of the relevant person: Fully understood
+Duties of the relevant person: Fully understood
 “Relevant Persons” are defined in Section 30(2) of the BOA as: a) a legal entity to which this Act applies; b) a nominated officer; c) a legal owner; d) a beneficial owner; e) an intermediate owner; or f) a registrable beneficial owner.
 In order to identify the beneficial owners of a legal entity, it is essential that the structure of the legal entity is fully understood and beneficial ownership is traced through any number of persons or arrangements of any description (see Section 4(3)).
 For the purposes of ascertaining the beneficial ownership of a legal entity and whether those beneficial owners are registrable, the legal owner(s) and Nominated Officer play a significant and important role.
@@ -1099,16 +1099,16 @@ Obligations under the Beneficial Ownership Act: Legal entities Legal entities mu
 The legal entity must give notice of the appointment or a change to Companies Registry within prescribed time limits.
 The legal entity must keep a record of certain information regarding the Nominated Officer, as well as the Nominated Officer’s written consent to the appointment.
 A relevant legal entity which accesses the Beneficial Ownership Database and which knows or suspects any entry on the database in relation to that legal entity is materially incorrect must notify the Companies Registry within one week of identifying the potential discrepancy (as per Section 42).
-## Obligations under the Beneficial Ownership Act: Legal owners of the relevant legal entity
+Obligations under the Beneficial Ownership Act: Legal owners of the relevant legal entity
 A legal owner must ascertain the beneficial owner(s) of the legal entity in which it holds an interest.
 In many instances, the legal owner(s) may be the beneficial owner(s) of the legal entity themselves (as per Section 9(1)).
 Within 21 days of the incorporation of the legal entity and/or the date of any notice (request for information) received from the Nominated Officer, the legal owners must give notice to the Nominated Officer of the details required by the Act in respect of each beneficial owner of the legal owner’s interest.
 Legal owners have 14 days to make representations to the legal entity if a notice is received from the legal entity under Section 14(3) querying either a lack of information or the accuracy of information provided in relation to beneficial ownership.
-## Obligations under the Beneficial Ownership Act: Beneficial owners and intermediate owners
+Obligations under the Beneficial Ownership Act: Beneficial owners and intermediate owners
 Beneficial owners (and intermediate owners, should there be any) must assist legal owners to ascertain the beneficial owner of the legal owner’s interest in the legal entity and notify the legal owner of any changes to the beneficial ownership of that interest.
 Beneficial owners have 14 days to make representations to the legal entity if a notice is received from the legal entity querying a lack of information or accuracy of information in relation to beneficial ownership.
 Beneficial owners may consent for the Nominated Officer to voluntarily submit their information to the Companies Registry even if their interest is below the threshold for compulsory registration.
-## Obligations under the Beneficial Ownership Act: Nominated Officers
+Obligations under the Beneficial Ownership Act: Nominated Officers
 Section 13 details that Nominated Officers must ensure that the required details for all beneficial owners and the information which verifies those details are maintained and preserved for the required time period so that they are available for disclosure when necessary.
 The information must be preserved for a minimum of 5 years from the end of the period to which the information relates, or if later, 5 years from the completion of any investigation carried out under the Act or any other enactment.
 The required details (and the information from a reliable and independent source which verifies the required details) must be preserved on either the Island or on a server which is permanently accessible from the Island.
@@ -1122,10 +1122,10 @@ Disclosed information may be used by the recipient as evidence in criminal, civi
 For the purposes of the database, the Nominated Officers must take all reasonable steps necessary to identify any RBO(s) and submit details of each to the database.
 Nominated Officers should seek information from the legal entity and the legal owners to establish all relevant legal and beneficial owners, and obtain the details required in Section 11 of the Act.
 Where the legal entity has no RBO, a formal statement confirming that fact must be submitted to the Companies Registry.
-## Obligations under the Beneficial Ownership Act:
-## Any third party authorised by a legal entity to access beneficial ownership information
+Obligations under the Beneficial Ownership Act:
+Any third party authorised by a legal entity to access beneficial ownership information
 Under Section 26A, a person who is authorised to access the database must notify Companies Registry within one week if they know or suspect that any entry on the database is materially incorrect.
-## Potential revisions
+Potential revisions
 Since the Beneficial Ownership Act 2017 came into force, international standards have evolved.
 Recommendation 24, relating to the transparency and beneficial ownership of legal persons, requires adequate, accurate, and up-to-date information on the beneficial ownership of legal persons to be held by a public authority or body – for example, a company registry.
 FATF updated this recommendation in March 2022 to strengthen the requirements around the transparency of the ownership of legal persons.
@@ -1133,7 +1133,7 @@ Specifically, the recommendation was amended to require that any threshold used 
 It is recommended that the definition of RBO under Section 3 of the BOA be amended by secondary legislation to ensure greater alignment with the FATF requirements.
 This, including further consultation, will take place in 2026: This will mean that the percentage threshold relevant to the direct or indirect ownership of a legal entity through shares will not exceed a maximum of 25%.
 The guidance will be revised to provide more clarity regarding the application of the percentage threshold and more generally how beneficial ownership must be determined.
-## FSA responsibilities
+FSA responsibilities
 A Nominated Officer must submit a statement of compliance to Companies Registry annually, which confirms that:
 they have complied with their obligations under the Act;
 The FSA has oversight responsibilities to ensure the BOA is complied with and the Nominated Officer (which may be a TCSP) complies with their obligations under the BOA.
@@ -1142,11 +1142,11 @@ Guidance is published by the FSA in order to assist firms with their obligations
 The FSA has the power to issue civil penalties.
 Penalties have been issued against TCSP Nominated Officers for offences relating to submission of incorrect/non-submission of correct information to the Beneficial Ownership Database.
 All the civil penalties have been issued based on findings from onsite inspections by the FSA.
-## Competent authorities
+Competent authorities
 The Competent Authorities have access to the database for RBO information.
 If it falls outside, then the Competent Authorities have the power to request the information from the Nominated Officer.
 The Exchange of Notes (EON) between the UK Government and the IOM Government in respect of the sharing of beneficial ownership information is available (see Chapter 3.3.6).
-## TRAINING AND OUTREACH
+TRAINING AND OUTREACH
 The FSA have a beneficial ownership social media outreach programme to industry, called “Beneficial Ownership Tuesdays”.
 This takes the form of short-form videos posted on a fortnightly basis to LinkedIn.
 The FSA have approximately 4,400 followers on LinkedIn.
@@ -1161,7 +1161,7 @@ Topics have included: a new Nature of Interest category added to the Database; a
 Since December 2022, the FSA has published 7 press releases on topical beneficial ownership matters to its website.
 In 2023, the FSA published a 30-minute webinar on beneficial ownership to its website to assist persons in compliance with their obligations.
 In 2023, the FSA reached out to local organisations/publications with a wide reach in order to promote compliance with the BOA among non-TCSP-administered entities.
-## TRUSTS
+TRUSTS
 There is no register of trusts/beneficiaries of trusts in the IOM.
 Information on beneficial owners, including trusts, is available to regulators and law enforcement authorities via TCSPs upon request.
 The TCSP cannot inform the trustees of this request, as this may alert the relevant trust, leading to “tipping off” (a criminal offence under POCA and subject to regulatory sanction were this to happen).
@@ -1171,7 +1171,7 @@ Where acting under an exemption, these parties are still obliged to comply with 
 This approach has been deemed acceptable on the Island following a ML/TF risk assessment of each exemption or exclusion.
 Those not acting by way of business as trustee are obliged to comply with the AML/CFT (Unregulated Domestic Trustees) Code 2018 where the definition of ‘unregulated trustee’ is met.
 The FSA will continue to monitor the perimeter to identify any limited use of non-professional trustees acting by way of business and will complete further outreach to raise awareness/ understanding of their obligations and to develop a better understanding of the risks posed by trusts administered outside of the regulated sector.
-## _3.2.8 Tax attractiveness_
+_3.2.8 Tax attractiveness_
 Income tax and National Insurance are the two significant direct levies in the IOM.
 National Insurance classes and rates are structured in a similar way to the UK system.
 Income tax revenues and National Insurance revenues in the IOM for 2024/25 were £388.5 million and £279.8 million respectively.
@@ -1193,12 +1193,12 @@ On summary conviction, a person may be issued a fine of up to £10,000 and/or si
 Like most tax authorities, the use of civil measures (sanctions of up to a 100% penalty of tax lost for negligence and 200% for fraud) coupled with prosecution action in relation to the non-submission of returns or accounts is more common in terms of tackling non-compliance.
 In the last three tax years, as a result of investigations into omitted/under-declared income (not including technical enquires that also resulted in further tax being due), £4.1 million in additional tax (income tax and National Insurance) and associated penalties and interest were charged.
 For fiscal years commencing on or after 1 January 2025, groups in scope of Pillar 2 Global Minimum Tax (large multinational
-## 3.3 Strength of mitigation measures
+3.3 Strength of mitigation measures
 This step in the World Bank methodology is aimed at determining the strength of existing mitigation measures against abuse of legal structures in the IOM.
 In contrast, the ANRI score (Chapter 3.2) captures factors impacting the attractiveness of the jurisdiction for potential risk factors, which may increase a jurisdiction’s inherent vulnerability to such risks.
 In the methodology, the score for strength of mitigation measures is combined with the ANRI score to give the national vulnerability score (Chapter 3.1).
 The network diagram is in Figure 3-3.
-## _3.3.1 Quality of corporate registry_
+_3.3.1 Quality of corporate registry_
 The Central Registry is within the IOM Government’s Department for Enterprise and comprises: the Civil Registry, which is responsible for registering life events such as births, deaths, marriages, and civil partnerships; The Registry is not a regulatory body, although powers to make enquiries to establish the accuracy of information provided to the Registry exist and are utilised.
 The power to make enquiries was introduced to the corporate acts in 2018 and extended to the BOA in 2021. the Companies Registry – see below; the Deeds Registry, which records and stores deeds and other important life events; the Land Registry, which records interests in land, property, and details of ownership; Companies Registry is operationally responsible for registering, and thereafter maintaining, public registers for legal entities established in the IOM, foreign companies with a substantive link to the IOM, and limited partnerships (without legal personality).
 The following are required to register with the Companies Registry:
@@ -1224,8 +1224,8 @@ Currently, the fines are £100 if late by 1–3 months and £250 if more than 3 
 It is recommended that these fines are reviewed to ensure they are sufficiently dissuasive.
 It is also recommended that Companies The IOM provides online access to its Companies Registry, allowing users to search for and retrieve company-related information as well as beneficial ownership information.
 From 31 December 2024, obliged entities have been able to request access to the IOM Beneficial Ownership Database for the purpose of carrying out its function in respect of customer due diligence with the AML/CFT Code 2019 and the Gambling (AML/CFT) Code 2019.
-## _3.3.2 Quality of information obtained through customer due diligence_
-## CDD BY FINANCIAL INSTITUTIONS AND TCSPS
+_3.3.2 Quality of information obtained through customer due diligence_
+CDD BY FINANCIAL INSTITUTIONS AND TCSPS
 The AML/CFT Code 2019 Part 4 covers CDD , as does the Gambling AML/CFT Code 2019 .
 The IOM FSA AML/CFT Handbook covers CDD in Section 3 .
 The IOM GSC AML/CFT Guidance covers CDD.
@@ -1243,7 +1243,7 @@ There are specific requirements of the Code that are applicable in this scenario
 The FSA Inspections review the appropriateness and quality of CDD held by TCSPs, as well as financial institutions and other designated businesses including “gatekeeper” professional sectors.
 Identified “findings” are recorded against the AML/CFT Code paragraphs.
 The most relevant ones for CDD are: 8: “new business relationships” (undertaking CDD at outset of relationship); 10: “continuing business relationships” (ongoing CDD, e.g. when CDD requirements change over the years and firms must update records);
-## BENEFICIAL OWNERSHIP REQUIREMENTS UNDER THE AML/CFT CODE
+BENEFICIAL OWNERSHIP REQUIREMENTS UNDER THE AML/CFT CODE
 Separate to the FSA’s mandate in relation to supervising entities in relation to the BOA, under the IOM AML/CFT Code, the FSA requires registered and supervised entities to collect and verify UBO information as part of CDD obligations.
 Registered and supervised entities must obtain and take reasonable measures (on a risk-based approach) to verify the following UBO information before establishing a business relationship or conducting an occasional transaction: - full legal name; 12: “beneficial ownership and control” (identifying and taking reasonable measures to verify natural and non-natural persons in relationship with a non-natural person); - date of birth; - nationality; - residential address; - nature of ownership/control; and 15: “enhanced CDD”. source of wealth (where applicable) and source of funds.
 The majority of the findings recorded by the FSA identified from Inspections in 2022–4 were related to findings concerned with enhanced CDD and new business relationships.
@@ -1251,13 +1251,13 @@ UBO identity must be verified using reliable, independent source documents.
 Entities must conduct ongoing monitoring to ensure UBO information remains accurate and up-to-date, and enhanced due diligence (EDD) is required for high-risk customers, including foreign PEPs.
 Records of UBO identification and verification must be retained for at least 5 years after the end of the business relationship and must be readily retrievable.
 From 31 December 2024, obliged entities (e.g., banks, TCSPs, legal professionals) may request access to the IOM Database of RBO for the purpose of fulfilling their AML/CFT obligations under Part 4 of the Code.
-## GROUP OF INTERNATIONAL FINANCE CENTRE SUPERVISORS
+GROUP OF INTERNATIONAL FINANCE CENTRE SUPERVISORS
 The First Round Mutual Evaluation Report of the IOM, adopted 12th January 2024, from the Group of International Finance Centre Supervisors (GIFCS), reported on the standard of regulation of TCSPs, which included CDD practices. 9 out of 10 areas were rated “compliant” and 1 area “largely compliant”.
 GIFCS noted: _“Typically, a client or customer list is obtained by the IOMFSA from the TCSP and a sample of files is put together for review on-site to test and assess CDD, EDD, and screening of customers.”_
-## AML/CFT RISK UNDERSTANDING AND TRAINING OF TCSPS
+AML/CFT RISK UNDERSTANDING AND TRAINING OF TCSPS
 Inspections of TCSPs in the period 2022–4 only had 1 finding related to failings in staff training.
 The FSA has also received positive feedback in relation to the training and outreach provided in this area. application as an officer, subscriber, or the presenter of the application, together with information that verifies the Registered Office address and that the proper authority to use the stated address as the Registered Office exists.
-## COMPANIES REGISTRY, COMPANY RISK ASSESSMENT
+COMPANIES REGISTRY, COMPANY RISK ASSESSMENT
 The risks identified form the basis of a Company Risk Assessment (CoRA); these have been undertaken for all nonTCSP submitted applications to incorporate under the 1931 Act since 1st July 2025.
 Companies Registry, through its Companies and Beneficial Ownership User Group, worked with the TCSP sector through Q3 and Q4 2025 to establish a process for the expansion of such risk assessment for all incorporated entities, including those submitted by licensed entities.
 The expanded CoRA was introduced on 5th January 2026.
@@ -1265,7 +1265,7 @@ Companies Registry will be undertaking a project to risk assess all entities on 
 Companies Registry works closely with the FSA, the regulatory body for licensed entities.
 Companies Registry mitigates its risks for licensed entities through its relationship with the FSA, which has supervisory oversight and can impose sanctions for breaches of the AML/CFT and beneficial ownership legislation.
 The CoRA conducted by Companies Registry identifies a number of risks including: type of entity; activity; location of activity; location of officers; location of owner/beneficial owner;
-## COMPANIES REGISTRY
+COMPANIES REGISTRY
 In October 2023, Companies Registry introduced basic CDD requirements for non-TCSP applications to incorporate under the 1931 Act.
 The CDD requirements were introduced subsequent to two unconnected instances of possible address fraud occurring during spring/summer 2023.
 In both cases Companies Registry commenced an investigation which resulted in the two companies being struck off the register as those associated with the respective companies were unable to provide updated and verified information.
@@ -1284,7 +1284,7 @@ The Risk Committee may impose any further mitigation measures it deems necessary
 Such mitigation measures might include: increased monitoring; regular investigation work; regular EDD; monitoring of the companies’ activities through its website, The Foreign Companies Act 2014 details the requirements for foreign legal persons.
 All such companies that own land and/ or carry on – or is held out as carrying on – business from an established place of business from the Island must register on the Foreign Companies Register.
 Other foreign companies with sufficient interests in the Island (as defined in the Act) may also register separate to the requirements of the Act.
-## HOW THE COMPANIES REGISTRY CORA IS USED TO MANAGE RISK
+HOW THE COMPANIES REGISTRY CORA IS USED TO MANAGE RISK
 The CoRA is used to identify the specific risks an entity presents.
 The CoRA is weighted to ensure that the final risk rating reflects higher risks and threats to the Registry and the Island.
 When social media, third-party checks, etc; monitoring of the officers’ activity through its website, social media, third party checks, etc.; other measures as deemed necessary.
@@ -1294,7 +1294,7 @@ Ongoing monitoring is conducted on all entities based on the assessed risk ratin
 In addition, an entity must be reviewed following a trigger event.
 Trigger events include: The Enforcement team works closely with all Companies Registry teams, the AGC, and the FSA.
 The team prepares cases for referral for prosecution where there have been breaches of the legislation. breaches to company legislation (other than standard late filing); change of beneficial owner or legal owner; in the case of unlicensed entities, changes to officers /Registered Office;
-## _3.3.3 Quality of regulation and supervision of TCSPs_
+_3.3.3 Quality of regulation and supervision of TCSPs_
 change of purpose; anyone appearing on the Sanctions list (this will be subject to a regular system sanctions checking facility when introduced; such upgrade is a high priority); changes to PEP status of individuals (this is subject to a regular system checking facility; such upgrade is a high priority); any issues from an external identity verification of a beneficial owner; potential relevant adverse publicity identified by Companies Registry, either directly or through a referral from an external source; any other developments viewed as significant by the DAQL.
 Companies Registry has an Investigation Team to undertake investigation work on entities on the Register.
 Such work includes thematic reviews and intelligence-led reviews of entities on the register.
@@ -1306,14 +1306,14 @@ The TCSP sector in the IOM has made progress in strengthening its controls and m
 It is also engaging effectively with the authorities via a number of channels, including a TCSP-specific Financial Crime Partnership group.
 However, vigilance remains crucial.
 Ongoing global trends, such as the growth in cross-border business, development and evolution of digital payment methods, and the expansion of organised crime typologies, require the sector and authorities to continually adapt their risk management strategies and operational resilience.
-## REGULATIONS AND SUPERVISION
+REGULATIONS AND SUPERVISION
 TCSPs and other intermediaries involved in forming or administering legal entities are typically covered by AML regulations (AML/CFT Code 2019) with CDD requirements and an obligation to report suspicious transactions.
 TCSPs are supervised by the FSA.
 CSPs have been regulated and supervised since October 2000 and TSPs since July 2005.
 Regulation extends beyond AML/CFT to also include prudential and conduct requirements.
 The FSA supervises the TCSP sector on a risk-based approach (see Chapter 1.3 for further details on Class 4 and 5 services).
 In 2024, the FSA adopted STRIX AML, a data-led risk assessment technology tool that automates the collection and analysis of AML/CFT data, including UBO information, in order to risk assess its supervised entities –specifically, requesting the total number of UBOs resident in each jurisdiction for all customers who are non-natural persons (e.g., LPAs).
-## FSA INSPECTIONS
+FSA INSPECTIONS
 The FSA undertakes regular inspections across the TCSP sector in accordance with its published Supervisory Methodology, which includes its Inspections Methodology There is published Inspections Guidance which provides an overview of how firms are selected for an inspection and what they can expect during the process.
 Figure 3-7a shows the number and type of AML inspections of TCSPs during the 5-year period 2020–2024.
 During this period, there have also been 327 questionnaires issued to firms that have been AML-related.
@@ -1321,7 +1321,7 @@ In addition, the FSA undertook Beneficial Ownership Inspections (see Figure 3-7b
 The effectiveness of FSA inspection activity can be measured by reviewing the initial residual risk rating of findings identified during inspections, followed by the post-mitigation residual risk rating of those inspection findings, as per Figure 3-8.
 These were for the following inspection topics: - BO - Nominated Officer - Contravention of Section 20(3) - Timeframes; - BO - Nominated Officer - Incorrect person recorded on the Database; BO - Legal Owner - Contravention of Section 9(3) - Required details to the nominated officer; - BO - Nominated Officer - Nature of interest incorrect; - BO - Nominated Officer - Percentage of interest incorrect; BO - Nominated officer - Contravention of Section 20(1) - Reasonable steps; - BO - Nominated Officer - Typographical or other errors in the submission of the required details.
 BO - Nominated Officer - Contravention of Section 20(3) - Submit information to the Department;
-## INSPECTIONS BY THE FSA TO ASSESS CDD FOR LEGAL PERSONS AND ARRANGEMENTS
+INSPECTIONS BY THE FSA TO ASSESS CDD FOR LEGAL PERSONS AND ARRANGEMENTS
 The FSA undertakes inspections to evaluate compliance with the AML/CFT Code 2019.
 Selected relevant persons are notified in advance, typically 6–8 weeks prior to the scheduled on-site inspection, although shorter notice may be given where necessary.
 During an inspection, a variety of LPAs are reviewed by the inspection team.
@@ -1335,7 +1335,7 @@ After considering any feedback, the FSA will issue a final report.
 Entities are expected to address any deficiencies within a specified timeframe and may be subject to follow-up inspections to ensure compliance has been achieved.
 Non-compliant entities may be subject to a variety of measures to resolve any issues; the action would be determined through the FSA’s internal governance processes.
 These include but are not limited to : an enhanced programme of remediation; civil penalties; reinspection later; enhanced supervision; directions to require or prohibit certain actions – e.g., ceasing new business relationships or appointing a third-party entity to assist with the operation of the entity in some manner; or referral to the AGC for the initiation of criminal proceedings.
-## INSPECTIONS BY THE FSA TO ASSESS COMPLIANCE WITH THE BENEFICIAL OWNERSHIP ACT
+INSPECTIONS BY THE FSA TO ASSESS COMPLIANCE WITH THE BENEFICIAL OWNERSHIP ACT
 Inspections conducted under the BOA follow a similar process to that described above.
 During beneficial ownership inspections, the FSA may examine records, accounts, and documentation to verify the accuracy and adequacy of information submitted regarding beneficial ownership and control.
 This assessment determines whether the entity meets the requirements set out in the BOA.
@@ -1353,49 +1353,49 @@ The breakdown by legal entity type is shown in Figure 3-9, compared with the ove
 The numbers are in line with the ML/ TF risks given that 2006 Act and 1931 Act companies are the entities reviewed the most.
 In addition to inspections of TCSPs, the FSA also inspect the banks.
 Since 2022, the FSA have completed 15 inspections of banks, and each has included consideration of beneficial ownership where appropriate.
-## FSA RISK RATING PROCESS
+FSA RISK RATING PROCESS
 To enable the risk-based approach for engagement, the FSA have undertaken a risk rating process on all legal entities on the Companies Registry based on the beneficial ownership information that has been declared, and identified a very small number (c. 0.3%) of all legal persons that are potentially rated as high-risk but which are not managed by a TCSP.
 The FSA should continue developing a strategy for how this may drive proactive, rather than reactive, risk-based oversight inspections of non-TCSP-administered entities under the BOA.
 The Financial Services (Civil Penalties) Regulations 2015 came into effect August 2015, the Anti-Money Laundering and Countering the Financing of Terrorism (Civil Penalties) Regulations 2019 came into effect in 2019, and the Beneficial Ownership (Civil Penalties) Regulations 2022 came into operation in 2022.
 The FSA publishes where discretionary civil penalties have been issued and any accompanying public statement provides key findings and learning points.
-## TRAINING AND OUTREACH
+TRAINING AND OUTREACH
 As referenced in Chapter 3.2.7, the FSA has a programme of industry outreach which includes regular LinkedIn posts, including “AML Wednesday,” where a variety of key topical messages are shared.
 In addition to regular news messages, there are webinars, publications , and videos .
 Following inspections taking place, feedback is provided to industry as a whole, usually through a webinar and/or thematic report covering the specific topic.
-## TCSP – BUSINESS RISK ASSESSMENT THEMATIC
-## REPORT PHASES 1 AND 2
+TCSP – BUSINESS RISK ASSESSMENT THEMATIC
+REPORT PHASES 1 AND 2
 In July 2023, the FSA published a phase 1 TCSP Thematic Report on Business Risk Assessments, followed by a phase 2 inspections report published in January 2024.
 In the Executive Summary for phase 2, it states: _“The Authority has completed a thematic project involving TCSPs on the Island.
 The Authority initially gathered data and information on Class 4 (Corporate Services) and Class 5 (Trust Services) licenceholders, concluding a thematic project would be valuable to further connect and work with the sector.
 This has allowed and enabled the Authority to gather further data, assisting in risk assessing the firms and sector, as well as building knowledge and findings to be fed back into the Handbook, the sector specific guidance and the NRA.”_
-## _3.3.4 Accessibility of BO information_
-## ACCESS BY COMPETENT AUTHORITIES
+_3.3.4 Accessibility of BO information_
+ACCESS BY COMPETENT AUTHORITIES
 Sections 3(1) and 15(3) of the BOA allow access to the database by the Competent Authorities.
 These are defined as: FIU; AG; Assessor of Income Tax (ITD); FSA; Chief Constable; Collector of Customs and Excise.
 Access is for purposes such as: Preventing, detecting, investigating or prosecuting criminal offences Regulatory enforcement and financial crime prevention
-## ENFORCEMENT
+ENFORCEMENT
 The FSA has an Enforcement Division, which has published its Enforcement Decision-Making Process (EDMP) document (issued August 2025), which describes the decision-making process the FSA follows when the board exercises the FSA’s statutory powers.
 It is only the significant enforcement sanction decisions which are subject to the EDMP.
 Subject to initial authorisation by Companies Registry, the Beneficial Ownership Database is accessible electronically.
 Only designated individuals (currently 158 in total) within the Competent Authorities have access to the database.
 An audit log is in place.
 The Competent Authorities can extract information on an individual or extract a bulk download according to a variety of search parameters.
-## ACCESS BY OBLIGED ENTITIES
+ACCESS BY OBLIGED ENTITIES
 Following an amendment to the BOA in December 2024, obliged entities are able to access the Beneficial Ownership Database upon request, for a fee, for the purposes of carrying out its functions in respect of Part 4 of the AML/CFT Code 2019 (CDD and ongoing monitoring) and Part 4 of the Gambling (AML/CFT) Code 2019.
 Once registered, the request for beneficial ownership information takes 48 hours to process.
 Companies Registry keep a record of requests made under this section of the Act.
 Requests can be, and are, rejected – for example, if a request is received from a person who is not an obliged entity within the meaning given in Section 26(2A) of the Act.
-## PUBLIC ACCESS
+PUBLIC ACCESS
 The Companies Registry and the Beneficial Ownership Database are separate registers.
 The general public do not have access to the Beneficial Ownership Database.
 However, there is a public search function on the Companies Register for searches by entity name or number, giving access to basic information on legal entities.
 The IOM Government has published a commitment in December 2023 to exploring access to the Beneficial Ownership Database for “those media and civil society organisations who can demonstrate a legitimate interest in accessing the information in order to combat financial crime.” The data on the Beneficial Ownership Database is held in a standardised, machine-readable format.
 It is searchable by a number of variables and it is possible to search for, and extract, a combination of information.
-## WIDER USAGE OF COMPANIES REGISTRY SYSTEM
+WIDER USAGE OF COMPANIES REGISTRY SYSTEM
 The Companies Registry system is also accessible to all users on the IOM Government network, which allows for company searches.
 Companies Registry are observing an increase in usage of this functionality by Government agencies and departments.
-## _3.3.5 Existence and effectiveness of beneficial ownership verification mechanisms_
-## QUALITY OF ROUTINE VERIFICATION
+_3.3.5 Existence and effectiveness of beneficial ownership verification mechanisms_
+QUALITY OF ROUTINE VERIFICATION
 Companies Registry undertake the verification checks on RBO information which is submitted, looking for inconsistencies, and queries are raised if appropriate. 100% of non-TCSP-submitted RBO is validated where the RBO’s address has not been selected through an address gazetteer. 25% (randomly selected) of TCSP-submitted RBO is validated where the RBO’s address has not been selected through an address gazetteer.
 Queries are raised with the Nominated Officer, who is asked to take action.
 The onus is put on the Nominated Officer.
@@ -1403,26 +1403,26 @@ Certain persons (including an obliged entity) are required to notify Companies R
 It is an offence if the person does not notify Companies Registry.
 In 2024, Companies Registry introduced a third-party identity verification solution.
 This enhancement provided: automated requests for third-party verification upon the submission of a new RBO (by a natural person Nominated Officer), on the occurrence of an update to an existing RBO, or upon the next annual statement of compliance being made; the ability for Companies Registry to trigger ad hoc third-party verification requests; controls around country of residence or nationality to override the automated triggers for third-party verification requests, in order to enable a risk-based approach for residents or nationals of high-risk jurisdictions.
-## QUALITY OF RISK-BASED ENHANCED VERIFICATION
+QUALITY OF RISK-BASED ENHANCED VERIFICATION
 The beneficial ownership information is cross-checked against the UK sanctions lists.
 There is a team within Companies Registry who make checks of the beneficial ownership details that have been submitted against existing entries in the Register to ensure it is consistent with information already held and to undertake open-source checks in some higher-risk cases, obtaining copies of Identification Document and Verification.
 The Central Registry (see Chapter 3.3.1 on Quality of Corporate Registry) has a number of individual registries; however, they are not interconnected and there is not an “only once” principle.
-## POWERS TO MAKE ENQUIRIES
+POWERS TO MAKE ENQUIRIES
 Companies Registry, while not being liable for the accuracy of information submitted to it under the BOA or each Act to which the BOA applies, does have powers to make enquiries in order to establish the accuracy of any information submitted for inclusion in the database or on any of the applicable registers: BOA, Section 25;
-## _3.3.6 Effectiveness of international information exchange_
-## EXCHANGE OF NOTES
+_3.3.6 Effectiveness of international information exchange_
+EXCHANGE OF NOTES
 In April 2016 the EON came into force between the IOM and UK in respect of sharing of beneficial ownership information.
 The UK Home Office Statutory review of the implementation of the EON on beneficial ownership between the UK, CDs, and Overseas Territories, published June 2019 , concluded: _“The Exchange of Notes Arrangements have proven highly valuable to UK law enforcement agencies.
 The Arrangements have increased in effectiveness since their introduction as initial administrative challenges and misunderstandings have been resolved.”_
-## FIU INTERNATIONAL EXCHANGES
+FIU INTERNATIONAL EXCHANGES
 The FIU report on EON requests and other channels for International Information Exchange, which include: - EON requests which are evidential information;International - Anti-Corruption Coordination Centre requests; 1931 Act, Section 285B; 2006 Act, Section 206A; Foundations Act 2011, Section 50A; LLC Act 1996, Section 11E; Partnership Act 1909, Section 56A.
-## CIVIL PENALTIES
+CIVIL PENALTIES
 The Beneficial Ownership (Civil Penalties) Regulations 2022 added civil penalties to the existing criminal sanctions regime.
 It established fixed penalties of £1,000 or £5,000, depending on the nature of the offence.
 The FSA is responsible for overseeing compliance and imposing penalties.
 A number of civil penalties under this regime have been imposed since 2024, totalling £65,000.
 Financial Crime Information Network requests; Egmont Group member requests – of these requests from the Egmont Group, the greatest suspected predicate offence for inbound and outbound was fraud; the top jurisdiction for inbound and outbound was the United Kingdom.
-## INTERNATIONAL EXCHANGE OF TAX INFORMATION
+INTERNATIONAL EXCHANGE OF TAX INFORMATION
 The IOM operates a responsible tax system and has a longstanding policy of compliance with international standards as they are promulgated by bodies such as the FATF and the OECD.
 The Isle of Man has a wide network of international tax agreements that provide for various forms of exchange of information for tax purposes and has been a party to the OECD/Council of Europe Convention on Mutual Administrative Assistance in Tax Matters since March 2014.
 These agreements ensure compliance with international tax standards and promote transparency.
@@ -1438,9 +1438,9 @@ These frameworks ensure international tax transparency and the automatic exchang
 Additionally, the IOM is committed to other international tax cooperation through mechanisms such as the BEPS Inclusive Framework .
 The BEPS framework is focused on measures aimed at preventing multinational companies from avoiding tax by shifting profits to other jurisdictions, and includes the automatic exchange of information in line with country-bycountry reporting rules and the spontaneous exchange of potentially relevant information, including those in respect of certain tax rulings (ETR).
 Finally, from 2027, the Isle of Man will also automatically exchange tax information with respect to crypto-assets under the OECD’s new Crypto-Asset Reporting Framework.
-## PROTECTION FROM LIABILITY
+PROTECTION FROM LIABILITY
 The International Co-Operation (Protection from Liability) Act 2021 made provisions for protection from liability against claims for damages, costs, and consequential loss in cases where a public authority provides assistance pursuant to a request made by a relevant authority of a country or territory outside the Island and for connected purposes.
-## _3.3.7 Effectiveness of domestic inter-agency information exchange_
+_3.3.7 Effectiveness of domestic inter-agency information exchange_
 Although there is strict application by FIs of the common law duty of confidentiality in respect of customer information, it is overridden by various statutory provisions, including POCA, the Anti-Terrorism and Crime Act 2003, and others.
 The framework for inter-agency cooperation serves as a factor for mitigating potential ML/TF risk.
 The small size of the jurisdiction may be an advantage.
@@ -1456,7 +1456,7 @@ PPPs are considered internationally to be the future of financial intelligence-s
 The IOMFCP has already begun developing relationships with other jurisdictions’ PPPs.
 Strong links have already been established with the UK’s Joint Money Laundering Intelligence Taskforce, the PPPs of Jersey, Guernsey, and Gibraltar, as well as the Europol Financial Intelligence Public Private Partnership.
 The IOMFCP Banking and TCSP Operational Groups as well as an eGaming Risk Group have been formed and are working effectively.
-## _3.3.8 Effectiveness of enforcement of sanctions/fines_
+_3.3.8 Effectiveness of enforcement of sanctions/fines_
 Fines or sanctions exist for failure to file the required RBO information, or failure to correct data discrepancies.
 The FSA published a Guidance document in December 2024 , including tables of BOA offences, which states: _“Failure to meet obligations may be an offence under the Act.
 As the competent authority responsible for assessing compliance with the Act, the Authority has the powers to submit reports to the Attorney General on offences that may have been committed or may impose civil penalties on any relevant legal entity and/or relevant person where an offence has occurred.
@@ -1476,37 +1476,37 @@ The FSA is risk-based in its approach to formulating the schedule of relevant pe
 It also has the capability to react and conduct inspections and other engagement where appropriate on a risk-reactive basis – for example, in response to intelligence received from a variety of sources, including the Companies Registry or LEAs.
 Throughout 2023 and 2024, the FSA undertook 5 risk-reactive beneficial ownership inspections (4 of which were of TCSP Nominated Officers).
 In 2025, the FSA has conducted 2 intelligence-led, event-driven beneficial ownership inspections (1 being a TCSP Nominated Officer and the other being a natural person Nominated Officer), in addition to two risk-based scheduled inspections of TCSP Nominated Officers.
-## 3.3.9 Quality of controls against opaque structures
-## _3.3.9.1 Existence and quality of beneficial ownership transparency measures for foreign structures_
+3.3.9 Quality of controls against opaque structures
+_3.3.9.1 Existence and quality of beneficial ownership transparency measures for foreign structures_
 Figure 3-11, an extract from Appendix 1, shows the position regarding beneficial ownership and basic information for foreign legal persons.
 Companies Registry do not hold beneficial ownership information on any foreign companies as they are not subject to the BOA.
 All foreign-registered companies (1.21% of the total) and foreign companies – which are IOM tax-resident (2.11% of the total) must provide beneficial ownership information to the ITD, although this is unverified as it is collated for tax purposes rather than to meet AML requirements .
 LEAs can access this information, though in practice, they usually go directly to the TCSP for the verified information.
 All foreign companies (5.81% of the total) are subject to the formation and disclosure requirements of their jurisdiction of incorporation.
-## _3.3.9.2 Quality of bearer share controls_
+_3.3.9.2 Quality of bearer share controls_
 New bearer shares are prohibited under the 1931 Act company regime (Section 71).
 Bearer shares are not, and have never been, allowed under the 2006 Act company regime (Section 30).
 The 1931 Act was amended by the Companies (Prohibition of Bearer Shares) Act 2011 , which required companies with bearer shares in issue to convert them into registered shares (i.e., shares in respect of which a person is entered in the register of members as the holder of the shares).
 No new bearer shares can be issued.
 The sole legacy case (a 1931 Act company) is in liquidation and under AGC oversight.
-## The IOM AML/CFT Handbook states:
+The IOM AML/CFT Handbook states:
 The beneficial ownership requirements of the AML/CFT Code must be applied to IOM and non-IOM LPAs where they are customers of relevant persons (e.g., TCSPs) in the IOM.
 Therefore, in accordance with Section 12(2) of the AML/CFT Code verified beneficial ownership information is held by the TCSPs that administer them and can be accessed by the competent authorities: _“12(2) A relevant person must, in the case of any customer –_ _(a) which is not a natural person –_ _(i) identify who is the beneficial owner of the customer, through any number of persons or arrangements of any description; and_ _(ii) subject to paragraphs 11(4), 11(5), 16(2) and 18(2) take reasonable measures to verify the identity of any beneficial owner of the customer, using reliable, independent source documents, data or information”_ _“3.3.7 Bearer shares many jurisdictions, including the Isle of Man, have prohibited or immobilised bearer shares due to the associated AML/CFT/CPF risks.
 However, certain jurisdictions may still allow these to be used; therefore, relevant persons must take particular care to record the details of bearer shares received or delivered other than through a recognised clearing or safe custody system, including the source and destination._ _To reduce the opportunity for bearer shares to be used to obscure information on beneficial ownership, the Authority expects all relevant persons to immobilise bearer shares and take them into safe custody.
 Should a prospective, or existing, customer refuse to allow the immobilisation of the bearer shares, the relevant person should not proceed any further with the business relationship and must consider making an internal disclosure.”_ In the TCSP 2025 LPA Return, there were no bearer shares recorded.
 Agreements with other jurisdictions for expedited exchange of beneficial ownership information outside of the MLA processes would be: Exchanges of Notes, providing evidential information (see Chapter 3.3.6); or the Egmont Group, for intelligence purposes.
-## _3.3.9.3 Quality of nominee controls_
-## FATF INTERPRETATIVE NOTE TO
-## RECOMMENDATION (INR) 24, UPDATED JUNE 2025
+_3.3.9.3 Quality of nominee controls_
+FATF INTERPRETATIVE NOTE TO
+RECOMMENDATION (INR) 24, UPDATED JUNE 2025
 The INR details the measures for nominee directors and nominee shareholders : _“13.
 Countries should take measures to prevent and mitigate the risk of the misuse of nominee shareholding and nominee directors, by applying one or more of the following mechanisms:_ _(a) requiring nominee shareholders and directors to disclose their nominee status and the identity of their nominator to the company and to any relevant registry, and for this information to be included in the relevant register, and for the information to be obtained, held or recorded by the public authority or body or the alternative mechanism referred to in paragraph 7.
 Nominee status should be included in public information;_ _(b) requiring nominee shareholders and directors to be licensed, for their nominee status and the identity of their nominator to be obtained, held or recorded by the public authority or body or alternative mechanism referred to in paragraph 7 and for them to maintain information identifying their nominator and the natural person on whose behalf the nominee is ultimately acting, and make this information available to the competent authorities upon request; or_ _(c) enforcing a prohibition of the use of nominee shareholders or nominee directors.”_ The concept of a nominee director does not appear in IOM law.
 Where a TCSP provides a director(s) for a client company as part of its service offering to the customer , such directors are subject to the same common law duties as any other director; they must not restrict their powers to exercise their judgement independently.
-## TCSP DIRECTORS
-## Quality of BO identification
+TCSP DIRECTORS
+Quality of BO identification
 Generally, a person (TCSP) providing (by way of business) directors for a client company must be licensed by the FSA.
 Schedule 1, Class 4 (Corporate Services) to the Regulated Activities Order 2011 states that the following are regulated activities requiring a Class 4 licence:
-## a) acting as a director;
+a) acting as a director;
 b) arranging for another person to act as a director; or c) arranging for another person to act as an alternate director of a company.
 With regards to term ‘nominee directors’ in the context of the TCSP sector, where a TCSP provides a director(s) for a client company as part of its service offering to the customer, that director is not classified as a nominee director.
 Such directors are subject to the same common law duties as any other director; they must not restrict their powers to exercise their judgement independently.
@@ -1517,12 +1517,12 @@ Directors should not allow others to unduly influence them in a way as to underm
 Any attempted “string-pulling” by other directors, shareholders, beneficial owners or other third parties, should be firmly resisted by directors.
 The directors must make their own decisions, after receiving appropriate professional advice if necessary.
 They must not simply “rubber stamp” decisions made by others.”_
-## In Section 5.4, it states:
+In Section 5.4, it states:
 “A director must always remember that he may be held accountable for losses if he has not complied with his statutory and fiduciary duties or failed to exercise the requisite duty _of care, diligence and skill and that there is no such entity as a “nominee” director when it comes to liability_ .” Where a natural person provides more than 10 directorships by way of business, they are required to be licensed by the FSA as a professional officer under Class 4 (Corporate Services) unless an exemption applies.
 Under the Financial Services (Exemptions) Regulations 2011, the provision of director services by an individual by way of business is subject to a de minimis threshold, so that where an individual holds 10 or fewer appointments as a director, the person is not required to hold a financial services licence with Class 4 permissions.
 However, the obligations of the AML/CFT Code still apply, but as the person is exempt from licensing, they are not supervised for compliance with the same.
 Other exemptions to licensing exist (such a domestic services and entrepreneurial activities).
-## Legislation
+Legislation
 A “nominee director” entity is not recognised in any IOM legislation.
 There is a single concept of a “director” (of a company) in IOM law, and all directors are fixed with the same duties (e.g., fiduciary duties) towards the company.
 In Manx law, the duties of directors are a matter of common law; they are not codified as in the UK Companies Act 2006.
@@ -1533,19 +1533,19 @@ Beneficial ownership may be traced through any number of persons or arrangements
 Both TCSPs and the FSA have processes and procedures to ensure directors do not behave as nominee directors, nor can be perceived to exist, including but not limited to: IOM FSA Fitness & Propriety requirements; the requirement of corporate directors to hold suitable qualifications; the conflicts register; inspections by the FSA that will look at governance within a company; board minutes showing consideration of decisions and evidenced; and colleagues within a TCSP covering work for each other who are corporate directors – e.g., during holidays or sickness – further indicating this is part of a service provision to a customer rather than acting as a nominee director.
 The FSA-issued Directorship Guidance 2015 outlines expectations: “Competence.
 It is the FSA’s expectation that client vehicle directors and trustees will: Have the necessary knowledge to understand their responsibilities in relation to the vehicle in question; Act with skill care and diligence, appropriately and independently in the best interests of the vehicle; Have up to date and accurate information concerning the vehicle’s business, governance and financial position; Have relevant experience in respect of their responsibilities; and Be able to allocate sufficient time to the vehicle to discharge their responsibilities effectively”
-## NOMINEE SHAREHOLDERS
-## Quality of BO identification
+NOMINEE SHAREHOLDERS
+Quality of BO identification
 Acting as a nominee shareholder, or arranging for another person to act as a nominee shareholder, of a company or as a limited partner of a limited partnership with legal personality by way of business (i.e., a TCSP) is a regulated activity for which a Class 4 licence is required from the FSA.
 Licence-holders providing such a service are required, under the Financial Services Rule Book 2016 , Section 6.65, to: “(a) ensure that in all such cases a written nominee agreement or such other trust instrument as maybe appropriate exists; and (b) retain a copy of the agreement or instrument in its records.” Unlike the provision of directorships, there is no de minimis level before licensing is required.
 Only licensed CSPs and certain exempted persons can provide nominee shareholding services.
-## Quality of regulation
+Quality of regulation
 The Beneficial Ownership Act states that: _“A nominee shareholder of a legal entity (to which the Beneficial Ownership Act applies) must ascertain who the beneficial owner is of their interest in that entity._ _Having ascertained who the beneficial owner is, the nominee must provide the company’s nominated officer with that information (and subsequently if there is a change in that information)._ _The nominated officer must then maintain that information so that he can disclose the beneficial ownership of the legal entity at any time._ _Further, where beneficial ownership is RBO the nominated officer must submit that information to the Companies Registry for inclusion on the IOM Database of Beneficial Ownership_ _RBO means a beneficial owner who owns or controls more than 25% of the beneficial ownership of a legal entity to which the Act applies and RBO is to be construed accordingly.”_ Under Section 41 (“Offences and Penalties”) of the Financial Services Act 2008 , it is an offence for a person to provide nominee shareholder services by way of business without a licence, the maximum penalty being a fine or up to 2 years in custody (or both).
 Whilst the majority of nominee shareholder arrangements are undertaken by TCSPs as a business service, there may be situations that would fall outside of their activity and consequently not be licensed by the FSA (i.e., nominee shareholding arrangements which are not by way of business), nor would these be covered by either of the alternative methods as recommended in INR 24 Section 13.
 As a result, Companies Registry are putting forward a recommendation for these situations to comply with INR 24.
 The recommendation is to update the Companies Act 1931 and the Companies Act 2006 to require a person acting as a nominee shareholder, doing so other than by way of business, to give notice to the company and to the Companies Registry of: the nominee status; and the identity of the nominator.
 Companies Registry will hold that information as a matter of public record.
-## _3.3.9.4 Quality of beneficial ownership identification_
-## LEVEL OF BO TRANSPARENCY FOR STRUCTURES OWNED/CONTROLLED BY TRUSTS OR FOUNDATIONS
+_3.3.9.4 Quality of beneficial ownership identification_
+LEVEL OF BO TRANSPARENCY FOR STRUCTURES OWNED/CONTROLLED BY TRUSTS OR FOUNDATIONS
 The AML/CFT Code requires that the identity of all customers is established and reasonable measures are taken to verify the identity.
 The FSA AML/CFT Handbook outlines in 3.4.5.1 (Code 12(3)) what CDD is required for legal arrangements, including the beneficiaries, protector, enforcer, settlor, and any other natural person exercising ultimate control.
 This applies whether the arrangement is established in the IOM or elsewhere.
@@ -1557,16 +1557,16 @@ Under the Financial Services Act 2008 , Insurance Act 2008, Designated Businesse
 The Financial Services Act 2008, Insurance Act 2008, and Designated Businesses (Registration and Oversight) Act 2015 allow the FSA to request or require information from any person (regulated/registered or otherwise), and those who are FIs or DNFBPs are required to comply.
 Under Section 18 of the Financial Intelligence Unit Act, the FIU may request information from any person who has provided it with information or whom the FIU believes has information that is relevant to information that it holds; this information can be obtained within any time period specified by the FIU.
 If the information is required by an overseas authority (including law enforcement), Article 14 of the Proceeds of Crime (External Investigations) Order 2011 grants the same power for law enforcement to obtain any material for that overseas body.
-## LEVEL OF BO TRANSPARENCY FOR STRUCTURES WITH CORPORATE DIRECTORS
+LEVEL OF BO TRANSPARENCY FOR STRUCTURES WITH CORPORATE DIRECTORS
 Only 2006 Act companies are permitted to utilise Corporate Directors.
 The Corporate Director must be an FSA-licensed Class 4 licence-holder (or a wholly-owned subsidiary of the same), and those acting as directors of Corporate Directors are deemed ‘controlled function holders’ by the FSA and must be notified to the FSA.
 The Class 4 licence-holder must satisfy itself of the fitness and propriety of individual officers acting in such capacity, and the FSA has its full suite of powers to refuse those individuals if needed. 2006 Act companies with Corporate Directors are no different to 2006 Act companies with natural person directors with regards to the registrability of beneficial owners on the Database.
 The FSA, on inspections carried out under the Financial Services Act 2008, reviewed 1,371 customer files from TCSPs in 2020–24 (noting that the COVID-19 pandemic impacted a number of inspections in 2020 and 2021).
 All will have been reviewed for compliance with CDD and beneficial ownership requirements (within the meaning given under the AML/CFT Code 2019) where relevant and findings provided back to the supervised entity.
-## _3.3.9.5 Level of transparency on PEPs as beneficial owners_
+_3.3.9.5 Level of transparency on PEPs as beneficial owners_
 Currently, there is no requirement to disclose PEPs, foreign or otherwise, on the Companies Registry Beneficial Ownership Database.
 Work is ongoing to update the policies and procedures for onboarding and ongoing monitoring to check whether a beneficial owner is a PEP and then risk-rate the entity accordingly.
-## Relevant persons identifying PEPs as part of their CDD processes
+Relevant persons identifying PEPs as part of their CDD processes
 Relevant persons are obliged by the AML/CFT Code to identify where there is a PEP associated with their customers and take certain steps to identify, verify the identity of, and monitor such persons in an enhanced manner due to the potential additional ML/TF (and corruption) risk posed.
 The Code distinguishes between domestic and foreign PEPs and contains clear definitions of each.
 Due to the increased risk profile of these customers, the FSA has conducted some focused thematic inspection work in this area.
@@ -1582,13 +1582,13 @@ The CMP may check that screening is undertaken where required.
 On certain inspections, or as part of inspection remediation, the FSA will review the CMPs.
 Firms will report to their Boards if there are gaps in compliance with the framework and also must advise the FSA if a material breach is identified as a breach.
 The TCSP sector provided information in the TCSP 2025 LPA Return regarding foreign PEPs who exercised control with their customers. 8.3% of customers had a foreign PEP: 53% were exercising indirect control as a controller of an entity higher up the ownership structure; 33% were exercising direct control through ownership interests greater than 10%; - The Financial Services Act 2008 makes it a criminal offense to “hold out” – that is, to imply through a name or branding that a company provides regulated financial services without proper authorisation. - The Designated Businesses (Registration and Oversight) Act 2015, similar to the Financial Services Act 2008, prohibits businesses from implying they offer designated services (like accounting or legal advice) unless registered or exempt. 10% were a significant person, such as a company director; and 4% were categorised as “Other.”
-## _3.3.9.6 Quality of controls against deceptive entity names_
+_3.3.9.6 Quality of controls against deceptive entity names_
 In the IOM, several laws and regulatory mechanisms are in place to prevent the use of deceptive or misleading names for companies, businesses, and other legal structures.
-## How names are reviewed:
+How names are reviewed:
 The Companies Registry refers proposed names to the FSA if they include restricted terms or suggest regulated activity.
 The FSA evaluates whether the name accurately reflects the intended business or could mislead the public.
 If a name is deemed deceptive, the FSA can object and the Companies Registry may reject the application.
-## Examples of problematic names:
+Examples of problematic names:
 A company calling itself “XYZ Bank Ltd.” without a deposittaking licence would be considered misleading.
 Names like “XYZ Investments Ltd.” may be rejected unless clarified (e.g., “XYZ Investment Holdings Ltd.”) to avoid implying regulated investment services.
 Companies Registry has clear, published rules.
@@ -1596,21 +1596,21 @@ Key legislation and regulations: The Company and Business Names (Restricted Word
 Use of these words requires prior approval from FSA.
 The FSA evaluates whether the name accurately reflects the intended business or could mislead the public.
 If a name is deemed deceptive, the FSA can object and the Companies Registry may reject the application.”
-# CHAPTER 4 - Domestic Legal Persons
+CHAPTER 4 - Domestic Legal Persons
 Domestic legal persons
 As explained in Chapter 1.2, legal persons and arrangements are considered in three categories: domestic legal persons (Chapter 4); foreign legal persons (Chapter 5); and domestic and foreign legal arrangements (Chapter 6).
 Each legal entity type within the scope of this NRA is consideredusing the appropriate entity risk assessment as described in the World Bank Legal Persons and Arrangements ML Risk Assessment Tool published June 2022.
 Figure 4-1 shows the entity risk assessment which was used for domestic legal structures.
-## 4.1 1931 Act companies
+4.1 1931 Act companies
 Companies Acts 1931–2004 (collectively referred to as the “1931 Act”; the English Companies Act 1929 was the foundation for the 1931 Act); and
-## _4.1.1 Introduction_
-## COMPARISON BETWEEN 1931 AND 2006 ACT COMPANIES
+_4.1.1 Introduction_
+COMPARISON BETWEEN 1931 AND 2006 ACT COMPANIES
 There are two separate but co-existing companies law regimes that are in place which account for the overwhelming majority (98.4%) of domestic legal persons: the Companies Act 2006.
 Both Acts provide for companies which are limited by shares, guarantees, shares and guarantees, as well as unlimited companies.
 Decisions regarding companies in English law are routinely cited in IOM courts.
 Figure 4-2 shows a comparison of a number of the key features of a 1931 Act company compared to a company formed under the Companies Act 2006.
 It is permitted for companies to transform from 1931 Act companies to 2006 Act companies and vice versa. but a member or director may ask that they are prepared Section 80(1) Companies Act 2006: (1) A company shall keep reliable accounting records. (4) maintained for not less than 6 years (4A) kept at the office of the Registered Agent or (4B) If kept elsewhere then provided to the Registered Agent (b) at intervals not exceeding 12 months
-## 1931 ACT COMPANY REQUIREMENTS
+1931 ACT COMPANY REQUIREMENTS
 As detailed in the Companies Registry website : _“All companies incorporated under the Companies Act 1931 are designated as either public companies or private companies.
 A public limited company may offer its shares or debentures for sale to the general public and must, on an annual basis, deliver audited accounts to the Companies Registry.
 A private company may not offer shares or debentures to the public and, unless it is a subsidiary of a public company incorporated in the Isle of Man, it is not required to deliver audited accounts to the Companies Registry on an annual basis.”_ Companies Registry have published a series of Practice Notes to support those wanting to set up and those running 1931 Act companies. a copy of the memorandum and articles of association (Section 12 of the Act); a copy of every instrument creating a charge requiring registration (Section 87); the register of charges (Section 88); the register of members (Section 96); the minute books (which are available for inspection by any member) (Section 120); the register of directors (Section 143); and the accounting records Every company must have at least two directors, who must be individuals, and at least one company secretary.
@@ -1620,18 +1620,18 @@ A Registered Agent is not required.
 These companies must also have a Nominated Officer who is ordinarily resident on the Island in order to comply with the requirements of the BOA.
 Once incorporated, the company, through its Nominated Officer, must take steps to meet its obligations under the BOA and ensure that all RBO information is submitted to the IOM Beneficial Ownership Database within the required 42-day timeframe.
 The Companies Act 1982 Section 3A(4) formalised the requirement for accounting information to be presented in adherence to generally accepted accounting principles or practice.
-## REGISTERED OFFICE
+REGISTERED OFFICE
 The Registered Office address of a company must be a physical address in the Island to which all communications and notices may be addressed.
 However, it must be more than just a postal address.
 There are a number of requirements throughout the Companies Acts 1931–2004 requiring company statutory records to be maintained at its Registered Office address, for example: (Section 1 of the Companies Act 1982).
-## FORMATION AND REGISTRATION
+FORMATION AND REGISTRATION
 The formal formation and registration with Companies Registry, once all the paperwork and due diligence is completed , is typically a quick process.
 Local companies may find the end-toend process quicker than for overseas companies requiring the services of a TCSP, as their requirements and paperwork may be more straightforward.
 At workshops held with representatives from the TCSP sector, they thought that the speed of incorporation with Companies Registry reduced the likelihood and appeal of establishing a ‘shelf’ company.
-## FSA AML/CFT HANDBOOK REQUIREMENTS
+FSA AML/CFT HANDBOOK REQUIREMENTS
 As is the case for all legal entity types, TCSPs must align their Customer Risk Assessments, CDD, and enhanced CDD measures with the AML/CFT Code and Handbook, which includes details regarding the treatment of PEPs, CEPs, and jurisdiction lists (as published by the Department of Home Affairs) .
 This helps mitigate risks when the company is administered/managed by a TCSP.
-## _4.1.1.1 Continuance of companies_
+_4.1.1.1 Continuance of companies_
 The IOM offers a statutory mechanism for the continuance of foreign companies under the Companies (Transfer of Domicile) Act 1998.
 This legislation enables entities incorporated outside the IOM to transfer their domicile and continue as IOM companies, subject to compliance with prescribed legal and regulatory requirements.
 The process preserves the legal identity of the company, ensuring continuity of its corporate history, assets, liabilities, and contractual obligations, while bringing it under the jurisdiction of IOM law.
@@ -1643,7 +1643,7 @@ The largest are for the BVI (36.1%), followed by Jersey (15.6%), Guernsey (10.0%
 A potential risk exists where companies are re-domiciled from jurisdictions with weaker AML regimes (List A and B jurisdictions), as it introduces a channel for transferring possible opaque structures into the IOM.
 The IOM also serves as a jurisdiction of origin for companies seeking continuance into other territories.
 According to the Jersey Legal Persons and Arrangements National Risk Assessment (2023), 11% of all companies that migrated into Jersey between 2018 and 2022 were originally incorporated in the IOM.
-## _4.1.2 Scale_
+_4.1.2 Scale_
 1931 Act companies are the most used of all LPAs in the IOM.
 At the end of December 2024, there were 15,143 companies registered with the Companies Registry.
 The majority (14,558) were private limited by shares (see Figure 4-4 for a breakdown of all the types of 1931 Act companies).
@@ -1652,7 +1652,7 @@ There are a small number of public limited companies.
 The TCSP sector administers approximately 27% of these companies on behalf of clients.
 The number of new 1931 Act companies registered with the Companies Registry has been consistent over the last 5 years, even during the COVID-19 period.
 The number of newly registered entities is in Figure 4-5.
-## EASE OF OWNERSHIP AND BENEFICIARY CHANGES, AND FORMATION OF COMPLEX STRUCTURES
+EASE OF OWNERSHIP AND BENEFICIARY CHANGES, AND FORMATION OF COMPLEX STRUCTURES
 In the IOM, ownership of legal persons can be changed relatively easily.
 This is most likely to take place via a TCSP or lawyer, to transfer the shares to the new owner.
 The Companies Registry must be updated with key information, including any new RBO.
@@ -1660,8 +1660,8 @@ Beneficiaries of a trust can also be changed, again with the need for a professi
 This would require the settlor to be able to issue a new letter of wishes, or the power to add or remove beneficiaries would be retained by the settlor or given to protectors/enforcers.
 Complex structures could be set up; however, professional advisers would be required for legal/tax/structuring advice as well as setting up the actual structure so that it achieves the desired outcomes.
 It is likely that this would be a costly process.
-## _4.1.3 Use of 1931 Act companies_
-## BENEFICIAL OWNERSHIP
+_4.1.3 Use of 1931 Act companies_
+BENEFICIAL OWNERSHIP
 As detailed in Chapter 3.2.7, Companies Registry receives information on beneficial ownership of all the companies to which the BOA applies, including 1931 Act companies.
 In addition, the ITD receives beneficial ownership information for foreign-registered companies and foreign companies that are IOM tax-resident.
 Figures 4-6a and 4-6b show the level of overseas RBO by legal person type and overall for the IOM to provide context, noting that 1931 Act companies and 2006 Act companies account for the overwhelming majority of overseas RBO. overseas locations of RBOs for 1931 Act companies, 15.0% are based in the UK.
@@ -1671,7 +1671,7 @@ For Lists A (no casesB(i), and B(ii), 2.9% of RBOs are in these jurisdictions .
 After Monaco, the next largest jurisdictions are South Africa (0.4%), Kenya (0.3%), and Türkiye (0.2%).
 Therefore, the risk from higher-risk RBOs is Low for 1931 Act companies. 28.2% of RBOs for 1931 Act companies are based outside of the IOM.
 As shown in Figure 4-7, which provides the top 10
-## ACTIVITY
+ACTIVITY
 Local IOM trading companies would usually use 1931 Act companies.
 Unlike 2006 Act Ccompanies, these do not require a TCSP, which would carry additional cost.
 Therefore, the majority of 1931 Act companies with overseas RBOs or activity are managed by IOM TCSPs.
@@ -1681,10 +1681,10 @@ The TCSP-managed 1931 Act companies’ principal activities by jurisdiction was 
 The top 10 activities by percentage occurrence are in Figure 4-8.
 The top 10 jurisdictions by occurrence are in Figure 4-9.
 Activities such as holding non-IOM real estate (20.8%) and investment portfolios (14%) are common; these asset classes are potentially attractive for ML because they allow value storage and integration into the legitimate economy, especially when combined with overseas beneficial ownership.
-## OPERATIONAL RED FLAGS FOR 1931 ACT COMPANIES
+OPERATIONAL RED FLAGS FOR 1931 ACT COMPANIES
 These red flags equally apply to the other legal person types.
 They build on the threats detailed in Chapter 2 and various FATF reports: - transactions lacking commercial rationale (circular flows, layering through multiple accounts or entities, immediate passthrough of funds, or payments to/from unrelated counterparties and charities without clear purpose); - PEP exposure and concealment; rapid changes and activity patterns (sudden switches of directors/shareholders or jurisdictions); dormant entities that are reactivated for large or unusual transactions; equity holding with opaque upstream owners; nominee indicators; unexplained use of multi-jurisdictional splitting, or overly complex structures; lack of legitimate business substance (virtual offices, no real operations, minimal or no employees, or vague business descriptions); revenue inconsistent with stated activities; inconsistent or unreliable records from the company; asset-focused arrangements (entities or trusts holding only high-value assets, such as real estate, art, or vessels, with little income activity, complex financing, or unexplained inbound/ outbound loans).
-## 4.1.3.1 PROTECTED CELL COMPANIES
+4.1.3.1 PROTECTED CELL COMPANIES
 Protected cell companies represent a specialised corporate structure under IOM legislation, enabling the statutory segregation of assets and liabilities within a single legal entity.
 This framework is particularly suited to the insurance and investment fund sectors, where PCCs are utilised to establish captive insurance arrangements and multi-cell investment platforms.
 While the structure offers significant operational and regulatory advantages, the number of PCCs incorporated in the IOM remains relatively modest (see Figure 4-10), a trend mirrored across the other Crown Dependencies PCCs are corporate entities established under either the Companies Act 1931 or the Companies Act 2006 and must be limited by shares.
@@ -1703,23 +1703,23 @@ This structure is particularly attractive for entities seeking costeffective acc
 The FSA provides guidance on beneficial ownership for PCCs: _“Each cell has its own share of the PCC’s overall share capital allowing a shareholder to be the sole owner of one cell whilst only having a small interest in the PCC as a whole.
 All those natural persons who hold core shares or cell shares, whether directly or indirectly through nominees, corporate or trust structures, will be beneficial owners of the PCC.
 Whether they are registrable beneficial owners will depend on whether their shareholding, whether core or cellular, amounts to more than 25% of the total issued share capital of the PCC as a whole.”_ Whilst the IOM Beneficial Ownership Database will have the RBO details for the core entity, there is not a requirement for RBO details to be stored with the Companies Registry for the cells, although this information will be held by the TCSP.
-## EXAMPLES OF USE OF PCCS IN STRUCTURES
+EXAMPLES OF USE OF PCCS IN STRUCTURES
 A PCC might have, for example: cell A insuring a shipping company’s fleet; cell B insuring a tech firm’s cyber risks; and cell C insuring a family office’s property portfolio.
 Each cell is legally ring-fenced, even though they share the same legal entity.
-## Example 2: Segregation of investment funds
+Example 2: Segregation of investment funds
 Fund managers use PCCs to launch multiple sub-funds under one umbrella, each with its own strategy, investor base, and risk profile.
 The PCCs help by ensuring each cell acts like a standalone fund but benefits from shared infrastructure and reduced costs.
 Investors in one cell are not exposed to the liabilities of another.
 Regulatory and tax reporting can be streamlined.
 An IOM fund manager might operate, for example: cell A, a growth equity fund; cell B, a fixed-income fund; and cell C, a crypto asset fund.
 Each cell can have different fee structures, custodians, and investment mandates.
-## Example 3: Family office
+Example 3: Family office
 Often, PCCs will be created as a result of specific legal or tax advice.
 An example would be for a family office which is incorporated as a PCC under the Companies Act 2006, limited by shares.
 This allows the family to manage multiple financial activities within one legal entity while maintaining statutory segregation of assets and liabilities.
-## Cell 1 – Investment portfolio:
+Cell 1 – Investment portfolio:
 Assets: Equities, bonds, private equity, and alternative investments
-## Example 1: Captive insurance companies
+Example 1: Captive insurance companies
 Companies set up to insure the risks of their parent or group often use PCCs to insure multiple clients or business units separately.
 The PCCs help by ensuring each cell can insure a different client or division with its own assets and liabilities.
 As a result, if one cell suffers a major loss, it does not affect the other cells or the core.
@@ -1729,15 +1729,15 @@ Ownership and control can be tailored through core and cellular shares, allowing
 Each cell can be treated independently for tax and reporting purposes, enabling efficient tax planning and operational clarity.
 Historically, PCCs were limited to the insurance and investment sectors, but this has now been expanded to cover more uses.
 The limited usage to date, ring-fencing of assets/asset classes, and the creation of dedicated members may make them attractive to more advanced ML cases.
-## 4.1.3.2 INCORPORATED CELL COMPANIES
+4.1.3.2 INCORPORATED CELL COMPANIES
 The Incorporated Cell Companies Act 2010, together with the Incorporated Cells Regulations 2011 and the Insurance (Incorporated Cell Companies) Regulations 2011, establishes the statutory framework for the formation and operation of ICCs in the IOM.
 These provisions apply specifically to entities engaged in, or intending to engage in, insurance business.An ICC is conceptually similar to a PCC in that it enables the creation of multiple cells within a single overarching structure.
 However, a key distinction is that each incorporated cell within an ICC is a separate legal entity capable of holding assets, incurring liabilities, and entering into contracts in its own name.
 ICCs and their cells may be incorporated under either the Companies Acts 1931 or the Companies Act 2006, provided the constitutional documents permit such structuring.
 Despite this legal provision, there are currently no ICCs formed under either regime in the IOM.
-## _4.1.4 Threats and mitigants_
+_4.1.4 Threats and mitigants_
 Between January 2020 and December 2024, 1,433 1931 Act companies were struck off by the Companies Registry for failing to meet statutory obligations under the Act.
-## LAW ENFORCEMENT DATA
+LAW ENFORCEMENT DATA
 LEAs analysed their data for incidence of 1931 Act companies appearing in investigations.
 The way in which data is captured across the LEAs did not always allow for readily extractable data showing legal entity types involved, and for some agencies, historic records were manually reviewed for the entity type.
 Within the SAR data, the FIU identified that a 1931 Act company was specifically recorded in 0.4% of the overall SARs; this was 7% for inward MLAs identified by the AGC.
@@ -1745,9 +1745,9 @@ PIMLIT have a number of investigations wherein 1931 Act companies are part of th
 There have been no prosecutions or convictions by the Prosecution team specifically of these companies.
 Overall, the LEA data shows a low incidence of 1931 Act companies implicated in ML/TF cases.
 As referenced in Chapter 1.4, across a number of the agencies, the methodical tagging of entity types is incomplete in historic datasets; therefore, it is recommended that agencies look at how they can enhance this going forward.
-## FOREIGN PEPS
+FOREIGN PEPS
 Within the TCSP 2025 LPA Return, the sector advised of the domestic and foreign legal persons that had a foreign PEP with control. 22.1% of these foreign PEPs were associated with 1931 Act companies, of which: 10.4% exercise indirect control as a controller of an entity higher up the ownership structure;
-## CROSS-BORDER
+CROSS-BORDER
 Of the 1931 Act companies that are managed by TCSPs, for the country of principal activity, only 2.2% are in List B countries.
 The largest number are for South Africa (0.6%), the BVI (0.3%), Kenya (0.2%), Nigeria (0.2%), and Monaco (0.2%).
 Therefore, the country risk exposure for 1931 Act companies is Low.
@@ -1755,11 +1755,11 @@ According to Companies Registry data, there were only 2.9% of RBOs in higher-ris
 The foreign PEP country risk exposure has been captured across all TCSP customers, rather than for each specific LPA entity type.
 Figure 4-11 shows the top 10 country risk, with the UK having the largest foreign PEP exposure, followed by Saudi Arabia and the UAE.
 The IOM PEP comparative figure was 2.8%.
-## COMMERCIALLY EXPOSED PERSONS
+COMMERCIALLY EXPOSED PERSONS
 As defined by the FSA “A CEP is an individual who is associated with a specific industry or activity which typically has a higher exposure to bribery and corruption, which, in turn, may increase the ML/TF risk posed to supervised entities where such individuals are affiliated to a customer.
 An individual would be regarded as a CEP due to their position as a senior executive of a commercial enterprise in an industry posing a higher risk of financial crime.” The CEP data has been collected only comparatively recently, and the TCSP sector and FSA are working together to better define the understanding and terminology, to help improve the quality of the reporting.
 Therefore, whilst the data was provided by the sector within the TCSP 2025 LPA Return, it has not been used in the analysis of each entity type.
-## 1931 ACT COMPANIES WITH AN OVERSEAS REGISTRABLE BENEFICIAL OWNER NOT MANAGED BY A TCSP
+1931 ACT COMPANIES WITH AN OVERSEAS REGISTRABLE BENEFICIAL OWNER NOT MANAGED BY A TCSP
 TCSPs administer 27% of 1931 Act companies, are regulated by the FSA for AML/CFT purposes, and have obligations to manage and help mitigate the risk of the client entity, including by submitting SARs, undertaking customer due diligence, and monitoring and screening the connection.
 As detailed in Chapter 4.1.3, 28.25% of RBOs for 1931 Act companies are based outside of the IOM.
 Analysis was undertaken to review how many of the 28.25% did not have a TCSP as the Nominated Officer.
@@ -1769,12 +1769,12 @@ To help manage and mitigate any risk, the Companies Registry apply verification 
 In addition, the Companies Registry were aware of additional mitigants where companies or individual Nominated Officers are registered with the FSA.
 Recognising that most (73%) 1931 Act companies are not administered by a TCSP, it is recommended that the authorities consider exploring whether additional information could be obtained for these entities to support future risk analysis.
 This would enable further analysis of potential threats related to common directors, multiple companies using the same Registered Office address, or any form of administration by another professional under an applicable exemption/exclusion to licensing.
-## _4.1.5 Overall risk level for 1931 Act companies_
-## SCALE
+_4.1.5 Overall risk level for 1931 Act companies_
+SCALE
 There are 15,143 1931 Act companies (as of 31st December 2024), making it the most-used legal entity type in the IOM.
 While speed is a convenience, it can be exploited for rapid setup of ML structures if other controls fail.
-## BENEFICIAL OWNERSHIP INFORMATION
-## CROSS-BORDER RISK EXPOSURE
+BENEFICIAL OWNERSHIP INFORMATION
+CROSS-BORDER RISK EXPOSURE
 Local IOM trading companies usually use 1931 Act companies.
 Therefore, the overall cross-border risk exposure is proportionally lower.
 The country of residence for 28.2% of RBOs is overseas and 71.8% of RBOs have the IOM as their country of residence.
@@ -1784,7 +1784,7 @@ Section 25 of the BOA gives Companies Registry the power to make enquiries to ve
 Companies Registry undertake the following verification checks on beneficial ownership information which is submitted: 100% of non-TCSP submitted RBO; and 25% (randomly selected) of TCSP-submitted RBO.
 The competent authorities can electronically access the Beneficial Ownership Database where required.
 Overall, this creates cross-border exposure to ML risks, particularly where the ownership may be opaque.
-## EASE, SPEED, AND COSTS OF FORMATION AND REGISTRATION AND OTHER PRACTICAL MATTERS
+EASE, SPEED, AND COSTS OF FORMATION AND REGISTRATION AND OTHER PRACTICAL MATTERS
 The costs are largely similar across a range of legal entities.
 There are costs associated with the Companies Registry, depending upon the speed with which registration is required.
 If a TCSP is required, then there is likely to be associated costs in supporting the process.
@@ -1794,11 +1794,11 @@ The tax position is similar for many of the LPAs.
 There must be a minimum of two directors, and corporate directors are not permitted.
 Basic information on 1931 Act companies is taken and recorded by the Companies Registry.
 This information is available on a free/ fee basis depending on the information required.
-## ML/TF CASES AND TYPOLOGIES
+ML/TF CASES AND TYPOLOGIES
 Whilst the volume of SARs expressly referencing 1931 Act companies is low (0.4%), the number of inbound MLAs is higher (7.0%).
 PIMLIT investigations include 1931 Act companies.
 Given that they are the most frequently used LPA in the IOM, they are potentially impacted in the key typologies in the Chapter 2.
-## OVERALL
+OVERALL
 1931 Act companies represent the largest category of legal persons in the IOM, with over 15,000 entities as of December 2024.
 While primarily used for local trading, they are also employed in cross-border structures and asset-holding arrangements.
 Their prevalence and flexibility creates exposure to financial crime risks.
@@ -1806,31 +1806,31 @@ The drivers for risk are cross-border ownership, foreign PEP exposure, and poten
 The mitigants are that 71.8% are locally focused, and there is strong TCSP oversight where they are engaged.
 The overall risk rating for ML is Medium and the overall risk rating for TF is Medium Low.
 Similar to 1931 Act companies, once a 2006 Act company is incorporated, the company through its Nominated Officer must take steps to meet its obligations under the BOA and ensure that all RBO information is submitted to the IOM Beneficial Ownership Database within the required timeframe
-## REGISTERED AGENT
-## 4.2 2006 Act companies
+REGISTERED AGENT
+4.2 2006 Act companies
 A Registered Agent is a licensed person or firm appointed by a company to handle its statutory compliance and filings.
 This role is mandatory for companies incorporated under the 2006 Act but is not required for companies under the 1931 Act.
 Only a Class 4 licence-holder can act as a Registered Agent.
-## _4.2.1 Introduction_
+_4.2.1 Introduction_
 The Companies Act 2006 introduced a more simplified corporate vehicle into IOM law, with similarities to entities in other IFCs.
 Only those holding a Class 4 licence issued by the FSA can incorporate a 2006 Act company.
 TCSPs are regulated by the FSA for AML/CFT purposes and have obligations that manage and help mitigate the risk of the client entity, including by submitting SARs, undertaking customer due diligence, and monitoring and screening customers.
 The Companies Registry has published a series of Practice Notes to support those wanting to set up, and those running, 2006 Act companies.
 The requirement for a Registered Agent is an ongoing obligation and failure to comply will lead to the company being struck off by the Companies Registry, as without a Registered Agent, the company is not able to file its annual return.
-## REGISTERED OFFICE
+REGISTERED OFFICE
 Similar to 1931 Act companies, the Registered Office address of a company must be a physical address in the Island to which all communications and notices may be addressed.
 However, it must be more than just a postal address.
-## EASE AND SPEED OF FORMATION AND REGISTRATION
+EASE AND SPEED OF FORMATION AND REGISTRATION
 The process and speed for a 2006 Act company is similar to that of a 1931 Act company.
 For 2006 Act companies, the Nominated Officer (which is a TCSP in 98% of occasions) must be resident on the Island to comply with the requirements of the BOA.
 Every company must have at least one director, which may be a corporate director utilised by the FSA-licenced TCSP.
-## _4.2.2 Scale_
+_4.2.2 Scale_
 2006 Act companies are the second-most common legal person in the IOM.
 At the end of December 2024, there were 9,831 companies registered with the Companies Registry.
 The majority were limited by shares (see Figure 4-13).
 The requirement for a Registered Agent is an ongoing obligation and failure to comply will lead to the company being struck off by the Companies Registry, as without a Registered Agent, the company is not able to file its annual return.” As per Figure 4-5, the number of new 2006 Act companies registered with the Companies Registry has been consistent over the last 5 years.
-## _4.2.3 Use of 2006 Act companies_
-## REGISTRABLE BENEFICIAL OWNERSHIP
+_4.2.3 Use of 2006 Act companies_
+REGISTRABLE BENEFICIAL OWNERSHIP
 As detailed in Chapter 3.2.7, the Companies Registry receives information on RBO of all the companies to which the BOA applies, including 2006 Act companies.
 Figure 4-6a shows the level of overseas RBO by legal person type. 76.6% of RBOs for 2006 Act companies are based outside of the IOM.
 As shown in Figure 4-14, which provides the top 10 overseas locations of RBOs for 2006 Act companies, 20.8% are based in the UK.
@@ -1839,7 +1839,7 @@ The only jurisdiction in the top 10 for which additional countermeasures are cur
 For Lists A (no cases), B(i), and B(ii), 9.2% of RBOs are in these jurisdictions.
 After Monaco, the next largest jurisdictions are South Africa (2.5%), Kenya (1.2%), Nigeria (0.9%), and Türkiye (0.3%).
 Therefore, the risk from RBOs with exposure to higherrisk countries is higher than for 1931 Act companies, but still comparatively Low.
-## ACTIVITY
+ACTIVITY
 From the TCSP 2025 LPA Return, an analysis was undertaken of the 2006 Act companies that TSCPs manage/administer.
 The company is often part of a wider structure, with the TCSP 2025 LPA Return stating that 21.0% of structures also contain an IOM law trust, 14.3% contain a non-IOM law trust, and 23.5% contain other legal persons or arrangements in the structure.
 The TCSP-managed 2006 Act companies’ principal activities by jurisdiction were also analysed.
@@ -1875,8 +1875,8 @@ Materiality
 In the 2024 FSA AML/CFT annual return, the TCSPs report on the products and services they provide, which includes details of those to Family Offices: number of IOM-resident family office customers: 0.25% of the customers supported by the TCSP sector; number of non-IOM resident family office customers: 0.25% of the customers supported by the TCSP sector.
 The number of family offices which have no TCSP connection is not currently known.
 Overall, the number of family offices is low in the IOM, and they are designed to serve a single customer (one family); otherwise, they would likely fall within the regulated sector.
-## 4.2.4 Threats and mitigants
-## LAW ENFORCEMENT DATA
+4.2.4 Threats and mitigants
+LAW ENFORCEMENT DATA
 LEAs analysed their data for incidence of 2006 Act companies appearing within investigations.
 Within the SAR data, the FIU identified that a 2006 Act company was recorded in 3.0% of the overall SARs; this was 13.6% for inward MLAs identified by the AGC.
 PIMLIT have a number of investigations where 2006 Act companies are part of the structure.
@@ -1885,45 +1885,45 @@ Between January 2020 and December 2024, 1,091 2006 Act companies were struck off
 Low SAR incidence might suggest limited detection or low misuse, but higher MLA involvement signals potential attractiveness for cross-border laundering.
 Lack of convictions to date may indicate investigative challenges in bringing these cases to court.
 Overall, the LEA data shows a medium incidence of 2006 Act companies implicated in ML/TF cases.
-## CROSS-BORDER
+CROSS-BORDER
 Of the 2006 Act companies that are managed by TCSPs, for the country of principal activity, only 2.8% are in List B countries.
 The largest number are for South Africa (0.8%), the BVI (0.7%), Nigeria (0.2%), and Monaco (0.2%).
 Therefore, the country risk exposure from higher-risk jurisdictions for 2006 Act companies is Low.
 According to Companies Registry data, 9.2% of RBOs were in higher-risk jurisdictions.
-## FOREIGN PEPS
+FOREIGN PEPS
 Within the TCSP 2025 LPA Return, the sector advised of the domestic and foreign legal persons that had a foreign PEP with control. 50.8% of these foreign PEPs were associated with 2006 Act companies, of which: 29.9% exercise indirect control as a controller of an entity higher up the ownership structure; 15.2% exercise direct control through an ownership interest; and 5.7% are a significant person – i.e., a company director.
 Foreign PEP exposure elevates the potential corruption risk.
 Even indirect control can be leveraged for illicit flows, requiring EDD.
-## _4.2.5 Overall risk level for_
-## _2006 Act companies_
-## SCALE
+_4.2.5 Overall risk level for_
+_2006 Act companies_
+SCALE
 There are 9,831 2006 Act companies (as of 31st December 2024), making it the second-most commonly used legal person in the IOM, after 1931 Act companies.
 High prevalence means even a small percentage of misuse can have a material impact on the IOM.
-## CROSS-BORDER RISK EXPOSURE
+CROSS-BORDER RISK EXPOSURE
 The country of residence for 76.6% of RBOs is overseas.
 According to Companies Registry data, 9.2% of RBOs were in higher-risk jurisdictions.
 Of those managed by the TCSP sector, the most common locations of business operations, using the principal activity data, are the IOM (45.6%) and UK (30.0%).
 High cross-border exposure increases vulnerability to foreign ML/TF typologies.
 While high-risk jurisdictions are a minority, the absolute numbers could still be meaningful given the scale of 2006 Act companies to the IOM.
-## EASE, SPEED, AND COSTS OF FORMATION AND REGISTRATION AND OTHER PRACTICAL MATTERS
+EASE, SPEED, AND COSTS OF FORMATION AND REGISTRATION AND OTHER PRACTICAL MATTERS
 The costs are largely similar across a range of legal entities.
 There are costs associated with the Companies Registry, depending upon the speed with which registration is required.
 Given a TCSP is required, there is likely to be associated costs in supporting the process.
 There must be a minimum of one director and corporate directors are permitted.
-## BENEFICIAL OWNERSHIP INFORMATION
+BENEFICIAL OWNERSHIP INFORMATION
 Section 25 of the BOA give the Companies Registry the power to make enquiries to verify the accuracy of RBO information submitted to it for inclusion on the Database.
-## ML/TF CASES AND TYPOLOGIES
+ML/TF CASES AND TYPOLOGIES
 Whilst the volume of SARs expressly referencing 2006 Act companies is low (3.0%), the number of inbound MLAs is higher (13.6%).
 PIMLIT investigations often include 2006 Act companies.
 Given that they are the second-most frequently used legal person in the IOM, they are potentially impacted in the key typologies in the Chapter 2.
-## OVERALL
+OVERALL
 2006 Act companies require a TCSP with a Class 4 licence to act as their Registered Agent.
 These obligations help reduce the risk of anonymity and mitigate ML/TF risk compared to structures where no TCSP is engaged due to the AML/CFT framework applicable to the regulated sector.
 However, the reliance on TCSPs means risk is concentrated in their compliance effectiveness.
 If compliance by the TCSP weakens, systemic risk across the IOM increases.
 The overall risk rating for ML is Medium and the overall risk rating for TF is Medium Low.
-## 4.3 Foundations registered under the Foundations Act 2011
-## _4.3.1 Introduction_
+4.3 Foundations registered under the Foundations Act 2011
+_4.3.1 Introduction_
 Foundations were introduced into IOM law through the Foundations Act 2011, which came into force on 1 January 2012.
 An IOM foundation is a distinct legal entity with separate legal personality.
 Unlike companies, foundations do not have shareholders.
@@ -1951,15 +1951,15 @@ Members of the Council of the foundation “control” the operation of the foun
 The founder (and an enforcer, if one is appointed) may also exercise control by virtue of powers retained under the foundation instrument and foundation rules, similarly to the settlor and protector/enforcer of a trust._ _When the objects of a foundation are a person or class of persons, it will be necessary to consider the rights of those parties as detailed in the establishing instrument and foundation rules.
 It is recognised that a beneficiary of a foundation may have no interest in the foundation assets unless a right is granted within the rules or by the persons_ _empowered to grant such rights.
 Foundations therefore have some of the characteristics of a company and some of a trust._ ”
-## BUSINESS ADDRESS
+BUSINESS ADDRESS
 The Foundations Act defines business address as follows: “(a) in respect of a foundation, the business address of its registered agent or, if there is no such registered agent, its last registered agent (b) in respect of the registered agent of a foundation, the business address of the registered agent in the Island as it appears in the register”
-## EASE AND SPEED OF FORMATION AND REGISTRATION
+EASE AND SPEED OF FORMATION AND REGISTRATION
 The ease and speed of formation and registration for foundations is similar to that of 1931 Act companies.
-## _4.3.2 Scale_
+_4.3.2 Scale_
 At the end of December 2024, there were 211 foundations registered with Companies Registry.
 This represents 0.53% of all LPAs.
 As per Figure 4-5, the number of new foundations registered under the Foundations Act with the Companies Registry has been consistent, in the range 11 to 27, over the last 5 years.
-## _4.3.3 Use of Foundations registered under the Foundations Act 2011_
+_4.3.3 Use of Foundations registered under the Foundations Act 2011_
 An IOM foundation, established under the Foundations Act 2011, is a legal entity with perpetual existence and no shareholders.
 This structure enables the foundation to pursue its stated objects, as defined in its Foundation Instrument and governed by its Foundation Rules, over an indefinite period, subject to any limitations specified in those rules.
 This enduring nature makes the foundation particularly suitable for long-term initiatives, such as the preservation of family wealth, philanthropic endeavours, or the continuation of a founder’s legacy.
@@ -1972,14 +1972,14 @@ In certain cases, an IOM foundation may be structured as a SPV.
 For example, it may be used to secure capital through loan arrangements, with the foundation acting as the borrowing entity.
 This can provide operational and financial separation from the underlying company, particularly where the foundation holds shares in a trading subsidiary.
 Such arrangements may offer benefits in terms of risk isolation and balance sheet management, provided they comply with applicable legal and regulatory requirements.
-## REGISTRABLE BENEFICIAL OWNERSHIP
+REGISTRABLE BENEFICIAL OWNERSHIP
 As detailed in Chapter 3.2.7, the Companies Registry receives information on RBO from all companies to which the BOA applies, including foundations registered under the Foundations Act.
 Figure 4-6a shows the level of overseas RBO by legal person type. 47.1% of RBOs for foundations registered under the Foundations Act are based outside of the IOM.
 As shown in Figure 4-19, which provides the top 10 overseas locations of RBOs for foundations registered under the Foundations Act, 22.1% are based in Ireland.
 The next largest jurisdiction by exposure is the UK, with 13.8%.
 For List A (no cases), List B(i), and B(ii), 3.5% of RBOs are in these jurisdictions, although the materiality is very low.
 Therefore, the risk from higher-risk RBOs is Low.
-## ACTIVITY
+ACTIVITY
 From the TCSP 2025 LPA Return, an analysis was undertaken of the foundations registered under the Foundations Act that TCSPs manage.
 The foundation is often part of a wider structure, with the TCSP data stating that 3.9% of structures also contain an IOM law trust, 10.1% contain a non-IOM law trust, and 50.4% contain other legal persons or arrangements.
 The TCSP-managed foundations’ principal activity by jurisdiction was also analysed.
@@ -1988,47 +1988,47 @@ The top 14 jurisdictions by occurrence are in Figure 4-21.
 Unlike a trust, which may be established for a similar purpose, an IOM foundation has separate legal personality and is therefore able to hold assets in its own capacity.
 However, like a trust, the distribution of value from a foundation may be on a discretionary or fixed basis.
 Foundations may typically or theoretically be used for asset management where family planning is the incentive.
-## Private individual (founder)
+Private individual (founder)
 Role: Typically, the founder is the end client who wishes to protect wealth.
 The founder arranges for the establishment of a foundation.
 They may not be the same individual who settles assets into the foundation – i.e., the dedicator.
 Purpose: the individual initiates the structure to separate personal ownership from the assets, reducing exposure to personal liability and enabling estate planning.
-## TCSP
+TCSP
 Role: The TCSP provides corporate services to each of the underlying 2006 Act companies, established for holding specific assets or for specific purposes – for example, entities engaged in commercial/trading activities.
 In addition, the corporate service provider provides Council Members to the foundation, which itself becomes the legal owner of the shares in the underlying 2006 Act companies.
 Purpose: The TCSP acts as the foundation’s governing body, providing administration services, fiduciary and management duties, and compliance with regulatory requirements.
 The TCSP ensures governance and independence.
 The limitation of liability enabled by the foundation’s separate legal personality can be attractive for the holding of assets of a riskier nature – for example, underlying trading companies.
-## _4.3.4 Threats and mitigants_
-## LAW ENFORCEMENT DATA
+_4.3.4 Threats and mitigants_
+LAW ENFORCEMENT DATA
 LEAs analysed their data for incidence of foundations registered under the Foundations Act appearing.
 Within the SAR data, the FIU identified that a foundation was recorded in 1.0% of the overall SARs; this was 1.0% for inward MLAs identified by the AGC.
 PIMLIT have an extremely limited number of investigations where foundations registered under the Foundations Act are part of the structure.
 There have been no prosecutions or convictions by the Prosecution team specifically of foundations.
 Currently, the Companies Registry do not have the ability to strike off a foundation.
 Overall, the LEA data shows a low incidence of foundations registered under the Foundations Act implicated in ML/TF cases.
-## CROSS-BORDER
+CROSS-BORDER
 Of the foundations registered under the Foundations Act that are managed by TCSPs, for the country of principal activity, only 0.8% are in List B countries; all of these reside in the BVI (0.8%).
 Therefore, the country risk exposure for foundations registered under the Foundations Act is Low.
 According to Companies Registry data, 3.5% of RBOs were in higher-risk jurisdictions.
-## FOREIGN PEPS
+FOREIGN PEPS
 Within the TCSP 2025 LPA Return, the sector advised that 0.23% of total foreign PEPs are linked to foundations, of which: 0.15% exercise indirect control as a controller of an entity higher up the ownership structure; and 0.08% are a significant person – i.e., a company director.
-## _4.3.5 Overall risk level for foundations registered under the Foundations Act 2011_
-## SCALE
+_4.3.5 Overall risk level for foundations registered under the Foundations Act 2011_
+SCALE
 There are 211 foundations registered under the Foundations Act 2011 (as of 31st December 2024), accounting for 0.53% of all LPAs in the IOM.
-## BENEFICIAL OWNERSHIP INFORMATION
+BENEFICIAL OWNERSHIP INFORMATION
 Section 25 of the BOA gives the Companies Registry the power to make enquiries to verify the accuracy of RBO information submitted to it for inclusion on the Database.
-## ML/TF CASES AND TYPOLOGIES
+ML/TF CASES AND TYPOLOGIES
 The volume of SARs expressly referencing foundations registered under the Foundations Act 2011 is low (1.0%), and the number of inbound MLAs is similar (1.0%).
 PIMLIT’s investigations rarely include foundations registered under the Foundations Act.
 Given the low number overall for the IOM, they are potentially less impacted in the key typologies in Chapter 2.
-## OVERALL
-## CROSS-BORDER RISK EXPOSURE
+OVERALL
+CROSS-BORDER RISK EXPOSURE
 The countries of residence for 47.1% of RBOs are overseas.
 According to Companies Registry data, 3.5% of RBOs are in higher-risk jurisdictions.
 Of those managed by the TCSP sector, the most common locations of business operations, using the principal activity data, are the IOM (72.7%) and Ireland (12.0%).
 Given the low materiality and limited cross-border activity, the risk from cross-border is viewed as Low.
-## EASE, SPEED, AND COSTS OF FORMATION AND REGISTRATION AND OTHER PRACTICAL MATTERS
+EASE, SPEED, AND COSTS OF FORMATION AND REGISTRATION AND OTHER PRACTICAL MATTERS
 The costs are largely similar across a range of legal entities.
 There are costs associated with the Companies Registry, depending upon the speed with which registration is required.
 Given a TCSP is required, then there are likely to be associated costs in supporting the process.
@@ -2039,8 +2039,8 @@ However, these are mitigated by TCSP oversight and low typology incidence.
 TCSPs are critical gatekeepers.
 Supervisory focus should remain on their compliance quality rather than on foundations themselves.
 The overall risk rating for ML is Medium Low and the overall risk rating for TF is Medium Low.
-## 4.4 Limited Liability Companies Act 1996 companies
-## _4.4.1 Introduction_
+4.4 Limited Liability Companies Act 1996 companies
+_4.4.1 Introduction_
 A limited liability company in the IOM is incorporated under the Limited Liability Companies Act 1996.
 It is recognised as a separate legal entity distinct from its members, manager, and Registered Agent.
 This legal separation provides the company with the capacity to enter into contracts, own property, and initiate or defend legal proceedings in its own name.
@@ -2050,21 +2050,21 @@ From a taxation perspective, the profits of an IOM LLC are treated as the income
 This pass-through treatment aligns the LLC more closely with partnership structures in terms of tax transparency.
 LLCs are permitted to engage in any lawful business activity, except for those specifically restricted or prescribed under IOM legislation.
 These restrictions do not prevent an LLC from holding shares or other interests in companies that operate in regulated sectors, provided such activities comply with applicable licensing or regulatory requirements.
-## REGISTERED AGENT
+REGISTERED AGENT
 Each LLC must appoint a Registered Agent.
 The qualifications required to be held by the Registered Agent are detailed in Section 5(1) of the Limited Liability Companies Act 1996: an advocate; qualification for appointment as an auditor of a company under Section 14(1)(a) of the Companies Act 1982; membership of the Chartered Institute of Management Accountants; membership of the Institute of Chartered Secretaries and Administrators; fellowship or associate membership of the Institute of Bankers; or a holder of a CSP licence or its nominee company, as such terms are defined in Section 2(1) and Paragraph 10A(2) of Schedule 2 respectively of the Corporate Service Providers Act 2000 and those persons described in Sections 3(3)(b), (c), and (d) of the Act.
 For LLCs, the Nominated Officer (which is a TCSP in 51.8% of occasions) must be resident on the Island to comply with the requirements of the BOA.
 The FSA-issued Beneficial Ownership Act 2017 Guidance, published in December 2024, states: _“These are broadly similar to 2006 Act Companies in terms of the way they function, with some differences in terminology, in that the “directors” of an LLC are referred to as managers, whilst the “shareholders” are referred to as members.”_
-## REGISTERED OFFICE
+REGISTERED OFFICE
 Similar to 1931 Act companies, the Registered Office address of a company must be a physical address in the Island to which all communications and notices may be addressed.
 However, it must be more than just a postal address. a legal practitioner registered under the Legal Practitioners Registration Act 1986;
-## EASE AND SPEED OF FORMATION AND REGISTRATION
+EASE AND SPEED OF FORMATION AND REGISTRATION
 The ease and speed of formation and registration for LLCs is similar to that of 1931 Act companies.
-## _4.4.2 Scale_
+_4.4.2 Scale_
 At the end of December 2024, there were 91 LLCs registered with the Companies Registry.
 This represents 0.23% of all LPAs.
 As per Figure 4-5, the number of new LLCs registered with the Companies Registry has been consistent, in the range 1 to 9, over the last 5 years.
-## _4.4.3 Use of Limited Liability Companies Act 1996 companies_
+_4.4.3 Use of Limited Liability Companies Act 1996 companies_
 LLCs are used in both domestic and international contexts due to their flexible structure, legal certainty, and tax treatment.
 Their separate legal personality and pass-through tax status make them attractive vehicles for a range of business activities.
 Common applications include: Holding companies: LLCs are frequently used to hold shares in operating companies, particularly in cross-border corporate structures.
@@ -2074,7 +2074,7 @@ Asset protection: LLCs may be used to hold high-value assets such as intellectua
 Estate and succession planning: LLCs can be incorporated as part of broader estate planning strategies, particularly where continuity of ownership and control is desired across generations.
 SPVs: LLCs can be used as SPVs for financing arrangements, securitisation, or other transactional purposes.
 Their legal personality and certificate of establishment make them suitable for dealings with institutional lenders and third parties
-## REGISTRABLE BENEFICIAL OWNERSHIP
+REGISTRABLE BENEFICIAL OWNERSHIP
 As detailed in Chapter 3.2.7, the Companies Registry receives information on RBO of all the companies to which the BOA applies, including LLCs.
 Figure 4-6a shows the level of overseas RBO by legal person type. 44.7% of RBOs for LLCs are based outside of the IOM.
 As shown in Figure 4-23, which provides the top 5 overseas locations of RBOs for LLCs, 5.3% are based in Cabo Verde.
@@ -2084,14 +2084,14 @@ For Lists A (no cases), B(i), and B(ii), 6.1% of RBOs are in these jurisdictions
 Given the low materiality, the risk from higher-risk RBOs is Low.
 LLCs are used in both domestic and international contexts due to their flexible structure, legal certainty, and tax treatment.
 Their separate legal personality and pass-through tax status make them attractive vehicles for a range of business activities..”
-## ACTIVITY
+ACTIVITY
 From the TCSP 2025 LPA Return, an analysis was undertaken of the LLCs that TCSPs manage.
 The company is often part of a wider structure, with the data stating that 28.6% of structures also contain an IOM law trust, 12.2% contain a non-IOM law trust, and 23.5% contain other legal persons or arrangements.
 The TCSP-managed LLCs’ principal activities by jurisdiction was also analysed.
 The top 14 activities in descending frequency (by percentage occurrence) are in Figure 4-24.
 The top 9 jurisdictions by occurrence are in Figure 4-25.
-## _4.4.4 Threats and mitigants_
-## LAW ENFORCEMENT DATA
+_4.4.4 Threats and mitigants_
+LAW ENFORCEMENT DATA
 LEAs analysed their data for incidence of LLCs appearing.
 Within the SAR data, the FIU identified that an LLC was recorded in 4% of the overall SARs.
 There were no inward MLAs identified by ICART.
@@ -2100,25 +2100,25 @@ There have been no prosecutions or convictions by the Prosecution team specifica
 Between January 2020 and December 2024, 24 LLCs were struck off by the Companies Registry.
 Overall, the LEA data shows a low incidence of LLCs implicated in ML/TF cases. country risk exposure for LLCs is Low.
 According to Companies Registry data, 6.1% of RBOs were in higher-risk jurisdictions.
-## FOREIGN PEPS
+FOREIGN PEPS
 Within the TCSP 2025 LPA Return, the sector advised of the domestic and foreign legal persons that had a foreign PEP with control. 1.0% of these foreign PEPs were associated with LLCs, of which: 0.2% exercise indirect control as a controller of an entity higher up the ownership structure; and 0.8% exercise direct control through an ownership interest.
-## CROSS-BORDER
+CROSS-BORDER
 Of the LLCs that are managed by TCSPs, for the country of principal activity, none are in List B countries.
 Therefore, the
-## _4.4.5 Overall risk level for LLCs_
+_4.4.5 Overall risk level for LLCs_
 Basic information on LLCs is taken and recorded by the Companies Registry.
 This information is available on a free/fee basis depending on the information required.
-## BENEFICIAL OWNERSHIP INFORMATION
-## SCALE
+BENEFICIAL OWNERSHIP INFORMATION
+SCALE
 There are 91 LLCs in the IOM (as of 31st December 2024), making it the least-used legal person in the IOM, apart from Industrial and Building Societies and credit unions.
 Section 25 of the BOA gives the Companies Registry the power to make enquiries to verify the accuracy of RBO information submitted to it for inclusion on the Database.
 The competent authorities can electronically access the BO database.
-## ML/TF CASES AND TYPOLOGIES
-## CROSS-BORDER RISK EXPOSURE
+ML/TF CASES AND TYPOLOGIES
+CROSS-BORDER RISK EXPOSURE
 The country of residence for 44.7% of RBOs is overseas.
 The level of exposure to jurisdictions which are susceptible to the proceeds of crime/terrorist financing or secrecy is Medium across the legal person entity types. 6.1% of LLC RBOs have a List B(i) or B(ii) country of residence.
 The most common locations of business operations, using the principal activity data, are the IOM (45.8%), Cayman Islands (18.1%) and UK/US (12.5%).
-## EASE, SPEED, AND COSTS OF FORMATION AND REGISTRATION AND OTHER PRACTICAL MATTERS
+EASE, SPEED, AND COSTS OF FORMATION AND REGISTRATION AND OTHER PRACTICAL MATTERS
 The costs are largely similar across a range of legal entities.
 There are costs associated with the Companies Registry and the speed with which registration is required.
 These costs are relatively consistent with those of the other Crown Dependency Registries.
@@ -2130,15 +2130,15 @@ Whilst the volume of SARs expressly referencing LLCs is averaging 4% over the la
 There were no MLAs that expressly referenced LLCs.
 PIMLIT’s investigations do not directly reference LLCs.
 Given the international exposure of the legal entity, they are potentially impacted in the key typologies in the Chapter 2.
-## OVERALL
+OVERALL
 Despite small numbers, LLCs show disproportionate SAR mentions (4%), suggesting they are occasionally used in higherrisk typologies.
 Nearly half of RBOs are overseas, with exposure to jurisdictions requiring enhanced due diligence (e.g., Lebanon).
 This increases vulnerability to international ML/TF schemes.
 Concentration in high-value movable assets (ships, aircraft) and investment portfolios creates potential for ML layering and asset flight.
 Over half of LLCs have TCSP involvement for Nominated Officer roles; therefore, reliance on TCSP compliance controls is critical.
 The overall risk rating for ML is Medium Low and the overall risk rating for TF is Medium Low.
-## 4.5 Limited partnerships with legal personality
-## _4.5.1 Introduction_
+4.5 Limited partnerships with legal personality
+_4.5.1 Introduction_
 In the IOM, all partnerships are governed by the Partnership Act 1909.
 Limited partnerships are also governed by the Partnership Act 1909.
 They must, however, be registered as such, or they may be deemed to be general partnerships.
@@ -2153,11 +2153,11 @@ As with a general partnership, general partners have the authority to bind all t
 As a general rule, a limited partner may not withdraw their contribution during the life of the partnership and may not take part in the day-to-day management of the partnership.
 The Income Tax Act 1970 treats all partnerships (general, limited, and limited with separate legal personality) as partnerships.
 They are not subject to taxation as corporate taxpayers.
-## LEGAL PERSONALITY
+LEGAL PERSONALITY
 A limited partnership has legal personality if the general partners so elect at the time the partnership is registered and a declaration signed by the general partner is delivered to the Companies Registry.
 An election to adopt legal personality is irrevocable.
 The name of a limited partnership with legal personality must end with “Incorporated” or “Inc.”
-## REGISTERED AGENT
+REGISTERED AGENT
 A Registered Agent is not required.
 For limited partnerships with legal personality, the Nominated Officer (which is a TCSP in 96.2% of occasions) must be resident on the Island to comply with the requirements of the BOA.
 The FSA-issued Beneficial Ownership Act 2017 Guidance, published in December 2024, states: _“In the case of limited partnerships, the partnership will have legal personality if the provisions set out in section 48B(1) of the Partnership Act 1909 are met.
@@ -2167,23 +2167,23 @@ The limited partners always have an ownership interest in the partnership, but g
 The general partners always have controlling rights over the partnership._ _The Act is, however, interested in ownership and control.
 A limited partner which owns more than 25% of the ownership interest in the partnership will be a RBO, despite having no control or voting rights.
 A general partner which controls over 25% will be a registrable beneficial owner, despite having no ownership rights.”_
-## REGISTERED OFFICE
+REGISTERED OFFICE
 As with 1931 Act companies, the Registered Office address of a limited partnership must be a physical address in the Island to which all communications and notices may be addressed.
 It must be more than just a postal address.
-## EASE AND SPEED OF FORMATION AND REGISTRATION
+EASE AND SPEED OF FORMATION AND REGISTRATION
 The ease and speed of formation and registration for limited partnerships is similar to that of 1931 Act companies.
-## _4.5.2 Scale_
+_4.5.2 Scale_
 At the end of December 2024, there were 107 limited partnerships with legal personality registered with the Companies Registry.
 This represents 0.27% of all LPAs.
 As per Figure 4-5, the number of new limited partnerships with legal personality registered with the Companies Registry has been consistent, in the range of 6 to 18, over the last 5 years.
-## _4.5.3 Use of limited partnerships with legal personality_
+_4.5.3 Use of limited partnerships with legal personality_
 Limited partnerships in the IOM may elect to have legal personality under the Limited Partnership (Legal Personality) Act 2011 .
 When this election is made at the time of registration, the limited partnership becomes a separate legal entity capable of contracting, holding property, and suing or being sued in its own name.
 This legal status provides enhanced structural flexibility and operational autonomy while retaining the core features of a partnership arrangement.
 The legal personality of a limited partnership does not alter its tax treatment under IOM law.
 All partnerships, whether general, limited, or limited with legal personality, are treated as transparent for tax purposes.
 Profits and gains are taxed at the partner level, not at the entity level.
-## COMMON APPLICATIONS
+COMMON APPLICATIONS
 Limited partnerships with legal personality are used in a variety of international and domestic contexts, particularly where a combination of legal autonomy, tax transparency, and flexible governance is required.
 Typical use cases include:
 Investment structures
@@ -2195,21 +2195,21 @@ These partnerships are used to hold commercial or residential property, luxury a
 The legal personality allows the limited partnership to own and manage assets directly and simplify transactions.
 Joint ventures and strategic partnerships
 The limited partnership structure is well-suited to joint ventures, especially where one party assumes management responsibility (as general partner) and others contribute capital (as limited partners).
-## REGISTRABLE BENEFICIAL OWNERSHIP
+REGISTRABLE BENEFICIAL OWNERSHIP
 As detailed in Chapter 3.2.7, the Companies Registry receives information on RBO of all companies to which the BOA applies, including limited partnerships with legal personality.
 Figure 4-6a shows the level of overseas RBO by legal person type. 92.3% of RBOs for limited partnerships with legal personality are based outside of the IOM.
 As shown in Figure 4-26, which provides the top 5 overseas locations of RBOs for limited partnerships with legal personality, 48.7% are based in the UK.
 The next largest jurisdiction for exposure is Ireland, with 19.2%.
 For Lists A (no cases), B(i), and B(ii), 5.8% of RBOs are in these jurisdictions.
 Given the low materiality, the risk from higher-risk RBOs is Low.
-## ACTIVITY
+ACTIVITY
 From the TCSP 2025 LPA Return, an analysis was undertaken of the limited partnerships with legal personality that TCSPs manage/administer.
 The company is often part of a wider structure, with the data stating that 15.1% of structures also contain an IOM law trust, 12.2% contain a non-IOM law trust, and 52.5% contain other LPAs.
 The principal activity by jurisdiction for TCSP-managed limited partnerships with legal personality was also analysed.
 The top 13 activities in descending frequency (by percentage occurrence) are in Figure 4-27.
 The top 12 jurisdictions by occurrence are in Figure 4-28.
-## _4.5.4 Threats and mitigants_
-## LAW ENFORCEMENT DATA
+_4.5.4 Threats and mitigants_
+LAW ENFORCEMENT DATA
 LEAs analysed their data for incidence of limited partnerships with legal personality appearing.
 Within the SAR data, the FIU identified that a partnership in any format was recorded in 1% of the overall SARs.
 There were no inward MLAs identified by the AGC.
@@ -2217,20 +2217,20 @@ PIMLIT investigations do not directly reference partnerships.
 There have been no prosecutions or convictions by the Prosecution team specifically of these companies.
 Between January 2020 and December 2024, 16 limited partnerships with legal personality were struck off by the Companies Registry.
 Overall, the LEA data shows a low incidence of legal partnerships with legal personality implicated in ML/TF cases.
-## CROSS-BORDER
+CROSS-BORDER
 Of the legal partnerships with legal personality that are managed by TCSPs, for the country of principal activity, 3.6% are in List B countries.
 Therefore, the country risk exposure is low.
 According to Companies Registry data, 5.8% of RBOs were in higher-risk jurisdictions.
-## FOREIGN PEPS
+FOREIGN PEPS
 Within the TCSP 2025 LPA Return, the sector advised of the domestic and foreign legal persons that had a foreign PEP with control. 1.0% of these foreign PEPs were associated with limited partnerships with legal personality, of which: 0.6% exercise indirect control as a controller of an entity higher up the ownership structure; 0.2% exercise direct control through an ownership interest; and 0.2% are a significant person – i.e., a company director.
-## _4.5.5 Overall risk level for limited partnerships with legal personality_
-## SCALE
+_4.5.5 Overall risk level for limited partnerships with legal personality_
+SCALE
 There were 107 limited partnerships with legal personality in the IOM (as of 31st December 2024), making it one of the leastused legal persons in the IOM.
-## CROSS-BORDER RISK EXPOSURE
+CROSS-BORDER RISK EXPOSURE
 The countries of residence for 92.3% of RBOs are overseas.
 The level of exposure to jurisdictions which are susceptible to the proceeds of crime/terrorist financing or secrecy is Medium across the legal person entity types, with 5.8% of RBOs having a B(i) or B(ii) country of residence.
 The most common locations of business operations, using the principal activity data, are the IOM (35.4%) and the UK (25.2%).
-## EASE, SPEED, AND COSTS OF FORMATION AND REGISTRATION AND OTHER PRACTICAL MATTERS
+EASE, SPEED, AND COSTS OF FORMATION AND REGISTRATION AND OTHER PRACTICAL MATTERS
 The costs are largely similar across a range of legal entities.
 There are costs associated with the Companies Registry and the speed with which registration is required.
 These costs are relatively consistent with those of the other Crown Dependency Registries.
@@ -2238,45 +2238,45 @@ The Income Tax Act 1970 treats all partnerships (general, limited, and limited w
 They are not subject to taxation as corporate taxpayers.
 Basic information is taken and recorded by the Companies Registry.
 This information is available on a free/fee basis depending on the information required.
-## BENEFICIAL OWNERSHIP INFORMATION
+BENEFICIAL OWNERSHIP INFORMATION
 Section 25 of the BOA gives the Companies Registry the power to make enquiries to verify the accuracy of RBO information submitted to it for inclusion on the Database.
 The competent authorities can electronically access the BO database.
-## ML/TF CASES AND TYPOLOGIES
+ML/TF CASES AND TYPOLOGIES
 The volume of SARs expressly referencing partnerships in any format is averaging 1% over the last 5 years.
 There were no MLAs that expressly referenced partnerships.
 PIMLIT’s investigations do not directly reference limited partnerships with legal personality.
 Given the international exposure of the legal entity, they are potentially impacted in the key typologies in Chapter 2.
-## OVERALL
+OVERALL
 Legal partnerships with legal personality are not common in the IOM; this low materiality is counterbalanced by the high international nature of the beneficial owners.
 This creates a slight disconnect between the very small footprint but a higher cross-border risk implication.
 This entity adds operational autonomy (owning assets, contracting) without altering tax transparency, which may be attractive for sophisticated structures like funds and joint ventures.
 Despite international exposure, ML/TF typologies show minimal direct involvement, and there is low LEA exposure to these entities in the cases they see.
 However, it is worth industry being aware of the combination of concentration in high-value assets (ships, aircraft) and foreign beneficial ownership.
 The overall risk rating for ML is Medium Low and the overall risk rating for TF is Medium Low.
-## 4.6 Industrial and Building Societies
-## _4.6.1 Introduction_
+4.6 Industrial and Building Societies
+_4.6.1 Introduction_
 An Industrial and Building Society is a society for the purpose of carrying on any industries, business, or trades specified in or authorised by its rules, whether wholesale or retail, including the buying and selling of land, of which no member other than a society registered under the Industrial and Building Societies Act 1892 shall have or claim an interest in shares exceeding £5,000 or such other sum as may be specified in an order under Section 2 of the Industrial and Building Societies Act 1979 – provided always that no Industrial and Building Society shall be formed for or to carry on the business of banking. the Certificate of Incorporation; the allotted Society number; the Registered Office address (in the IOM); the Annual Return (s.16), the return being a set of audited accounts; and the Amended Rules (effective from the date of registration with Companies Registry).
-## BENEFICIAL OWNERSHIP DETAILS
+BENEFICIAL OWNERSHIP DETAILS
 Beneficial ownership details are not stored on the register as Industrial and Building Societies are not caught by the BOA.
 Therefore, a Nominated Officer is not required.
-## REGISTERED AGENT
+REGISTERED AGENT
 A Registered Agent is not required.
-## _4.6.2 Scale_
+_4.6.2 Scale_
 At the end of December 2024, there were 6 Industrial and Building Societies, representing 0.01% of the overall LPAs for the IOM.
 They are not material from a risk perspective.
 These are publicly listed on the Companies Registry website.
-## REGISTERED OFFICE
+REGISTERED OFFICE
 Section 16(1)(a) of The Industrial and Building Societies Act 1892, states that: _“Every society shall - Have a Registered Office in the Isle of Man, to which all communications and notices may be addressed, and send to the Department notice, in writing, of the situation of such office, and of every change therein”_ There are no residency requirements.
 The Industrial and Building Societies Act 1892 is not a vehicle that is in common use.
 The Companies Registry holds the following:
-## _4.6.3 Use of Industrial and Building Societies_
+_4.6.3 Use of Industrial and Building Societies_
 2016 was the most recent incorporation under the Act, where the Manx Credit Union was created; prior to that was 1994.
 Subsequently, the Manx Credit Union was re-registered under the Credit Union Act 1993 in April 2019.
 In law, the societies which can be registered under the Act are: - industrial and provident societies; and the application for registering as an Industrial Society; building societies. the Rules of the Society (per the requirements of the Schedules to the 1892 Act), which are sent on application to register;
-## _4.6.4 Overall risk level for Industrial and Building Societies_
+_4.6.4 Overall risk level for Industrial and Building Societies_
 Given the small number and local geographic profile, Industrial and Building Societies carry the lowest risk of the entities considered.
 The overall risk rating for ML is Low and the overall risk rating for TF is Low.
-## 4.7 Credit unions
+4.7 Credit unions
 There is one regulated credit union on the Island: Manx Credit Union Limited (MCU).
 It was previously registered as an Industrial and Building Society and was re-registered under the Credit Union Act 1993 in April 2019.
 This entity sits on a single register and is not listed in the Companies Database, though a number of documents filed with the Companies Registry, including annual accounts, are publicly available on the website.
@@ -2290,15 +2290,15 @@ A member must be resident on the Island, may not have a shareholding of greater 
 This restricts the business activity and consequential ML and TF risk.
 Almost all credit union customers are IOM-based.
 They are natural persons.
-## OVERALL
+OVERALL
 Credit unions are not scored as a legal entity as only one exists on the IOM which is an actual supervised entity.
 See the separate TF and ML NRAs.
 In the TF NRA, credit unions are scored as Low.
-## 4.8 Summary: Domestic legal persons
+4.8 Summary: Domestic legal persons
 The overall ML risk scores, as calculated using World Bank methodology, are shown in Figure 4-29. 2006 Act companies and 1931 Act companies score the highest, both at Medium.
 The other entities are Medium Low or Low and are far less material.
 Figure 4-30 shows the summary position for ML and TF risk scores for domestic legal persons.
-# CHAPTER 5 - Foreign Legal Persons
+CHAPTER 5 - Foreign Legal Persons
 Foreign legal persons 5.1 Introduction to foreign legal persons
 Given the IOM’s position as an IFC, the inclusion of foreign legal persons within structures and wider business relationships is comparatively common.
 The majority of foreign legal persons will be linked with a TCSP or other party that is subject to the AML/CFT framework.
@@ -2308,7 +2308,7 @@ These are covered in: ‘foreign-registered’ companies in Chapter 5.2; ‘fore
 If the IOM TCSP is providing officers (directors, secretary, Council members, etc.), those individuals from the TCSP would be subject to the laws of the jurisdiction of the entities’ incorporation.
 Therefore, they would need to familiarise themselves accordingly with the obligations upon an officer in the laws of the incorporation jurisdiction.
 In addition, the TCSP would want to become familiar with the relevant laws, ensure the entity is of good standing, and understand the obligations and variances (from IOM law) from a risk perspective.
-## FATF GUIDANCE – SUFFICIENT LINKS
+FATF GUIDANCE – SUFFICIENT LINKS
 In the Beneficial Ownership of Legal Persons document, FATF provides guidance regarding foreign legal persons: “Moreover, countries should identify and assess the ML/TF risks to which they are exposed in relation to foreign legal persons, b) Has significant business activity in the country.
 Significant business activity may be defined either in terms of a monetary threshold, or by such other parameters as may be suitable to the particular situation of the country. c) Has significant, ongoing business relations with financial institutions or DNFBPs subject to AML/CFT regulation in the country.
 Significant here could be in relation to the size of the relevant market and/or the impact of the business activity in the relevant market or the areas/sectors in which a legal person operates; d) Has significant real estate or other investment in the country, including any asset subject to registration, such as ownership of high value commercial or residential real estate, securities market investment or other assets.
@@ -2331,10 +2331,10 @@ It is recommended that further analysis and possible consultation are undertaken
 Where central management and control is exercised in the IOM, such companies are considered to be tax-resident and may also qualify as having 'sufficient links' for the purposes of FATF Recommendation 24.” The overall number of foreign legal persons reported each year and with a TCSP relationship is reducing from a peak in 2011.
 The number of foreign-registered companies and “foreign companies – IOM tax resident” has also reduced in recent years (see Figure 5-4, which shows the comparison with overall incorporations as well as for foreign companies (see highlighted area of graph), to allow the variances to be more readily viewed).
 Whilst the overall number of reported entities has increased since 2020, the overall number of foreign legal persons has slowly reduced.
-## WORLD BANK METHODOLOGY
+WORLD BANK METHODOLOGY
 As described in Chapter 4, the World Bank has written a methodology for assessing foreign legal persons.
 The full network diagram for the entity risk assessment for foreign legal persons is in Figure 5-5, which does differ from the methodology as displayed in Figure 4-1.
-## LAW ENFORCEMENT AGENCY DATA
+LAW ENFORCEMENT AGENCY DATA
 LEA data is not segregated by foreign legal person type; therefore, the data is a combination of all three foreign legal person types.
 FIU data is not sufficiently segregated in the database to identify foreign legal persons where SARs have been submitted.
 However, the FIU provided typologies and examples which could be conducted through foreign legal persons.
@@ -2342,7 +2342,7 @@ These examples have been included in the Threats in Chapter 2.
 The AGC Crown Office team recorded that 9.5% of MLAs originating from incoming MLA requests concerned foreign legal persons, the second-highest number behind 2006 Act companies.
 PIMLIT investigations do include foreign legal persons.
 Prosecution and convictions data does not provide sufficient detail of the underlying entity to identify specific foreign legal persons that are implicated in the cases.
-## _5.1.1 Economic substance_
+_5.1.1 Economic substance_
 Economic substance ensures that entities benefitting from a jurisdiction’s tax regime actually conduct meaningful business in that jurisdiction, with real staff, offices, and decision-making, rather than existing only on paper.
 The IOM’s economic substance legislation, set out in Part 6A of the Income Tax Act 1970, was introduced to align with international standards on tax transparency and to address concerns raised by the European Union’s Code of Conduct Group.
 The legislation applies to IOM tax-resident entities that carry on specific types of business activities, referred to as “relevant activities,” and generate income during the relevant accounting period.
@@ -2355,7 +2355,7 @@ To support consistent interpretation and application of the rules, the IOM Gover
 This guidance provides clarity on complex scenarios, including the treatment of partnerships and intellectual property structures.
 Oversight and enforcement of the legislation are carried out by the Assessor of Income Tax, who may impose penalties or report non-compliance to relevant international bodies where appropriate.
 In June 2021, the scope of the legislation was expanded to include partnerships and limited liability companies, reinforcing the Island’s commitment to maintaining a robust and internationally compliant framework.
-## _5.1.2 Cross-border threats_
+_5.1.2 Cross-border threats_
 The cross-border exposure, as measured by jurisdiction of principal activity, was reviewed for the combination of all foreign legal persons.
 There was exposure to 22 different List B jurisdictions and 74 different Other List jurisdictions.
 There were no List A jurisdictions.
@@ -2363,7 +2363,7 @@ List B jurisdictions accounted for 10.7% overall (noting that South Africa only 
 Figure 5-6 shows the jurisdictional exposure by principal activity for all jurisdictions and for the higher-risk List B jurisdictions.
 The UK (23.2%) is the largest, followed by the IOM (16.3%) and the US (16.2%).
 The BVI (6.4%) is the only List B jurisdiction in the overall top 12.
-## EXAMPLE OF THE IOM’S EXPOSURE TO OTHER JURISDICTIONS: SHIPPING
+EXAMPLE OF THE IOM’S EXPOSURE TO OTHER JURISDICTIONS: SHIPPING
 The BVI is commonly used for establishing companies that serve as SPVs, holding companies, or investment platforms, including those related to shipping vessels.
 The IOM maintains a globally recognised ship registry and investors interested in shipping assets may utilise the BVI, approaching vessel managers to access investment opportunities.
 Typically, a vessel manager will engage a TCSP on behalf of a group of investors to incorporate SPVs that hold the vessels and, where necessary, additional holding companies for structuring and ownership purposes.
@@ -2377,11 +2377,11 @@ An example structure chart is in Figure A5-3 in Appendix 5.
 The TCSP 2025 LPA Return provides further details on the jurisdictional coverage for ships or vessels that they manage and administer.
 Not all are foreign legal persons; some are also 2006 Act companies.
 For those that are foreign legal persons, jurisdictional exposure includes: the Cayman Islands (1.8% of the total number of foreign legal persons), BVI (0.6%), and Malta (0.6%).
-## EXAMPLE IN WHICH OVERSEAS COMPANIES AND TRUSTS ARE USED
+EXAMPLE IN WHICH OVERSEAS COMPANIES AND TRUSTS ARE USED
 See Figure A5-4 in Appendix 5 for a hypothetical structure in this example.
 Foreign legal persons from the UK and BVI are used in this structure, alongside a Jersey and Gibraltar trust.
 The structure supports a family-owned trading business which aims to protect future generations.
-## _5.1.2.1 Review of NRA or MER for Top 5 overseas jurisdictions: the UK, US, Spain, the BVI, and Cayman Islands_
+_5.1.2.1 Review of NRA or MER for Top 5 overseas jurisdictions: the UK, US, Spain, the BVI, and Cayman Islands_
 A review was undertaken of the NRA or Mutual Evaluation Reports for the top 5 overseas jurisdictions (see Figure 5-6) to understand if any threats are imported into or exported from the IOM.
 Excluding the IOM (17.3%), these five jursidictions account for 57.1% of foreign legal persons.
 There are a number of broad areas of note from the summaries in Appendix 8.
@@ -2413,14 +2413,14 @@ The UK and US also report misuse of trusts for concealing beneficial ownership a
 In conclusion, the IOM imports vulnerabilities from these jurisdictions (as it does from the remaining jurisdictions) through foreign legal persons; however, these are largely controlled through the use of regulated TCSPs providing services to such entities.
 The sum of the principal activities of all three foreign legal person types for the UK, US, Spain, the BVI, and Cayman Islands, as a percentage of the overall total for all legal persons in all jurisdictions, is demonstrated in Figure 5-7.
 The largest activity is Investment Portfolio (2.92%), followed by Holding Commercial Real Estate Non-IOM (2.22%) and Holding Residential Real Estate Non-IOM (1.46%).
-## 5.1.3 Services offered by TCSPs
+5.1.3 Services offered by TCSPs
 From the TCSP 2025 LPA Return, the sector provided details on all the foreign legal persons that they support, and an understanding of how these companies might be part of wider structures was provided (see Figure 5-8). “Foreign companies – IOM tax resident” had the highest percentage (40.6%) of structures that contain an IOM law trust, whilst foreign companies had the highest percentage (43.3%) of structures that contain a non-IOM law trust.
 Foreign companies also had the highest percentage (35.8%) of structures that contain another legal person or legal arrangement.
 The TCSP sector provides a range of services to these companies.
 Registered Office and Registered Agent services are lower than the average across all companies, as would be expected (see Figure 5-2).
 There are no bearer shares recorded.
 Should a foreign company cease to be managed by a TCSP, the exemption under the Foreign Companies Act 2014, section 5 (3)(k) , ceases to apply: _“5 Foreign companies to which this Act applies_ _(3) A foreign company is not to be treated as carrying on business from an established place of business in the Island (or being held out as such) by reason only of the company – (k) receiving services which –_ _(i) are provided by the holder of a licence issued under section 7 of the Financial Services Act 2008 whose licence permits the holder to carry on the regulated activity (within the meaning of section 3(1) of that Act) of providing corporate services7 (1) A foreign company to which this Act applies must make an application for registration under section 8 within one month of this Act applying to it”_
-## _5.1.4 Jurisdiction of bank accounts_
+_5.1.4 Jurisdiction of bank accounts_
 The IOM does not have a central register of bank accounts An IOM LPA is not obliged to have an IOM bank account.
 Therefore, the TCSP sector provided information on location of bank accounts across the legal persons that they manage, where it was recorded on their systems.
 Figure 5-9 shows this data for foreign legal persons as well as domestic legal persons, displaying percentages of the overall total of known bank account locations for all legal person types.
@@ -2431,7 +2431,7 @@ Where an LPA does not have an IOM bank account or they use the services of a pay
 For foreign-registered companies, the IOM had the largest percentage at 1.4%, followed by Switzerland (0.7%), the US (0.6%), and the UK (0.5%).
 For foreign companies, the IOM had the largest percentage at 4.6%, followed by the US (3.7%), UK (1.7%), and Switzerland (1.1%).
 For “Foreign companies – IOM tax resident,” the IOM was also the largest jurisdiction (1.4%), followed by the UK, Switzerland, and Guernsey, all on 0.3%.
-## _5.1.5 Summary_
+_5.1.5 Summary_
 The FATF requires countries to assess ML/TF risks for foreign legal persons with “sufficient links” (e.g., permanent establishment, significant business activity, tax residency).
 Exposure (by jurisdiction of principal activity) is concentrated in the UK (22.6%), US (14%), and BVI (7.5%), with the BVI being the only List B jurisdiction in the top 10.
 TCSPs play a critical role in reducing risk through fiduciary oversight.
@@ -2439,59 +2439,59 @@ Economic substance rules apply to IOM tax-resident entities, aligning with EU st
 Regulatory focus should remain on the TCSP sector, as they provide the primary mitigation to the importing and exporting of risks.
 Cross-border risk is driven by complex structuring and the requirement for professional gatekeepers, especially in the BVI and Cayman Islands.
 These risks are reduced by enhanced due diligence and the international cooperation of authorities.
-## 5.2 Foreign-registered companies
-## _5.2.1 Introduction_
+5.2 Foreign-registered companies
+_5.2.1 Introduction_
 Prior to the introduction of the Foreign Companies Act 2014, companies incorporated outside of the IOM carrying on business within the IOM were registered under Part XI (sections 312-321) of the Companies Act 1931.
 A company incorporated in a jurisdiction outside of the IOM and which establishes a place of business or that owns or rents land in the IOM must register as a foreign company under the Foreign Companies Act 2014.
 Registration documents must be delivered to the Companies Registry within one month of the establishment of the place of business or the acquisition of the land; a foreign company that fails to register, together with its officers, commits an offence.
 The interpretation placed upon what is meant by ‘establishing a place of business’ means, unless real estate is involved, that many companies which are administered in the IOM and incorporated abroad are not entered onto the Foreign-Registered Companies Register.
 Some foreign companies voluntarily add themselves to the Foreign-Registered Companies Register with the Companies Registry.
 A foreign-registered company must submit an annual return to the Companies Registry, detailing the company’s name and incorporation number, jurisdiction and date of incorporation, and business address in the Island in order to continue the registration.
-## _5.2.2 Scale_
+_5.2.2 Scale_
 484 foreign-registered companies are registered with the Companies Registry.
 This represents 1.21% of the overall LPA number.
-## _5.2.3 Use of foreignregistered Companies_
+_5.2.3 Use of foreignregistered Companies_
 Foreign-registered companies are often used when a company has a branch or office in the IOM but remains tax resident elsewhere.
 A UK high street store may become foreign-registered when they open a shop in the IOM.
 The ITD gathers beneficial ownership information on foreign-registered companies and “Foreign companies – IOM tax resident.” The combined data as of December 2024 shows that the country of residence is outside of the IOM for 56.4% of the beneficial owners. 1.9% reside in higher-risk B(i) and B(ii) countries.
 Figure 5-10 shows the top 12 principal activities by occurrence as reported by the TCSP sector.
 The greatest activity by occurrence is for Investment Portfolios (35.3%).
-## _5.2.4 Threats and mitigants_
+_5.2.4 Threats and mitigants_
 2.6% of all foreign PEPs on the IOM with a TCSP connection are associated with foreign-registered companies.
 Of these FPEPs: exports back to the jurisdiction (see Figure 5-11).
 The UK was the most popular jurisdiction for principal activity (22.1%).
 The IOM was second-highest for activity (19.7%), and the Cayman Islands was third-highest (17.7%) for activity. 0.9% exercise indirect control as a controller of an entity higher up the ownership structure; 0.9% exercise direct control through an ownership interest; and 0.8% are a significant person – i.e., a company director.
 The jurisdictions of the principal activity were assessed to better understand the jurisdictional risk that foreign-registered companies potentially import into the IOM and that the IOM
-## _5.2.5 Overall risk level for foreign-registered companies_
-## SCALE
+_5.2.5 Overall risk level for foreign-registered companies_
+SCALE
 484 foreign-registered companies (as of 31st December 2024) are recorded with the Companies Registry.
 This represents 1.21% of all LPAs and 13.2% of foreign legal persons.
 The number of new registrations fell between 2020 (71) and 2024 (32).
-## CROSS-BORDER RISK EXPOSURE
+CROSS-BORDER RISK EXPOSURE
 Using the principal activity data from the TCSP sector, the level of exposure to jurisdictions which are susceptible to the proceeds of crime/terrorist financing is at a moderate level, with 12.6% of foreign-registered companies having a B(i) or B(ii) country for principal activity.
 Where the TCSPs have reported on the jurisdiction of bank account (Figure 5-9), these are either in the IOM (1.4%) or other jurisdictions where the IOM has significant experience, including Switzerland (0.7%), the UK (0.5%), or the US (0.6%).
-## EFFECTIVENESS OF INTERNATIONAL COOPERATION WITH FOREIGN JURISDICTIONS
+EFFECTIVENESS OF INTERNATIONAL COOPERATION WITH FOREIGN JURISDICTIONS
 In the recently published TF NRA, the national vulnerability for effectiveness of international cooperation was scored as 0.7.
 The World Bank analysis for foreign companies looked at the cooperation through informal channels as well as cooperation through MLAs.
-## ATTRACTIVENESS FOR USE IN THE IOM
+ATTRACTIVENESS FOR USE IN THE IOM
 A company incorporated in a jurisdiction outside of the IOM and which establishes a place of business or that owns or rents land in the IOM must register as a foreign-registered company under the Foreign Companies Act 2014.
 The tax attractiveness is assessed as similar to other legal entity types, such as 1931 and 2006 Act companies.
-## BASIC AND BENEFICIAL OWNERSHIP INFORMATION
+BASIC AND BENEFICIAL OWNERSHIP INFORMATION
 Foreign-registered companies are required to supply the Companies Registry with certain basic information.
 This information is available on a free/fee basis depending on the information required.
 Foreign-registered companies are not captured by the BOA, and beneficial ownership data is therefore not held on the Beneficial Ownership Database by the Companies Registry.
 Consequently, Nominated Officers are not required.
 The ITD do hold basic information (see Figure 5-2) and beneficial ownership information is also collected and reported in respect of certain non-resident persons to the ITD under the Common Reporting Standard for account holders of IOM entities that are reporting financial institutions.
-## ML/TF CASES AND TYPOLOGIES AND INCIDENCE
+ML/TF CASES AND TYPOLOGIES AND INCIDENCE
 The volume of SARs expressly referencing foreign-registered companies is not captured by the FIU.
 The number of inbound MLAs is recorded for foreign legal persons overall (9.5%), though specific foreign-registered data is not available.
 PIMLIT’s investigations do include foreign legal persons.
-## OVERALL
+OVERALL
 The gap in access to beneficial ownership information from the Companies Registry is a possible risk, mitigated by the TCSP holding the verified information.
 The declining numbers may suggest a reduced attractiveness or a smaller overall international requirement for cross-border activity.
 The overall risk rating for ML is Medium High and for TF is Medium Low.
-## 5.3 Foreign companies – IOM tax resident
-## _5.3.1 Introduction_
+5.3 Foreign companies – IOM tax resident
+_5.3.1 Introduction_
 The residence of a company is a key factor in determining its tax treatment, liabilities, and reporting obligations under the Income Tax Act 1970 and related statutes.
 A key principle of the Income Tax Act 1970 is that income tax is payable in the IOM on: the worldwide income arising or accruing to any person residing in the IOM; and on income arising or accruing from sources in the IOM to any person not residing in the IOM.
 The IOM applies a combination of both the place of incorporation and the place of central management and control of the company in determining the tax residence of a company.
@@ -2499,104 +2499,104 @@ A company incorporated outside the IOM is regarded as tax resident in the IOM wh
 Determining the tax residence of a company by virtue of its central management and control is a principle rooted in case law.
 When considering whether a company is tax resident by virtue of its central management and control, the Assessor of Income Tax will generally consider: whether the directors exercise the central management and control; and if so, where they exercise that central management and control; or if the directors do not exercise the central management and control, who does exercise it and where is this exercised.
 Generally, if the Board of Directors on the IOM are giving effect to decisions taken outside the Island or are simply following the instructions of persons outside the Island, the central management and control of the company is not located on the IOM.
-## _5.3.2 Scale_
+_5.3.2 Scale_
 847 “Foreign companies – IOM tax resident” are registered with the Income Tax Division.
 This represents 2.11% of the overall LPA number.
-## _5.3.3 Use of foreign companies – IOM tax resident_
+_5.3.3 Use of foreign companies – IOM tax resident_
 It is comparatively common for holding companies or investment vehicles managed from the IOM to be registered as “Foreign companies – IOM tax resident.” An example would be a BVI company for which an IOM TCSP provides the Board members.
 In Figure 4-16, an example structure was provided where a BVI holding company was used to hold a number of properties.
 The principal activities by occurrence are in Figure 5-12.
-## _5.3.4 Threats and mitigants_
+_5.3.4 Threats and mitigants_
 1.3% exercise direct control through an ownership interest; and 0.1% are a significant person – i.e., a company director. 3.3% of all foreign PEPs on the IOM with a TCSP connection are associated with “Foreign companies – IOM tax resident.” Of these FPEPs: 1.9% exercise indirect control as a controller of an entity higher up the ownership structure; The jurisdiction of the principal activity was assessed to better understand the jurisdictional risk that “Foreign companies – IOM tax resident” potentially import into the IOM and that the IOM exports back to the jurisdiction (see Figure 5-13).
 The UK was the most popular jurisdiction (35.4%) for principal activity.
 The IOM was second-highest for activity (16.2%) and the BVI was third-highest (12.0%). _5.3.5 Overall risk level for “Foreign companies – IOM tax resident”_
-## SCALE
+SCALE
 847 “Foreign companies – IOM tax resident” (as of 31st December 2024) are recorded with the ITD.
 This represents 2.11% of all LPAs and 23.1% of foreign legal persons.
 The number of new registrations fell between 2020 (298) and 2024 (62).
-## CROSS-BORDER RISK EXPOSURE
+CROSS-BORDER RISK EXPOSURE
 Using the principal activity data from the TCSP sector, the level of exposure to jurisdictions which are susceptible to the proceeds of crime/terrorist financing is at a moderately high level of 18.2%.
 Only the BVI, which is a List B(i) jurisdiction, appears in the top 10.
 Where the TCSPs have reported on jurisdictions of bank accounts (Figure 5-9), these are in the IOM (1.4%) or other jurisdictions including Switzerland (0.3%), the UK (0.3%), or Guernsey (0.3%),
-## EFFECTIVENESS OF INTERNATIONAL COOPERATION WITH FOREIGN JURISDICTIONS
+EFFECTIVENESS OF INTERNATIONAL COOPERATION WITH FOREIGN JURISDICTIONS
 In the recently published TF NRA, the national vulnerability for effectiveness of international cooperation was scored as 0.7.
 The World Bank analysis for foreign companies looked at the cooperation through informal channels as well as cooperation through MLAs.
 The overall risk rating for ML is Medium High and the TF risk rating is Medium Low.
-## 5.4 Foreign companies
-## _5.4.1 Introduction_
+5.4 Foreign companies
+_5.4.1 Introduction_
 This group captures all foreign companies that neither have a place of business nor exercise management and control in the IOM, but which have a relationship with an IOM TCSP.
 Where the foreign company administration is undertaken in the IOM, the TCSP holds data on the company and include it in the TCSP’s data returns to the FSA.
 There are no requirements to provide beneficial ownership information to the Companies Registry or ITD.
-## ATTRACTIVENESS FOR USE IN THE IOM
+ATTRACTIVENESS FOR USE IN THE IOM
 The tax attractiveness is assessed as similar to other legal entity types, such as 1931 and 2006 Act companies.
-## BASIC AND BENEFICIAL OWNERSHIP INFORMATION
+BASIC AND BENEFICIAL OWNERSHIP INFORMATION
 Foreign-registered companies are not captured by the BOA and beneficial ownership data is therefore not held on the Beneficial Ownership Database by the Companies Registry.
 Consequently, Nominated Officers are not required.
 The ITD does hold basic information (see Figure 5-2) and beneficial ownership information is also collected and reported in respect of certain non-resident persons to the ITD under the CRS for account holders of IOM entities that are reporting financial institutions.
-## ML/TF CASES, TYPOLOGIES, AND INCIDENCE
+ML/TF CASES, TYPOLOGIES, AND INCIDENCE
 The volume of SARs expressly referencing “Foreign companies – IOM tax resident” is not captured by the FIU.
 The number of inbound MLAs is recorded for foreign legal persons overall (9.5%), though specific “Foreign companies – IOM tax resident” data is not available.
 PIMLIT’s investigations do include foreign legal persons.
-## _5.4.2 Scale_
+_5.4.2 Scale_
 2,332 foreign companies were recorded by IOM TCSPs on the TCSP 2025 LPA return.
 This represents 5.81% of overall legal persons and arrangements.
-## _5.4.3 Use of foreign companies_
+_5.4.3 Use of foreign companies_
 Examples of foreign companies potentially include: A BVI company which owns property that may be located in another country (neither the BVI nor IOM), and which is administered in the IOM by a TCSP – this may be because the IOM has built up expertise in administration, combined with being a competitive location for this activity; a Spanish property holding company with non-Spanish resident directors, administered by an IOM TCSP; or
-## OVERALL
+OVERALL
 Tax residency does provide a degree of leverage for the authorities to obtain information if required; however, the TCSP will hold verified due diligence.
 There is moderate exposure to higher-risk jurisdictions, notably the BVI. fund structures (e.g., Cayman Island companies) that are administered in the IOM for general administration or accounting/valuation services.
 Figure 5-14 provides the top 10 activities for foreign companies by occurrence.
 Investment Portfolios are the largest by occurrence (29.6%).
 Holding Company in Non-IOM Real Estate is the second-largest (21.0%).
-## _5.4.4 Threats and mitigants_
+_5.4.4 Threats and mitigants_
 19.0% of all foreign PEPs on the IOM with a TCSP connection are associated with foreign companies.
 Of these FPEPs: 11.0% exercise indirect control as a controller of an entity higher up the ownership structure; 7.5% exercise direct control through an ownership interest; and 0.5% are a significant person – i.e., a company director.
 The jurisdiction of the principal activity was assessed to better understand the jurisdictional risk that foreign companies potentially import into the IOM and which the IOM exports back to the jurisdiction (see Figure 5-15).
 The USA and UK were the most frequently reported jurisdictions (21.5%) for principal activity, followed by the IOM (16.5%) and Spain (10.2%).
-## _5.4.5 Overall risk level for foreign companies_
+_5.4.5 Overall risk level for foreign companies_
 proceeds of crime/terrorist financing is at a moderate level of 9.0%.
 Only the BVI, which is a List B(i) jurisdiction, appears in the top 11.
-## SCALE
+SCALE
 2,332 foreign companies (as of 31st December 2024) were recorded by the TCSP sector in the TCSP 2025 LPA Return.
 This represents 5.81% of all LPAs and 63.7% of foreign legal persons.
 The number of new registrations is not recorded by the Companies Registry, though they are collated by the FSA from the TCSP sector.
 Figure 5-4 shows that the numbers are slowly reducing, but not as quickly as for the other two foreign legal person types.
-## CROSS-BORDER RISK EXPOSURE
+CROSS-BORDER RISK EXPOSURE
 Using the principal activity data from the TCSP sector, the level of exposure to jurisdictions which are susceptible to the Where the TCSPs have reported on jurisdictions of bank account (Figure 5-9), these are in the IOM (4.6% of a total of 13.6%) or other jurisdictions including the USA (3.7%), UK (1.7%), and Switzerland (1.1%).
-## EFFECTIVENESS OF INTERNAT IONAL COOPERATION WITH FOREIGN JURISDICTIONS
+EFFECTIVENESS OF INTERNAT IONAL COOPERATION WITH FOREIGN JURISDICTIONS
 In the recently published TF NRA, the national vulnerability for effectiveness of international cooperation was scored as 0.7.
 The World Bank analysis for foreign companies looked at the cooperation through informal channels as well as cooperation through MLAs.
-## ATTRACTIVENESS FOR USE IN THE IOM
+ATTRACTIVENESS FOR USE IN THE IOM
 The tax attractiveness is not applicable as they are not liable for IOM tax.
-## BASIC AND BENEFICIAL OWNERSHIP INFORMATION
+BASIC AND BENEFICIAL OWNERSHIP INFORMATION
 Foreign companies are not captured by the BOA, nor by ITD requirements.
 Beneficial ownership and due diligence data is held by the TCSPs.
 PIMLIT’s investigations do include foreign legal persons.
-## OVERALL
+OVERALL
 Foreign companies represent the largest population of foreign legal persons and are therefore the most significant group.
 There is reliance upon the TCSP sector for due diligence, with no central authority holding any information on these companies.
 Therefore, if TCSP oversight weakens, systemic risk across the IOM increases.
-## ML/TF CASES, TYPOLOGIES, AND INCIDENCE
+ML/TF CASES, TYPOLOGIES, AND INCIDENCE
 The volume of SARs expressly referencing foreign companies is not captured by the FIU.
 The overall risk rating for ML is Medium High and the TF risk rating is Medium Low.
 The number of inbound MLAs is recorded for foreign legal persons overall (9.5%), though specific foreign companies data is not available.
-## 5.5 Summary: Foreign legal persons
-# CHAPTER 6 - Domestic and Foreign Legal Arrangements
+5.5 Summary: Foreign legal persons
+CHAPTER 6 - Domestic and Foreign Legal Arrangements
 Domestic and foreign legal arrangements
-## 6.1 Introduction
+6.1 Introduction
 Trusts separate the legal ownership of a variety of assets from the right to use and benefit from those assets.
 The formation of a trust involves the settlor transferring ownership of the asset(s) to a chosen trustee(s), who is then responsible for holding and managing those assets for the beneficiaries.
 The settlor outlines in the trust deed or declaration of trust – a legal document – the terms of the trust. c) the trustee has the power and the duty, in respect of which he is accountable, to manage, employ or dispose of the assets in accordance with the terms of the trust and the special duties imposed upon him by law.
 The reservation by the settlor of certain rights and powers, and the fact that the trustee may himself have rights as a beneficiary, are not necessarily inconsistent with the existence of a trust.”
-## DEFINITIONS
+DEFINITIONS
 In the FATF Glossary, “trustee” and “trust” are defined: “The terms trust and trustee should be understood as described in and consistent with Article 2 of the Hague Convention on the law applicable to trusts and their recognition .
 Trustees may be professional (e.g. depending on the jurisdiction, a lawyer or trust company) if they are paid to act as a trustee in the course of their business, or a non-professional who is not in the business of being a trustee (e.g. a person acting on behalf of family).
 Article 2 of the Hague Convention reads as follows: For the purposes of this Convention, the term “trust” refers to the legal relationships created – inter-vivos or on death - by a person, the settlor, when assets have been placed under the control of a trustee for the benefit of a beneficiary or for a specified purpose.
 A trust has the following characteristics -
-## THE FATF GLOSSARY DEFINES AN “EXPRESS TRUST”:
+THE FATF GLOSSARY DEFINES AN “EXPRESS TRUST”:
 “Express trust refers to a trust clearly created by the settlor, usually in the form of a document e.g. a written deed of trust.
 They are to be contrasted with trusts which come into being through the operation of the law and which do not result from the clear intent or decision of a settlor to create a trust or similar legal arrangements (e.g. constructive trust).”
-## WHY MIGHT A TRUST BE ESTABLISHED?
+WHY MIGHT A TRUST BE ESTABLISHED?
 The IOM’s trust law is founded on common law principles closely aligned with English trust law and is supplemented by local legislation including the Trustee Act 1961 and the Trusts Act 1995.
 A trust established under IOM law does not constitute a separate legal entity; rather, all trust-related activities are undertaken by the trustees, who hold legal title to the trust assets and act in accordance with the terms of the trust instrument. a) the assets constitute a separate fund and are not a part of the trustee’s own estate; b) title to the trust assets stands in the name of the trustee or in the name of another person on behalf of the trustee; The FSA regulates individuals and entities that provide trustee and related services in the course of business.
 Such providers are required to hold a Class 5 licence issued under the Financial Services Act 2008 (see Chapter 1.3).
@@ -2606,7 +2606,7 @@ Furthermore, undistributed income of an IOM trust may be subject to income tax w
 The FATF publication “Beneficial Ownership and Transparency of Legal Arrangements,” published in March 2024 , details some of the reasons why a trust might be set up: “12.
 Generally, trusts are categorised as trusts for persons (beneficiaries), or purposes (charitable or non-charitable) and have been used in some instances where otherwise available legal forms presented impediments or failed to accommodate specific economic endeavours.
 The reasons for the establishment or use of a trust may typically include: Asset protection (i.e., preserving assets from perceived future external risks, such as claims by creditors or risk of bankruptcy) Asset management (such as facilitating business continuity) Affording privacy (i.e., providing a layer of privacy, this may be considered important for cases such as the security and safety of high-profile individuals) Overcoming legal obstacles (such as requirements for residency) Tax planning, and optimisation (i.e., in some countries, trusts may be taxed at a different rate compared to companies or beneficiaries) Estate planning and succession (such as the death of a settlor, wasteful actions of the beneficiary and providing for a vulnerable beneficiary) Holding of an investment commercial vehicle (such as pension funds).”
-## LEGISLATION
+LEGISLATION
 Schedule 4 to the Proceeds of Crime Act 2008 applies to persons engaging in regulated activity as defined by the Financial Services Act 2008, whether an exemption is in place or not.
 This means that the AML/CFT Code 2019 applies in full to any person providing trustee and trust administration services to express trusts or similar arrangements by way of business.
 For any trusts not caught under Schedule 4 to POCA, the AML/ CFT (Unregulated Trustees) Code 2018 applies.
@@ -2621,19 +2621,19 @@ There is no statute which gives legal basis to the formation of a trust in the s
 There is also no express legal basis for a contract, will, or other legal arrangement; rather, the basis for trust is established in case law in the IOM and in England and Wales.
 The process for settling a trust is well established in common law, as it is across all common law jurisdictions, and is very well-known.
 To settle a trust, an individual needs only to seek advice from a professional adviser such as a legal adviser or a professional trustee, who will draft the necessary legal agreements (the trust deed) to settle a trust. _(a) the settlor;_ _(b) any co-trustee;_ _(c) the protector (if any);_ _(d) the beneficiaries;_ Case law from England and Wales is not binding on the Island’s Court; however, it is highly persuasive and the Courts will typically follow precedent unless IOM statute or its own precedent conflicts.
-## BASIC INFORMATION AND BENEFICIAL OWNERSHIP INFORMATION
+BASIC INFORMATION AND BENEFICIAL OWNERSHIP INFORMATION
 Paragraph 12(3) of the AML/CFT Code states that a relevant person must, in the case of a legal arrangement, identify and take reasonable steps to verify the identity of the beneficial owner. “(a) in the case of an express trust, by identifying - (i) the trustees or any other controlling party; (ii) any known beneficiaries; (iii) any class of beneficiaries and, in respect of a class of beneficiaries where it is not reasonably practicable to identify each beneficiary details sufficient to identify and describe the class of persons who are beneficiaries; _(e) and any other natural person exercising ultimate effective control over the trust._ _(2) In respect of a class of beneficiaries where it is not reasonably practicable to identify each beneficiary, details sufficient to identify and describe the class of persons who are beneficiaries.”_ The AML/CFT (Unregulated Trustees) Code 2018 defines an “unregulated trustee” as: _“ a trustee of an express trust that is governed by or otherwise subject to the law of the Island, who:_ _(a) is either resident in the Island or a foreign trustee;_ _(b) is not and is not required to be the holder of a licence issued under section 7 of the Financial Services Act 2008 which permits the holder to carry on the regulated activity (within the meaning of section 3(1) of that Act) of providing trust services; and_ _(c) who is not required to comply with the 2019 Code.”_ (iv) the protector (if any); (v) the enforcer (if any); (vi) the settlor, or other person by whom the legal arrangement is made or on whose instructions the legal arrangement is formed; and (vii) any other natural person exercising ultimate effective control over the trust traced through any number of persons or arrangements of any description; and (b) in the case of other types of legal arrangement by identifying any natural persons in equivalent or similar positions to those mentioned in head (a), traced through any number of persons or arrangements of any description.” Paragraph 5 of the AML/CFT (Unregulated Trustees) Code 2018 states: _“(1) An unregulated trustee must obtain and hold adequate, accurate and current information on the identity of -_ Consequently, the beneficial ownership requirements extend to all legal persons and arrangements to identify and take reasonable measures to verify the identification of the ultimate beneficial owner(s).
 Paragraph 41(6) of the AML/CFT Code 2019 and Paragraph 8(1) of the AML/CFT (Unregulated Trustees) Code 2018 requires that a trustee must disclose its status when entering into a business relationship or carrying out an occasional transaction with a DNFBP or FI.
 Paragraphs 41(2), (3), and (4) of the AML/CFT Code 2019 and paragraphs 9(2) and (3) of the AML/CFT (Unregulated Trustees) Code 2018 states that a trustee may disclose any information it holds to competent authorities, DNFBPs, and FIs.
 A simplified version of a trust structure is in Figure 6-1.
 The FATF Glossary defines “legal arrangements” as “…express trusts and other similar legal arrangements.
 Examples of other similar arrangements (for AML/CFT purposes) may include but are not limited to fiducie, certain types of Treuhand, fideicomiso and Waqf.” No such legal arrangements were identified in the IOM. sole trustee in 95.9% of occasions; natural person as a co-trustee in 2.0% of occasions; legal person as a co-trustee in 2.1% of occasions; revocable trust in 4.8% of occasions;
-## 6.2 Scale
+6.2 Scale
 formal PTC arrangement in 3.2% of occasions; trust containing an orphan structure in 1.0% of occasions; and As reported by the TCSP sector in the FSA 2024 AML/CFT return, there were 10,596 trusts managed/administered by the sector. a trust holding shares in a PTC in 0.6% of occasions.
 From the TCSP 2025 LPA Return, it was advised that there was a: corporate trustee in 99% of occasions; In addition to the trusts managed and administered by the TCSP sector, advocates may act as trustees where the activity is incidental to the primary service being provided.
 These tend to be will trusts for those beneficiaries with physical or mental capacity issues.
 From the FSA AML/CFT 2024 Return, the Legal Professionals sector reported that they had established 23 trusts in 2024.
-## 6.3 Use of trusts
+6.3 Use of trusts
 Trusts are used for a wide variety of purposes and in a range of structures.
 Examples will include: - For ships and aircraft, trusts may be used in leasing agreements or to hold assets.
 In the Insurance and Pensions sectors, life insurance wrappers and pension schemes often use trust structures for tax and succession planning.The legal sector will use them for vulnerable clients and for structuring cross-border transactions using IOM entities.
@@ -2657,13 +2657,13 @@ Overall, the country exposure for trusts to higher-risk jurisdictions is now lim
 Trusts can also be used as charitable trusts, which can be set up for an interest to be directed at a particular charitable purpose, rather than specific people as beneficiaries.
 They may exist as long as the charitable purpose also exists.
 From the NPO TF NRA, IOM trusts account for 20% of legal entity types for charities on the IOM.
-## BENEFICIAL OWNERSHIP
+BENEFICIAL OWNERSHIP
 The FATF publication “Beneficial Ownership and Transparency of Legal Arrangements,” published in March 2024 , states: _“22.
 Trusts may include a range of parties, including: (i) the settlor(s); (ii) the trustee(s); (iii) the protector(s) (if any); (iv) each beneficiary, or where applicable, the class(es) of beneficiaries and objects of a power; and (v) any other natural person(s exercising ultimate effective control over the arrangement._ _23.
 Countries should require trustees to obtain and hold adequate, accurate, and up-to-date beneficial ownership information of all the parties to the trust listed above ….”_ The IOM does not have a central register of trusts.
 However, basic and beneficial ownership information may be sourced by competent authorities from service providers including TCSPs, advisers, accountants, lawyers, and other FIs.
 As explained in Chapter 3.3.9.4, under the Financial Services Act 2008, Insurance Act 2008, Designated Businesses (Registration and Oversight) Act 2015, and the Financial Intelligence Unit Act, competent authorities have the power to obtain information from a wide range of persons (natural and legal).
-## PRIVATE TRUST COMPANIES
+PRIVATE TRUST COMPANIES
 Private trust companies are specialised entities typically structured as companies.
 They are formed with the specific purpose of acting as trustees for one or more trusts, usually serving a single family or a closely-related group.
 Some clients do not wish to transfer ownership of their assets into a trust, with the trustees then making all the decisions.
@@ -2683,14 +2683,14 @@ Globally, PTCs are more prevalent in jurisdictions like the Cayman Islands, Berm
 The FSA has issued sector-specific guidance notes on PTCs.
 The requirements of the AML/CFT Code apply to any activities that are exempted from the Financial Services Act 2008.
 This includes PTCs which are acting by way of business and availing themselves of the regulatory exemption for PTCs. (Single Family Offices who are not acting by way of business are not caught by Schedule 4 to POCA and therefore do not have to comply with the AML/CFT Code; however, they must comply with the AML/CFT (Unregulated Trustees) Code 2018.)
-## 6.4 Threats and mitigants
+6.4 Threats and mitigants
 PTCs must be administered by a licensed TCSP and are therefore customers of TCSPs, to which the requirements of the Code must be applied, making them subject to review for compliance with the AML/CFT Code 2019 by the FSA through its supervisory activities.
 TCSPs are required to report the names and number of trustee appointments for each PTC it administers in the Annual Fiduciaries Return to the FSA.
-## LAW ENFORCEMENT DATA
+LAW ENFORCEMENT DATA
 LEAs analysed their data for incidence of trusts appearing in investigations.
 As for legal persons, the way data is captured across the LEAs did not always allow for readily extractable data showing the legal entity type.
 Within the SAR data, the FIU identified that 14% of the overall SARs made reference to a trust being part of the structure; this was 5.5% for inward MLAs identified by the AGC.
-## TRUSTS WITHIN STRUCTURES
+TRUSTS WITHIN STRUCTURES
 The TCSP 2025 LPA Return detailed the use of trusts in structures with a legal person. 23.5% of structures containing a legal person also had an IOM trust, and 18.9% had a non-IOM trust.
 Often, the trust is at the top of the structure.
 The trust might be at the top as a tax deferral mechanism to allow investments to grow gross of tax.
@@ -2702,14 +2702,14 @@ There are also occasions wherein a wealthy individual does not have the time/inc
 Many of PIMLIT’s investigations have a trust as part of the structure that they are reviewing.
 There have been no specific prosecutions or convictions of trusts, but trusts have been involved in prosecution and conviction cases.
 Overall, the LEA data shows a medium incidence of trusts implicated in ML cases; there have been no TF cases.
-## CROSS-BORDER
+CROSS-BORDER
 A comparison was undertaken of the jurisdiction of the asset, compared with the nationality of the distribution.
 This was then compared with the nationality of the trust parties, by higher-risk Lists A and B.
 It is observed that, whilst a very small percentage (2.6%) of the underlying assets are located in higher-risk jurisdictions, a greater percentage of the distribution by nationality (15.5%) and trust parties by nationality (12.0%) are from higher-risk jurisdictions.
 This correlates to the usage of trusts in the IOM being partly used by those in higher-risk jurisdictions, where the features of a trust structure in the IOM are compelling to them.
 Many of PIMLIT’s investigations have a trust as part of the structure that they are reviewing.
 There have been no specific prosecutions or convictions of trusts, but trusts have been involved in prosecution and conviction cases..”
-## NON-TCSP TRUSTEES
+NON-TCSP TRUSTEES
 Acting as a trustee by way of business is a regulated activity as defined by the Financial Services Act 2008 and therefore the operation of many will sit within the TCSP sector (see Chapter 6.1).
 Certain parties may be permitted to act as trustee by way of business utilising the applicable exemption(s) provided in the Financial Services (Exemptions) Regulations 2011 – for example, ‘deminimis activities.’ These parties must be a specified person (as defined) and are still obliged to comply with the AML/CFT Code.
 The FSA still has supervisory powers over any party utilising an exemption; however, they would not fall into the FSA’s routine supervisory plan for AML/CFT compliance unless they are otherwise registered with the FSA as a DNFBP.
@@ -2717,7 +2717,7 @@ This approach has been deemed acceptable on the Island following a risk assessme
 This particular exemption was assessed as presenting a lower risk of ML/TF.
 However, an action is recommended to continue to monitor those specified persons utilising such exemptions not subject to routine supervision by the FSA.
 Trustees who are not acting by way of business (i.e., not utilising an exemption or not as part of a TCSP service) are subject to the AML/CFT (Unregulated Trustees) Code 2018 in relation to trusts governed by or otherwise subject to the law of the Island.
-## REVOCABLE TRUSTS
+REVOCABLE TRUSTS
 A revocable trust is a trust that may, under the law of any country, be revoked by the settlor (in whole or in part) to provide for the withdrawal of some or all of the assets in the trust or for the transfer of part or all of the assets in the trust to a third party at any point; terminated by the settlor at any point; or that is set up to terminate automatically at a specific date.
 The Tax Justice Network report “Trusts: Weapons of Mass Injustice?”, published February 2017, states: “A revocable trust can be revoked and the money returned to the settlor.
 This is abusive because the settlor’s ‘giving away’ of the assets is the essence of the trust, creating a barrier between the settlor and the assets.
@@ -2728,46 +2728,46 @@ Figure 6-10 shows the residency of the settlor of the revocable trust.
 The largest concentrations of settlors are in Venezuela (0.45%), the UK (0.39%), Brazil (0.27%), the Philippines (0.22%), and Mexico (0.21%).
 The FSA-issued guidance highlights other risk factors specific to the TCSP sector.
 Revocable trusts could exhibit some of these risk factors.
-## ZOMBIE TRUSTS
+ZOMBIE TRUSTS
 “Zombie trusts” are so-called because they are legally alive but practically dead.
 These trusts still exist on paper, hold assets, and have obligations, but they have lost their managers or authorised signatories, often due to mass resignations triggered by sanctions or legal risks.
 This has become an emerging threat in some jurisdictions, although it is not a known issue in the IOM.
-## DISCRETIONARY TRUSTS
+DISCRETIONARY TRUSTS
 The UK ML/TF NRA highlights the possible risks from discretionary trusts: _“3.123 Some Jersey trusts have featured in complex corporate networks, covering several jurisdictions and associated predicate crimes including suspected fraud and corruption.
 Approximately half of Jersey trusts (50.8%) are discretionary trusts.
 Discretionary trusts are likely to be favoured by criminals as they afford greater autonomy to the trustee, thereby further distancing the settlor from the assets.”_ Approximately 41% of IOM trusts reported in the TCSP 2025 LPA Return are discretionary, and these discretionary trusts hold 78.5% of total trust assets reported.
 There is no data readily available from LEAs to identify what type of trust appears in the SARs/MLAs/investigations/prosecutions.
 However, given the high percentage of discretionary trusts in the IOM, the assumption is that there will be these in the LEA cases.
 Discretionary trusts are used in the Island for the reasons outlined in section 6.3 above, and this approach is understood on the IOM.
-## MULTIPLE LAYERS
+MULTIPLE LAYERS
 The FATF Guidance on Beneficial Ownership and Transparency of Legal Arrangements, published March 2024 , reviews the understanding and assessment of the risks associated with trusts and similar arrangements: “Moreover, ML/TF risks associated with trusts sometimes derive from the multiple layers and distance that can be created between the beneficiary and the other parties to the legal arrangements, as well as the multi-jurisdictional elements that increase challenges for identification, overall collection and verification of information, and international co-operation (e.g., when the place of administration, location of the trust asset, and residences of the trustee/ settlor and/or beneficiary are in separate jurisdictions)” The threats from multiple layers across legal persons and legal arrangements are considered in Chapter 2 .
-## 6.5 Overall risk level for trusts
-## ML/TF CASES AND TYPOLOGIES
+6.5 Overall risk level for trusts
+ML/TF CASES AND TYPOLOGIES
 The volume of SARs referencing a trust is 14%; the number of MLAs is lower at 5.5%.
 Many of PIMLIT’s investigations have a trust in the overall structure.
 Given that trusts are the second most frequently used legal person or arrangement, they are potentially impacted by the typologies described in Chapter 2.
-## SCALE
+SCALE
 Numbering 10,596 on the Island, trusts are the second largest category of LPAs, after 1931 Act companies and greater than 2006 Act companies.
-## CROSS-BORDER RISK EXPOSURE
+CROSS-BORDER RISK EXPOSURE
 73.0% of trust assets are located in the IOM.
 Of the total trust assets, 44.5% are IOM life policies.
 The IOM, UK, and Ireland account for 87.5% of all assets.
 The IOM and UK also account for 89.7% of the governing jurisdiction of trusts.
-## OVERALL
+OVERALL
 The overall risk rating for ML is Medium High and the overall risk rating for TF is Medium.
-## 6.6 Summary: Domestic and foreign legal arrangements
+6.6 Summary: Domestic and foreign legal arrangements
 List B exposure is focused on the nationality and residency of the trust parties and the distribution from trusts.
-## EASE, SPEED, AND COSTS OF FORMATION AND REGISTRATION AND OTHER PRACTICAL MATTERS
+EASE, SPEED, AND COSTS OF FORMATION AND REGISTRATION AND OTHER PRACTICAL MATTERS
 Trusts are not registered with the Companies Registry, so the primary fees are for setting up (and servicing) the trust with professional advisers and TCSPs.
 Domestic and foreign legal arrangements were not split out in the data requested from the TCSP sector and therefore have been presented combined in this risk assessment.
 Consideration could be given to seeking greater granularity in any possible future requests.
 The overall risk score is in Figure 6-11.
-## BENEFICIAL OWNERSHIP INFORMATION
+BENEFICIAL OWNERSHIP INFORMATION
 The IOM does not have a central register for trusts.
 However, the TCSP will have details on a range of partes, including: (i) the settlor(s); (ii) the trustee(s); (iii) the protector(s) (if any); (iv) each known beneficiary – or, where applicable, the class(es) of beneficiaries and objects of a power; and (v) any other natural person(s) exercising ultimate effective control over the arrangement.
-# CHAPTER 7 - Limited Partnerships Without Legal Personality and General Partnerships
+CHAPTER 7 - Limited Partnerships Without Legal Personality and General Partnerships
 Limited partnerships without legal personality and general partnerships
-## INTRODUCTION
+INTRODUCTION
 Limited partnerships without legal personality are governed by the Partnership Act 1909.
 The partnership cannot own assets or incur liabilities in its own name and assets/liabilities are held directly by the partners.
 Notwithstanding the registration requirements with the Companies Registry, the partnership is not a separate legal entity.
@@ -2792,7 +2792,7 @@ The tax return requests details of the partners, partnership income, and partner
 Apart from flexibility, many of the benefits of limited partnerships relate to the structure’s separation between management and ownership.
 This gives the entity the ability to raise capital without giving up control.
 Uses of this feature include: investments, such as hedge funds, exempt funds, or even direct trading into securities and other assets; commercial and residential property; luxury/depreciating assets; or operational and tax transparency (paying personal rates of taxation rather than corporate rates).
-# CHAPTER 8 - Collective Investment Schemes
+CHAPTER 8 - Collective Investment Schemes
 Collective investment schemes
 Collective investment schemes are defined in the Collective Investment Schemes Act 2008 as: _“arrangements with respect to property of any description, including money, the purpose or effect of which is to enable persons taking part in the arrangements (whether by becoming or being owners of the property or any part of it or otherwise) to participate in or receive profits or income arising from the acquisition, holding, management or disposal of the property or sums paid out of those profits or income.”_ A CIS is specified as a ‘business in the regulated sector’ under Schedule 4 to the Proceeds of Crime Act 2008 and is subject to the requirements of the AML/CFT Code (as a ‘relevant person’).
 The governing body is responsible for a scheme’s compliance with all relevant provisions of the AML/CFT Code.
@@ -2814,49 +2814,49 @@ One fund functionary will typically hold due diligence, usually the administrato
 The risk from CISs being exempted from the Beneficial Ownership Act is deemed to be Low.
 The impacted schemes will be exempt schemes and the competent authorities can obtain beneficial ownership information from the Class 3 licensee if information is required for intelligence or investigation purposes.
 This position can be reviewed in the future if there is any subsequent evidence of these schemes being used for illegal activity.
-# CHAPTER 9 - The Impact of Artificial Intelligence on Legal Persons and Arrangements
+CHAPTER 9 - The Impact of Artificial Intelligence on Legal Persons and Arrangements
 The impact of Artificial Intelligence on Legal Persons and Arrangements
-## 9.1 Introduction
+9.1 Introduction
 The development of artificial intelligence is reshaping the financial crime landscape.
 For jurisdictions with a large cross-border client base and a sophisticated TCSP sector, AI represents an opportunity to strengthen detection, but also results in a set of new and fastmoving threats.
 International bodies, including the FATF, the Egmont Group, and Europol, note that data-driven analytics, machine learning, and collaborative analysis can materially improve the effectiveness of AML/CFT, while simultaneously recognising that criminals are using generative AI (GenAI) and synthetic media (deepfakes) to defeat onboarding, identity verification, and ongoing monitoring controls.
 The IOM’s risk profile is characterised by a predominance of non-resident customers, exposure to foreign predicate offences, and the frequent use of multi-jurisdictional structures administered by professional intermediaries.
 AI-enabled obfuscation therefore compounds risks already identified in this NRA, particularly where structures are complex and span several jurisdictions.
-## 9.2 AI-driven risks for LPAs
-## SYNTHETIC IDENTITIES AND
-## DOCUMENT MANIPULATION
+9.2 AI-driven risks for LPAs
+SYNTHETIC IDENTITIES AND
+DOCUMENT MANIPULATION
 Deepfake media and synthetic content can be used to create, alter, or mimic identification documents and pass remote “know your customer” and liveness checks during company formation or onboarding with TCSPs and FIs.
 The US Financial Crimes Enforcement Network has flagged rising deepfake-enabled fraud targeting FIs, including altered IDs and synthetic audio/video used to circumvent authentication.
 Open-source research shows a marked uptick in deep-fake attempts against CDD processes.
-## AUTOMATED OBFUSCATION OF OWNERSHIP AND CONTROL
+AUTOMATED OBFUSCATION OF OWNERSHIP AND CONTROL
 AI can rapidly generate or recommend layered ownership chains across multiple jurisdictions (including the use of foreign legal persons), exploit nominee arrangements, and adapt structures dynamically to frustrate beneficial ownership tracing.
 This risk interacts with the known vulnerabilities of complex, multijurisdictional structures already highlighted in this NRA.
-## AI-ASSISTED TRADE-BASED AND INVOICE FRAUD
+AI-ASSISTED TRADE-BASED AND INVOICE FRAUD
 Generative models can fabricate highly realistic invoices, bills of lading, and corporate communications to support sham transactions or circular flows through LPA structures, increasing the risk of trade-based money laundering linked to IOM-administered structures.
 Europol reports that GenAI lowers the barrier to falsifying documentation used in fraud and laundering schemes.
-## REALTIME EVASION OF MONITORING AND SANCTIONS SCREENING
+REALTIME EVASION OF MONITORING AND SANCTIONS SCREENING
 AI can test, learn from, and adapt to transaction monitoring thresholds and sanctions screening, enabling rapid layering through complex structures.
 The FATF’s digitalisation work underscores the dual nature of advanced analytics which can be powerful for both defenders and adversaries.
-## 9.3 Emerging typologies relevant to the IOM
-## AI-ASSISTED SHELL NETWORKS
+9.3 Emerging typologies relevant to the IOM
+AI-ASSISTED SHELL NETWORKS
 Multiple companies can be created across jurisdictions including the IOM, with synthetic directors/beneficiaries and staged transactions to simulate commercial purpose, followed by rapid dissolution once funds exit.
 This builds directly on typologies already observed regarding foreign ownership/control and multijurisdictional splitting.
-## DEEPFAKE-ENABLED ONBOARDING
+DEEPFAKE-ENABLED ONBOARDING
 Criminals use faceswap tools and virtual cameras to bypass liveness checks with TCSPs or banks in order to obtain services for a newly-formed company.
 The FATF document “Horizon Scan: Artificial Intelligence and Deepfakes” states: “Artificial intelligence and deepfake technologies are reshaping the financial crime landscape, introducing both unprecedented risks and new opportunities for detection and prevention.
 As these tools become more accessible and sophisticated, they challenge existing AML/CFT/CPF frameworks, particularly in areas like customer due diligence, identity verification, and transaction monitoring.
 The FATF’s horizon scan on this topic underscores the need for enhanced vigilance and continuous innovation.
 To stay ahead of evolving threats, stakeholders must not only strengthen safeguards but also harness AI responsibly to reinforce the integrity of the global financial system.”
-## AI-CURATED NOMINEE ECOSYSTEMS
+AI-CURATED NOMINEE ECOSYSTEMS
 AI can assist with automated identification of jurisdictions with weaker enforcement, coordinated use of foreign legal persons and non-professional trustees, and algorithmic rotation of “fronts” (e.g., nominee shareholders), complicating BO tracing.
-## AI-AMPLIFIED SANCTIONS EVASION
+AI-AMPLIFIED SANCTIONS EVASION
 AI can assist with dynamic restructuring of ownership/control in response to sanctions updates, coupled with AI-generated paperwork to disguise asset provenance or control (e.g., aircraft, yachts, or high-value property held within IOM-related structures).
-## THE USE OF AI FOR NARRATIVE LAUNDERING
+THE USE OF AI FOR NARRATIVE LAUNDERING
 AI can be used to publish articles, blog posts, even entire websites just to have one post or article within it that is picked up by search tools, with the intention of cleaning a false narrative.
 This is sometimes referred to as “narrative layering,” and while the practice is nothing new, AI amplifies the threat.
 This could be used to fabricate a company’s commercial rationale, trading history, or beneficial owner background and create supporting ‘open-source’ evidence that appears during due diligence checks.
 The risk can be mitigated by the staff in firms having an awareness of the threat.
-## 9.4 Opportunities for AI to strengthen mitigation
+9.4 Opportunities for AI to strengthen mitigation
 Supervisors, FIUs, and supervised entities can use machine learning to prioritise higher-risk structures, detect anomalous beneficial ownership patterns, and identify cross-firm typologies.
 Egmont states : _“Technology has immense potential to increase the efficiency of AML/ CFT workflows and the effectiveness of AML/CFT efforts.
 In recent years, operational agencies across the FATF Global Network and the Egmont Group, regardless of their development and size, have been incorporating different digital tools to assist their operational efforts.
@@ -2868,7 +2868,7 @@ The UK NRA states: “As set out in the AI Opportunities Action Plan the capabil
 This applies to the prevention of money laundering and terrorist financing.
 Unfortunately, as with many other useful forms of technology, AI can also be abused for criminal purposes.
 Whilst criminals will continue to use proven methods they also seek to adapt to new opportunities.”
-## 9.5 Assessment of threats, vulnerabilities, and impact
+9.5 Assessment of threats, vulnerabilities, and impact
 Threat:
 AI accelerates external, cross-border ML threats by enabling scalable identity and document fraud, faster layering, and adaptive evasion.
 This aligns with the NRA’s finding that ML threat is primarily external and linked to foreign predicate offences.
@@ -2882,7 +2882,7 @@ Pace of change: AI is advancing faster than control environments.
 Impact:
 If not mitigated, AI-enabled abuse could increase the share of LPAs in SARs and MLA requests relative to their customer base proportion and raise remediation costs across the TCSP sector (CDD refresh, beneficial ownership discrepancy handling, and sanctions screening).
 This could also elevate reputational risk given the IOM’s status as an IFC.
-## 9.6 Possible actions
+9.6 Possible actions
 The FIU could issue typologies and red flag indicators for deepfake/synthetic identity, AI-assisted nominee misuse, and AI-enabled trade documentation fraud.
 Across the IOM, consideration could be given to uplifting knowledge in the skills and tools (such as adversarial testing) required to detect and prevent criminal activity using AI.
 This would be aimed at both agencies and industry.

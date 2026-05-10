@@ -118,6 +118,7 @@ def clean_md(input_path, output_path):
         r"^## A Registered Agent is not required\.\s*\n", "", text, flags=re.MULTILINE
     )
     text = re.sub(r"^#{1,6}\s*●\s*", "", text, flags=re.MULTILINE)
+    text = re.sub(r"^#{1,6}\s*", "", text, flags=re.MULTILINE)
 
     Path(output_path).write_text(text)
 
